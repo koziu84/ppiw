@@ -1,0 +1,242 @@
+script####<script Language="JavaScript1.1">function enlarge_picture(picture_path, wwidth, wheight, wdescription){EnlargedWindow=window.open('', '','width='+wwidth+',height='+wheight+',toolbar=no,directories=no,menubar=no,locations=no,status=no,scrollbars=no,resizable=no,screenX=10,screenY=10,fullscreen=no'); EnlargedWindow.document.open(); EnlargedWindow.document.writeln("<html>\n<head>\n</head>"); EnlargedWindow.document.writeln("<title>Powiêkszony obrazek</title>"); EnlargedWindow.document.writeln("<body leftmargin=0 topmargin=0 style=\"font-family:Arial, Helvetica, sans-serif; font-size:11pt; background-color:#ffffff; background: url(_images/layout/bg.jpg) fixed repeat-x top\">"); EnlargedWindow.document.writeln("<table width=100% height=100% style=\"font-family:Arial, Helvetica, sans-serif; font-size:11pt;\">"); EnlargedWindow.document.writeln("<tr><td valign=center align=center>\n<a href=\"javascript:window.close();\" title=\"Zamknij okno\"><img src="+picture_path+" style=\"border-width: 1px; border-color: #CCCCCC; border-style: solid;\"></a></td></tr>"); EnlargedWindow.document.writeln("<tr><td align=center style=\"font-family:Arial, Helvetica, sans-serif; font-size:10pt; font-color:#000022; background-color:#ffffff\">"+wdescription+"\n</td></tr>"); EnlargedWindow.document.writeln("</table>"); EnlargedWindow.document.writeln("</body>\n</html>\n"); EnlargedWindow.document.close(); EnlargedWindow.focus(); return;}</script>
+par####justify####Pani <b>Ma³gorzata Kapelañska</b> &#8211; nauczycielka Spo³ecznej Szko³y Podstawowej nr&nbsp;1 im.&nbsp;¶w.&nbsp;Urszuli Ledóchowskiej STO w&nbsp;Poznaniu. Wychowawca, praktyk z&nbsp;23-letnim sta¿em pracy. Celowo¶æ swoich dzia³añ pedagogicznych okre¶la sama s³owami Carla Rogera: &#8222;Wiem, ¿e&nbsp;nie mogê nauczyæ nikogo niczego. Mogê jedynie zapewniæ warunki, w&nbsp;których mo¿na siê nauczyæ.&#8221;
+par####justify####Prezentujemy wybrane prace uczniów pani Ma³gorzaty Kapelañskiej. Odzwierciedlaj± one to, jak nauczyciel potrafi zainspirowaæ dzieci do dzia³ania. Jeste¶my pod urokiem Jej zawodowej pasji. Pani Ma³gorzata zaskakuje nas ogromn± wiedz±, wieloma umiejêtno¶ciami i&nbsp;ci±g³ym poszukiwaniem nowych form pracy. Owoce jej pracy potwierdzaj±&nbsp;to, ¿e&nbsp;warto siaæ pomys³y, ¿eby ogl±daæ wielkie rzeczy, w&nbsp;które te pomys³y siê zamieniaj±.
+par####justify####Jak wychowankowie p.&nbsp;Ma³gorzaty z&nbsp;klasy&nbsp;IIa (rok szkolny 2000/01) wspominaj± wakacje?
+thumb####center####2####_images/content/zaprezentuj_sie/mk01/####thumb_17.jpg####thumb_18.jpg####Julia####Ania####none####0px####0px####center
+par####justify####W&nbsp;roku szkolnym ka¿dego dnia towarzyszy dzieciom podczas zajêæ Figielek. Co&nbsp;my¶l± o&nbsp;Figielku i&nbsp;jak go widz± uczniowie z&nbsp;klasy&nbsp;IIIc (rok szkolny 2006/07) &#8211; oto wybrane prace:
+thumb####center####3####_images/content/zaprezentuj_sie/mk01/####thumb_19.jpg####thumb_30.jpg####thumb_29.jpg####Wiktoria####Edgar####Julia####none####0px####0px####center
+thumb####center####2####_images/content/zaprezentuj_sie/mk01/####thumb_31.jpg####thumb_20.jpg####Zuza####Ania####none####0px####0px####center
+par####justify####Listy dzieci do ciszy zainspirowane zosta³y rozmow± na&nbsp;temat szkodliwo¶ci ha³asu podczas przerw. St±d pomys³ pod&nbsp;wp³ywem chwili. Wk³adaj±c w³asn± aktywno¶æ w&nbsp;pracê rysunkow± czy&nbsp;pisemn±, uczniowie staraj±&nbsp;siê pamiêtaæ zasady zachowania ciszy i&nbsp;przestrzegaæ ich. Oto prace z&nbsp;klasy&nbsp;IIIa (rok szkolny 2001/02):
+thumb####center####2####_images/content/zaprezentuj_sie/mk01/####thumb_28.jpg####thumb_27.jpg####Wiktoria####Emilka####none####0px####0px####center
+thumb####center####2####_images/content/zaprezentuj_sie/mk01/####thumb_26.jpg####thumb_25.jpg####Max####Agata####none####0px####0px####center
+thumb####center####2####_images/content/zaprezentuj_sie/mk01/####thumb_24.jpg####thumb_23.jpg####Gianluca####Ania####none####0px####0px####center
+thumb####center####1####_images/content/zaprezentuj_sie/mk01/####thumb_22.jpg####Julia####none####0px####0px####center
+par####justify####A&nbsp;oto regulaminy dobrego zachowania stworzone przez same dzieci z&nbsp;klasy&nbsp;IIa (rok szkolny 2000/01):
+thumb####center####3####_images/content/zaprezentuj_sie/mk01/####thumb_14.jpg####thumb_15.jpg####thumb_16.jpg####Igna¶####Monika####Ania####none####0px####0px####center
+par####cite_letter####Uczestnictwo w&nbsp;zajêciach edukacyjnych, których uwieñczeniem s± powy¿sze prace moich wychowanków, sprawi³o mi satysfakcjê. Jednak to nie satysfakcja z&nbsp;wykonywanej pracy liczy siê najbardziej, lecz refleksja na temat sposobu wcielania w&nbsp;¿ycie idei &#8222;Uczyæ&nbsp;siê, aby ¿yæ wspólnie z&nbsp;innymi, poprzez wzbogacenie wiedzy o&nbsp;innych, ich historii, tradycji, duchowo¶ci&#8221;. Przypomina&nbsp;mi&nbsp;siê jedna z&nbsp;bajek La&nbsp;Fontaine&#8217;a &#8211; &#8222;Oracz i&nbsp;jego dzieci&#8221;: &#8222;Nie wyzbywajcie&nbsp;siê Ojcowizny, jak± pozostawili nam przodkowie &#8211; rzecze oracz &#8211; wszak w&nbsp;niej jest ukryty skarb&#8221;.
+par####cite_letter####Spotykam&nbsp;siê z&nbsp;oczekiwaniem, ¿e&nbsp;zaradzê s³abo¶ciom innych instytucji, na&nbsp;których spoczywa obowi±zek wychowania i&nbsp;kszta³cenia dzieci. Mam do czynienia z&nbsp;dzieæmi s³abiej nadzorowanymi przez rodzinê, ruchy religijne. Biorê to pod uwagê, staram&nbsp;siê, by dzieci s³ucha³y mnie i&nbsp;rozumia³y, chêtniej uczy³y&nbsp;siê, bym mog³a im wyja¶niæ, ¿e&nbsp;informacja nie jest wiedz±, gdy¿ ta ostatnia wymaga wysi³ku, skupienia, dyscypliny i&nbsp;woli.
+par####justify####Zabawa w&nbsp;figury geometryczne &#8211; dzie³a uczniów z&nbsp;klasy&nbsp;IIc (rok szkolny 2002/03):
+thumb####center####2####_images/content/zaprezentuj_sie/mk01/####thumb_11.jpg####thumb_10.jpg####Karol####Paulina####none####0px####0px####center
+thumb####center####1####_images/content/zaprezentuj_sie/mk01/####thumb_09.jpg####Dawid####none####0px####0px####center
+
+par####cite_letter####Podstawowym celem nauczania matematyki jest przekazywanie tre¶ci okre¶lonych programem nauczania oraz kszta³towanie w trakcie jego realizacji po¿±danych postaw. Chodzi tu g³ównie o aktywno¶æ twórcz± i wdra¿anie do samodzielnego pokonywania trudno¶ci w uczeniu siê matematyki.
+par####cite_letter####Nauczanie matematyki na I etapie kszta³cenia zintegrowanego nie stanowi wyodrêbnionego cyklu kszta³cenia matematycznego. Poprzedza go wstêpne kszta³towanie pojêæ matematycznych w przedszkolu oraz stopniowe przechodzenie do metod pracy uwzglêdniaj±cych pe³n± matematyzacjê<a href="#note01"><sup>1</sup></a>.
+par####cite_letter####Dzieciêce spotkania z problemami matematycznymi rozwi±zywane w klasie musz± odzwierciedlaæ konkretne zainteresowania uczniów, a jednocze¶nie musz± mieæ zwi±zek z&nbsp;¿yciem i jego dzisiejszymi oraz przysz³ymi potrzebami.
+par####cite_letter####St±d te¿ realizujemy program nauczania elastycznie, uwzglêdniaj±c korelacjê miêdzy ró¿nymi dzia³ami matematyki, a tak¿e miêdzy tre¶ciami podstawowymi, wspieraj±cymi, propedeutycznymi i stymuluj±cymi. Metody nauczania &#8211; uczenia siê dostosowujê do indywidualnych potrzeb uczniów, a wymagania stawiam nieco wy¿ej od ich mo¿liwo¶ci &#8211; po to, aby podnosiæ poziom mo¿liwo¶ci. Zapewniam w ten sposób rozwój uczniów zdolnych, przeciêtnych i s³abych.
+par####cite_letter####Program nauczania matematyki uwzglêdnia cztery nastêpuj±ce rozdzia³y<a href="#note02"><sup>2</sup></a>:
+ol####new####Left-i
+ol####next####Left-i####Cele kszta³cenia i wychowania.
+ol####next####Left-i####Tre¶ci nauczania (dla poszczególnych klas, podzielone na dzia³y).
+ol####next####Left-i####Zagadnienia zwi±zane z realizacj± programu.
+ol####next####Left-i####Uwagi o realizacji programu (z kolejn± numeracj± uwag w poszczególnych klasach do przypisów zawartych w dzia³ach programu).
+ol####end
+par####cite_letter####Ogólne cele nauczania matematyki na I etapie kszta³cenia zintegrowanego mo¿na podzieliæ na dydaktyczne i wychowawcze.
+par####cite_letter####Do ogólnych celów dydaktycznych zaliczamy:
+ol####new####Left-i
+ol####next####Left-i####Przyczynianie siê do wszechstronnego rozwoju osobowo¶ci uczniów, w tym przede wszystkim:
+ol####new####Left-ai
+ol####next####Left-ai####rozwijanie ich ogólnych zdolno¶ci poznawczych,
+ol####next####Left-ai####rozwijanie samodzielnego, logicznego my¶lenia.
+ol####end
+ol####next####Left-i####Wstêpne ukszta³towanie rozumienia podstawowych pojêæ matematycznych.
+ol####next####Left-i####Opanowanie odpowiednich umiejêtno¶ci.
+ol####end
+par####cite_letter####Zakres ogólnych celów wychowawczych program nauczania wyznacza przez:
+ol####new####Left-i
+ol####next####Left-i####Wdra¿anie uczniów do rzetelnej i sumiennej pracy w³asnej.
+ol####next####Left-i####Wdra¿anie do wspó³dzia³ania w zespole.
+ol####next####Left-i####Przyczynianie siê do wyrabiania po¿±danych postaw i cech, takich jak:
+ol####new####Left-ai
+ol####next####Left-ai####umiejêtno¶æ koncentracji,
+ol####next####Left-ai####wytrwa³o¶æ w przezwyciê¿aniu trudno¶ci,
+ol####next####Left-ai####staranno¶æ,
+ol####next####Left-ai####krytyczny stosunek do wykonywanej pracy.
+ol####end
+ol####end
+par####cite_letter####Cele szczegó³owe z kolei dotycz± zarówno zakresu tre¶ci nauczania, jak i rozwijania pewnych cech ogólnych na rzecz uczenia siê matematyki. Zaliczamy do nich:
+ol####new####Left-i
+ol####next####Left-i####Kszta³towanie rozumienia:
+ol####new####Left-ai
+ol####next####Left-ai####pojêcia liczby naturalnej,
+ol####next####Left-ai####czterech dzia³añ arytmetycznych wraz z opanowaniem elementarnych podstaw techniki rachunkowej.
+ol####end
+ol####next####Left-i####Intuicyjne kszta³towanie:
+ol####new####Left-ai
+ol####next####Left-ai####pojêcia zbioru,
+ol####next####Left-ai####pojêcia u³amka,
+ol####next####Left-ai####niektórych pojêæ geometrycznych.
+ol####end
+ol####next####Left-i####Rozwijanie umiejêtno¶ci:
+ol####new####Left-ai
+ol####next####Left-ai####pos³ugiwania siê metodami matematycznymi w ¿yciu,
+ol####next####Left-ai####schematyzacji i wstêpnej matematyzacji konkretnych sytuacji oraz umiejêtno¶ci ich opisywania za pomoc± s³ów, schematów obrazowych i symboli matematycznych.
+ol####end
+ol####next####Left-i####Rozwijanie:
+ol####new####Left-ai
+ol####next####Left-ai####wyobra¼ni geometrycznej,
+ol####next####Left-ai####aktywno¶ci twórczej,
+ol####next####Left-ai####zainteresowañ matematycznych uczniów.
+ol####end
+ol####next####Left-i####Przygotowanie do zdobycia umiejêtno¶ci czytania i rozumienia tekstów matematycznych.
+ol####end
+par####cite_letter####Omówione cele podlegaj± hierarchicznemu uporz±dkowaniu, tworz±c taksonomiê celów nauczania matematyki.
+hr####_images/layout/h-ruler.gif
+head4####SubSectionTitle####<b>Scenariusz zajêæ w klasie II</b>
+par####justify_no_first_letter####IV O¦RODEK TEMATYCZNY: <b>Poznajemy dzieci z innych krajów</b><br />TEMAT DNIA: <b>Tajemnicza mowa. Szukamy znanych kszta³tów</b>
+par####cite_letter####(Ten sam temat zastosowa³am na zajêciach w Muzeum Narodowym.<br />Temat: Zabawy dzieciêce<br />Miejsce: Muzeum Narodowe<br />Cele operacyjne: po zakoñczeniu zajêæ w Muzeum Narodowym uczeñ:
+ul####new####Left-i
+ul####next####Left-i####umie wymieniæ kilka zabaw, które mo¿na zorganizowaæ na przerwie w szkole,
+ul####next####Left-i####potrafi w formie graficznej przedstawiæ swój pomys³ na spêdzenie wolnego czasu,
+ul####next####Left-i####zna i stosuje ró¿ne formy aktywno¶ci.
+ul####end
+par####cite_letter####Kluczowe pojêcia: zainteresowanie, wolny czas<br />Forma zajêæ: indywidualna i zespo³owa<br />Metody praktyczne: uczenie siê przez dzia³anie<br />Metody waloryzacyjne: uczenie siê przez prze¿ywanie (pos³u¿y³am siê grup± metod nauczania wg Vincentego Okonia)<br />Zadanie domowe: Wymy¶l interesuj±c± zabawê i przeprowad¼ j± dla ca³ej klasy na du¿ej przerwie.<br />Uczniowie obejrzeli i poznali dzie³a mistrzów:<br />Tadeusz Makowski (1882&#8211;1932) &#8211; &#8222;Maskarada&#8221;<br />Witold Wojtkiewicz (1879&#8211;1909) &#8211; &#8222;Rozstanie&#8221;<br />W³adys³aw Podkowiñski (1866&#8211;1895) &#8211; &#8222;Zabawa ch³opca patykiem w wodzie&#8221;)
+par####justify_no_first_letter####<b>Cele:</b>
+ul####new####Left
+ul####next####Left####poznanie przez uczniów kszta³tów i nazw podstawowych figur: trójk±t, kwadrat, prostok±t, ko³o;
+ul####next####Left####rozpoznawanie figur w otoczeniu, na rysunkach;
+ul####next####Left####konstruowanie figur przez uczniów (uk³adanie z patyczków, rysowanie, wycinanie, kolorowanie itp.);
+ul####next####Left####uk³adanie wiêkszych figur z mniejszych, rozcinanie wiêkszych figur na mniejsze;
+ul####next####Left####obserwowanie regularno¶ci i badanie w³asno¶ci figur (np. sprawdzanie tego, ¿e boki kwadratu s± równe) przez ich przyk³adanie, dopasowywanie itp.
+ul####end
+par####justify_no_first_letter####<b>Metody: </b>pogadanka, pokaz, æwiczenia<br /><b>¦rodki dydaktyczne:</b> figury geometryczne wykonane z kolorowego papieru (dla ka¿dego ucznia), patyczki, plastelina<br /><b>Zestaw wa¿niejszych ¶rodków dydaktycznych:</b>
+ul####new####Left
+ul####next####Left####papierowe (kartonowe) modele figur p³askich,
+ul####next####Left####patyczki i plastelina, prêty i z³±cza,
+ul####next####Left####plansze z figurami geometrycznymi i rysunkami z³o¿onymi z figur,
+ul####next####Left####modele prostych bry³ geometrycznych,
+ul####next####Left####geometryczna kostka do gry,
+ul####next####Left####uk³adanki, mozaiki, wyprawka <i>Matematyka w kolorach ucznia kl. I</i>,
+ul####next####Left####geoplany dla dzieci i geoplan du¿y do demonstracji,
+ul####next####Left####klocki Dienesa, klocki Cuisenaire'a,
+ul####next####Left####tablica magnetyczna i flanelowa oraz elementy do nich,
+ul####next####Left####przedmioty codziennego u¿ytku (chusta harcerska, proporczyk, znaki drogowe, trójk±t z instrumentów muzycznych, ró¿ne lusterka),
+ul####next####Left####ksi±¿ka Marii Terlikowskiej <i>W pogoni za kwadratem</i> (i inne),
+ul####next####Left####filmy z cyklu <i>Zabawy matematyczne</i> (3 czê¶ci): czê¶æ I &#8211; <i>Kolorowe ko³a</i>, czê¶æ II &#8211; <i>Zaczarowane trójk±ty</i>, czê¶æ III &#8211; <i>Zwariowane kwadraty</i>,
+ul####next####Left####druty, sznurki i tasiemki, szmatki itp.
+ul####end
+par####justify_no_first_letter####<b>Przebieg zajêæ:</b>
+ol####new####Left
+ol####next####Left####Æwiczenia w rozpoznawaniu znanych figur: ko³o, prostok±t, trójk±t:
+ol####new####Left-a
+ol####next####Left-a####rozpoznawanie i nazywanie przez uczniów modeli figur, które pokazuje nauczyciel,
+ol####next####Left-a####pokazywanie przez uczniów figur wymienianych (nazywanych) przez nauczyciela,
+ol####next####Left-a####omawianie przez uczniów cech wybranej figury.
+ol####end
+ol####next####Left####Zapowied¼ tematu zajêæ edukacyjnych, na których uczniowie maj± poznaæ nowe figury.
+ol####next####Left####Wyodrêbnienie czworok±tów i piêciok±tów spo¶ród innych figur:
+ol####new####Left-a
+ol####next####Left-a####aklasyfikacja w grupy figur wysypanych z kopert i utworzenie grupy czworok±tów i piêciok±tów,
+ol####next####Left-a####wprowadzenie nazw <i>czworok±t</i> i <i>piêciok±t</i> oraz szukanie cech uzasadniaj±cych te nazwy.
+ol####end
+ol####next####Left####Æwiczenia w pos³ugiwaniu siê nazwami figur i okre¶lanie kszta³tu przedmiotów w zabawie. Szukamy znajomych kszta³tów:
+ol####new####Left-a
+ol####next####Left-a####okna, deski, kartki z bloku, znaki drogowe &#8211; kszta³ty czworok±tne,
+ol####next####Left-a####chor±giewki, drogowskazy, domki &#8211; kszta³ty piêciok±tne,
+ol####next####Left-a####znaki drogowe &#8211; kszta³ty trójk±tne i koliste.
+ol####end
+ol####next####Left####Zakre¶lanie kó³, trójk±tów, czworok±tów &#8211; rêkami.
+ol####next####Left####Konstruowanie trójk±tów, czworok±tów i piêciok±tów z patyczków z wykorzystaniem kulek z plasteliny.
+ol####next####Left####Æwiczenia w kre¶leniu figur mniejszych (dla dzieci nadpobudliwych, nadruchliwych &#8211; z orzeczeniem: gnozja).
+ol####next####Left####Dzielenie danej figury, np. boiska, dzia³ki, parku itp. na czê¶ci prostok±tne, trójk±tne, piêciok±tne, czworok±tne.
+ol####next####Left####Wycinanie z kolorowego papieru czworok±ta, prostok±ta oraz omawianie ich cech.
+ol####next####Left####Praca domowa: U³ó¿ i wklej do zeszytu z wyciêtych figur geometrycznych postaci bajkowe, legendarne lub fantastyczne.
+ol####end
+par####justify####Je¶li chodzi o znajomo¶æ postaci fantastycznych, uczniowie po zajêciach w Muzeum Narodowym mieli za zadanie opisaæ lub narysowaæ, gdzie spotkali postaci legendarne (mitologiczne), np. na gmachu Teatru Wielkiego w Poznaniu mie¶ci siê PEGAZ.
+br####1
+hr####_images/layout/h-ruler.gif
+par####cite_letter####Pracuj±c z &#8222;Programem kszta³cenia zintegrowanego abc &#8211; I etap edukacji&#8221; Janiny Korzañskiej zaproponowa³am wszystkim uczniom (w&nbsp;Statucie Szko³y zapisana jest regu³a zaznaczaj±ca szanowanie osobowo¶ci ka¿dego wychowanka oraz podej¶cie indywidualne w&nbsp;oparciu o&nbsp;Hymn do Mi³o¶ci ¦w.&nbsp;Paw³a &#8211; do odpowiedzialno¶ci za siebie i&nbsp;za innych oraz za dobro wspólne w&nbsp;¿yciu rodzinnym i&nbsp;spo³ecznym) &#8222;Zeszyt æwiczeñ &#8211; Matematyka&#8221; Zbigniewa Semadeniego. Program Janiny Korzañskiej stwarza mo¿liwo¶ci poszerzenia o&nbsp;dodatkowe zadania i&nbsp;æwiczenia oraz stanowi podstawê do zbudowania oraz pracy metod± projektów (w&nbsp;moim przypadku) proekologicznych, pro¶rodowiskowych &#8211; tak bardzo nam wszystkim bliskich.
+par####cite_letter####W &#8222;Metodyce nauczania matematyki w klasach ni¿szych&#8221; Edmunda Stuckiego czytamy<a href="#note02"><sup>2</sup></a>:
+par####cite_letter####&#8222;Do ciekawych æwiczeñ, które nale¿y stosowaæ na lekcji z zakresu prostych figur geometrycznych, mo¿emy zaliczyæ:
+ol####new####Left-i
+ol####next####Left-i####Stosowanie prostych sposobów odwzorowywania figur poprzez rysowanie gumk± na ³awce, lepienie z plasteliny, zginanie z drutu, uk³adanie z patyczków.
+ol####next####Left-i####Rysowanie figur przy wykorzystywaniu plastikowych szablonów oraz obrysowywanie figur z klocków Dienesa.
+ol####next####Left-i####Tworzenie figur na geoplanie za pomoc± gumek.
+ol####next####Left-i####Szukanie i rozpoznawanie figur w otoczeniu (w klasie, w domu, na boisku itp.) i na rysunkach poznanych figur.
+ol####next####Left-i####Rysowanie i wycinanie figur.
+ol####next####Left-i####Rozpoznawanie figur schowanych do worka przez dotykanie ich kszta³tów.
+ol####next####Left-i####Opisywanie (podawanie cech) figur schowanych za siebie i odgadywanie ich przez dzieci.
+ol####next####Left-i####Szukanie podanych figur na rysunkach i zamalowywanie (zakreskowywanie) ich.
+ol####next####Left-i####Uk³adanie kompozycji (m.in. komponowanie ornamentów) z figur, np.: z mozaiki dla przedszkoli, z klocków Dienesa, patyczków i itp.
+ol####next####Left-i####Organizowanie æwiczeñ w komponowaniu szlaczków z poznanych figur lub wielokrotne ich rysowanie.
+ol####next####Left-i####Budowanie (uk³adanie) przedmiotów z figur i ich rozk³adanie, np.: domów, robotów, ¿aglówek, pojazdów, wie¿ itp. ze zbioru figur wyciêtych z kartonu, a tak¿e sk³adanie wielok±tów z tych czê¶ci.
+ol####next####Left-i####Budowanie figur przy u¿yciu prêtów i z³±czy.
+ol####next####Left-i####Stosowanie zagadek, zabaw i gier dydaktycznych z wykorzystaniem figur geometrycznych.&#8221;
+ol####end
+par####cite_letter####Æwiczenia powy¿sze mo¿emy kontynuowaæ i&nbsp;rozszerzaæ na lekcjach plastyki, techniki, kultury fizycznej, a&nbsp;tak¿e ¶rodowiska spo³eczno-przyrodniczego (mi szalenie bliskiego) czy jêzyka polskiego, zarówno w&nbsp;klasie, jak i&nbsp;poza ni¹, np.&nbsp;na wycieczkach.
+par####cite_letter####Propozycje zadania domowego:
+ol####new####Left
+ol####next####Left####Przygotuj plansze, na których bêd± znajdowa³y siê przedmioty zbudowane z&nbsp;ró¿nych figur geometrycznych, np. samolot, piramida, samochód, ogród kwiatowy itp.
+ol####next####Left####Zaplanuj zabawy (lub zagadki), które bêd¹ wykorzystane we wstêpnej czê¶ci lekcji wprowadzaj±cej do kolejnych tematów omawianego dzia³u.
+ol####next####Left####Przygotuj teatrzyk cieni z rol± trójk±ta, prostok±ta i kwadratu.
+ol####next####Left####Przygotuj teatrzyk cieni z rol± trójk±ta, ko³a, prostok±ta i kwadratu.
+ol####next####Left####Znajd¼ lub u³ó¿ wiersz (piosenkê, inscenizacjê) dla utrwalenia nazw prostych figur geometrycznych.
+ol####end
+par####cite_letter####Za Edmundem Stuckim przedstawiam nastêpuj±ce <b>wnioski</b> (zaznaczam, i¿ wszystkie zajêcia przedstawione w tym scenariuszu przeprowadzi³am z uczniami I etapu kszta³cenia zintegrowanego wg &#8222;Programu abc&#8221;):
+par####cite_letter####&#8222;Z przedstawionej analizy roli teorii operacjonalizmu J. Piageta, etapów kszta³towania pojêæ W. Okonia i teorii dzia³añ umys³owych P. J. Galpierina w kszta³towaniu pojêæ geometrycznych nasuwaj± siê wnioski konkretne dla praktyki dydaktyczno-wychowawczej.
+par####cite_letter####Do najwa¿niejszych z nich zaliczyæ mo¿na:
+ol####new####Left-i
+ol####next####Left-i####Nauczanie geometrii w nauczaniu pocz¹tkowym powinno odbywaæ siê metodami czynno¶ciowymi. Ka¿da lekcja, a&nbsp;nawet æwiczenie czy zadanie wymaga uogólnieñ. Wynika z&nbsp;tego, ¿e nie mo¿emy czekaæ, a¿ uogólnienia u&nbsp;dzieci powstan± same. One rzeczywi¶cie równie¿ same powstan±, ale u&nbsp;ka¿dego dziecka inaczej i&nbsp;w&nbsp;innym czasie, a&nbsp;czasami nie dochodzi do uogólnieñ w&nbsp;ogóle. Nam w&nbsp;procesie dydaktycznym uogólnienia geometryczne s±&nbsp; bardzo potrzebne i&nbsp;musimy je uzyskaæ u&nbsp;wszystkich dzieci w&nbsp;jednakowym czasie. St±d koniecznie nale¿y doprowadzaæ dzieci do uogólnieñ, i&nbsp;to dwiema drogami:
+ol####new####Left-ai
+ol####next####Left-ai####szczegó³owy przyk³ad (konkret) &#8211; uogólnienie (pojêcie ogólne) &#8211; szczegó³owe przypadki uogólnienia (pojêcia ogólnego),
+ol####next####Left-ai####przypomnienie znanych uogólnieñ &#8211; dalsze szczegó³owe przypadki rozszerzaj±ce wiedzê &#8211; nowe uogólnienia.
+ol####end
+ol####next####Left-i####W toku rozwi±zywania zadañ geometrycznych nale¿y stosowaæ ró¿ne sposoby rozwi±zañ i&nbsp;ró¿ne formy pracy, dziêki którym uczeñ lepiej utrwala wiedzê. Wa¿nym zagadnieniem jest te¿ sam dobór zadañ, ich tematyki i&nbsp;struktury. Wp³ynie to korzystnie na organizacjê æwiczeñ rozwijaj¹cych zdolno¶ci matematyczne oraz mo¿liwo¶ci uczenia i&nbsp;rozumienia ogólnych struktur geometrycznych.
+ol####next####Left-i####Bardzo istotn± rol± w tym procesie powinien odgrywaæ matematyczny zapis tre¶ci zadañ geometrycznych. Chodzi w&nbsp;nich o uwzglêdnienie tre¶ci zadañ i&nbsp;istotnych informacji matematycznych, ale jednocze¶nie o&nbsp;uwypuklenie zwi±zków i&nbsp;zale¿no¶ci wystêpuj±cych w&nbsp;zadaniu. Ponadto zapis musi byæ skonstruowany w&nbsp;jak najkrótszej formie graficznej (rysunek konkretny, konkretny i schematyczny lub schematyczny):
+ol####new####Left-ai
+ol####next####Left-ai####w formie graficzno-liczbowej (rysunek konkretny i&nbsp;liczby, rysunek schematyczny i&nbsp;liczby),
+ol####next####Left-ai####w formie graficzno-s³owno-liczbowej,
+ol####next####Left-ai####w formie s³owno-liczbowej i&nbsp;wyj±tkowo tylko liczbowej.
+ol####end
+ol####next####Left-i####Matematyczny zapis tre¶ci zadañ stwarza dogodne warunki do&nbsp;zastosowania graficznych schematów rozwi±zañ w&nbsp;postaci organigramów. Ilustruj± one przebieg rozumowania, utrwalaj± to rozumowanie, s± jego odzwierciedleniem.
+ol####next####Left-i####W zwi±zku z&nbsp;powy¿szymi wnioskami wskazane jest, aby w&nbsp;nauczaniu geometrii wszechstronnie wykorzystywano konkrety, najbli¿sze otoczenie i&nbsp;¶rodki pogl±dowe. Trzeba je tylko zgromadziæ w&nbsp;ka¿dej klasie, a&nbsp;niewielk± ich czê¶æ wykonaæ i&nbsp;zakupiæ.
+ol####next####Left-i####Proponowane rozwi±zania bêd± mia³y du¿y wp³yw na osi±ganie wysokiej sprawno¶ci uczniów, na wzrost stopnia sprawno¶ci i&nbsp;tempa uczenia&nbsp;siê matematyki, na wzrost poprawno¶ci jêzyka matematycznego, a&nbsp;przede wszystkim na wzrost poziomu my¶lenia, zmniejszanie&nbsp;siê braków i&nbsp;b³êdów oraz trudno¶ci w&nbsp;uczeniu&nbsp;siê matematyki.&#8221;
+ol####end
+br####1
+hr####_images/layout/h-ruler.gif
+par####cite_letter####W swojej 23-letniej praktyce nauczycielskiej mia³am przyjemno¶æ pracowaæ z&nbsp;wyj±tkowymi dzieæmi. Co jest w&nbsp;nich wyj±tkowego? Z&nbsp;pewno¶ci± naturalna ciekawo¶æ ¶wiata, ustawiczne dociekania, pytania, zainteresowanie wszystkim, co&nbsp;je&nbsp;otacza. Margaret Donaldson w&nbsp;ksi±¿ce &#8222;My¶lenie dzieci&#8221; zwraca&nbsp;siê do czytelnika z&nbsp;pytaniem, czy wiemy, jakie&nbsp;s± dzieci, które przychodz± do szko³y, oraz jakie te dzieci bêd± w&nbsp;wyniku naszego kszta³cenia przez wychowanie. Dzieci ró¿ni±&nbsp;siê posiadan± wiedz±, sposobem rozumienia zjawisk, zdolno¶ciami poznawczymi oraz osobistymi reakcjami na&nbsp;ró¿ne formy nauczania. Moim zadaniem jako wychowawcy jest w³a¶nie uwzglêdnienie wszystkich tych indywidualnych ró¿nic, nie tylko o&nbsp;wyra¼nie edukacyjnym charakterze, ale tak¿e ró¿nic psychologicznych, spo³ecznych, kulturowych i&nbsp;fizycznych. Kluczem do efektywnego nauczania jest spostrzeganie tych ró¿nic, branie pod uwagê ich odniesieñ w&nbsp;klasie, warto¶ciowanie ich oraz kontrolowanie wp³ywu wszystkich tych czynników na&nbsp;praktykê. Warto zadaæ pytanie o&nbsp;warto¶ci. Przypominam sobie sprzed lat wyk³ad prof.&nbsp;Janusza Gniteckiego z&nbsp;Uniwersytetu im.&nbsp;Adama Mickiewicza w&nbsp;Poznaniu &#8222;Wychowanie jako poszukiwanie warto¶ci&#8221;. Jestem cz³onkiem Franciszkañskiego Ruchu Ekologicznego, zatem dla mnie najwa¿niejsz± warto¶ci± jest ¿ycie, poszanowanie&nbsp;go w&nbsp;ka¿dym elemencie przyrody. Nie opowiadam&nbsp;siê za fundamentalistami, powtórzê s³owa papie¿a Jana Paw³a&nbsp;II: &#8222;Ekonomia i&nbsp;praca s± dla cz³owieka, nie cz³owiek dla pracy i&nbsp;ekonomii&#8221;.
+par####cite_letter####Uczê swoich wychowanków poszanowania piêkna, poszukiwania prawdy i&nbsp;bycia dobrym. Co znaczy byæ dobrym? Jestem przekonana, i¿ ka¿dy nauczyciel potrafi oddzieliæ dobro od z³a. Prof.&nbsp;Gnitecki w&nbsp;&#8222;Dydaktyce epistemologicznej&#8221; odwo³uje&nbsp;siê do &#8222;podej¶cia, w&nbsp;którym warto¶ci rozpatrywane&nbsp;s± w&nbsp;sta³ym i&nbsp;zmiennym porz±dku esencjalnym i&nbsp;egzystencjalnym. Wymaga&nbsp;to zbudowania zrównowa¿onego i&nbsp;zarazem uspójnionego uk³adu struktur aksjologicznych obejmuj±cych zarówno warto¶ci samoistne i&nbsp;niesamoistne. (&#8230;) O&nbsp;ile warto¶ci edukacyjne&nbsp;s± drogowskazem ukierunkowuj±cym dzia³alno¶æ dydaktyczno-wychowawcz± wspó³czesnej szko³y, to&nbsp;warto¶ci edukowane stwarzaj± mo¿liwo¶ci ich realizacji&#8221;.<a href="#note03"><sup>3</sup></a>  Prof.&nbsp;Lubomira Domka w&nbsp;swojej pracy &#8222;Kryzys ¶rodowiska a&nbsp;edukacja dla ekorozwoju&#8221; proponuje dzia³ania &#8222;optymalizacyjne&#8221; w&nbsp;edukacji, które mog± siê&nbsp;przyczyniæ do:
+ul####new####Left
+ul####next####Left####<i>rozwijania nowego, odpowiedzialnego podej¶cia do zagadnieñ ¿ycia, opartego na bogatej wiedzy, szacunku do przyrody i jej nienaruszalnych praw,</i>
+ul####next####Left####<i>kszta³towania zmian w systemie warto¶ci cz³owieka na rzecz poszanowania ¿ycia i harmonii w przyrodzie,</i>
+ul####next####Left####<i>rozwijania motywacji do aktywnego i kreatywnego uczestnictwa dla ochrony ¶rodowiska i&nbsp;tworzenia nowej strategii tzw. &#8222;zrównowa¿onego rozwoju&#8221;.<a href="#note04"><sup>4</sup></a></i>
+ul####end
+par####cite_letter####Dla mnie pozostaje rola animatora edukacji. Szukaj±c nowych metod i&nbsp;technik, które bêd± stymulowa³y moich wychowanków do &#8222;wspinania siê&#8221;, zdecydowa³am&nbsp;siê na wzbogacenie &#8222;Programu kszta³cenia zintegrowanego&nbsp;abc&#8221; o&nbsp;projekty proekologiczne. Ich ró¿norodna tematyka inspiruje uczniów do&nbsp;podejmowania dzia³añ.
+par####justify####Oto, jak Dawid z klasy IIc (rok szkolny 2002/03) zachêca do&nbsp;odwiedzania Wielkopolskiego Parku Narodowego, po³o¿onego blisko Poznania &#8211; miasta dzieci i&nbsp;p.&nbsp;Kapelañskiej:
+thumb####center####1####_images/content/zaprezentuj_sie/mk01/####thumb_04.jpg####Dawid####none####0px####0px####center
+par####cite_letter####Po g³êbokich zmianach, które nast±pi³y w&nbsp;dotychczasowych warunkach ¿ycia, pojawi³&nbsp;siê nowy imperatyw &#8211; lepszego rozumienia innych i&nbsp;¶wiata, konieczno¶æ wzajemnego rozumienia, pokojowej wymiany idei.
+par####cite_letter####Wiem, ¿e&nbsp;nie wystarczy poprzestaæ na&nbsp;nadarzaj±cych&nbsp;siê okazjach. Trzeba&nbsp;je stwarzaæ &#8211;&nbsp;uwra¿liwiaæ na problemy ¶rodowiska poprzez aktywne uczestnictwo w&nbsp;akcjach zapobiegaj±cych degradacji i&nbsp;zmierzaj±cych do poprawy ¶rodowiska i&nbsp;¿ycia codziennego &#8211;&nbsp;w&nbsp;szkole, w&nbsp;domu, w&nbsp;miejscu pracy.
+par####cite_letter####Pracuj±c z &#8222;Programem kszta³cenia zintegrowanego&nbsp;abc&#8221; &#8211; I&nbsp;etap edukacji, mam mo¿liwo¶æ prowadzenia zajêæ edukacyjnych w&nbsp;terenie, które zaspokajaj± potrzeby m³odego pokolenia. Zajêcia takie ucz±:
+ul####new####Left
+ul####next####Left####<i>samodzielno¶ci,</i>
+ul####next####Left####<i>obserwowania, analizowania i&nbsp;oceniania zjawisk przyrodniczych i&nbsp;spo³ecznych,</i>
+ul####next####Left####<i>porównywania i&nbsp;dostrzegania wspólnych cech oraz ró¿nic w&nbsp;przedmiotach, zjawiskach, sytuacjach,</i>
+ul####next####Left####<i>dostrzegania najwa¿niejszej czê¶ci ca³o¶ci,</i>
+ul####next####Left####<i>zauwa¿ania najwa¿niejszych zwi±zków miêdzy zjawiskami i&nbsp;przedmiotami,</i>
+ul####next####Left####<i>krytycznej analizy i&nbsp;wnioskowania,</i>
+ul####next####Left####<i>udowadniania i&nbsp;konkretyzowania twierdzeñ ogólnych,</i>
+ul####next####Left####<i>odró¿niania pierwszorzêdnych cech przedmiotów od&nbsp;ich cech drugoplanowych,</i>
+ul####next####Left####<i>opanowania nawyków pos³ugiwania&nbsp;siê wiadomo¶ciami i&nbsp;umiejêtno¶ciami,</i>
+ul####next####Left####<i>potrzeby odkrywania rzeczywisto¶ci spo³ecznej, kulturowej, historycznej b±d¼ przyrodniczej,</i>
+ul####next####Left####<i>rozwijania dociekliwo¶ci poznawczej poprzez metody:</i>
+ul####new####Left
+ul####next####Left####<i>ukazywania problemów,</i>
+ul####next####Left####<i>informowania o obiektach,</i>
+ul####next####Left####<i>rozmów indywidualnych.</i>
+ul####end
+ul####end
+par####cite_letter####Wiele osób zadaje mi pytanie, dlaczego prowadzê zajêcia w terenie.
+ul####new####Left
+ul####next####Left####<i>teren zmusza do pojmowania holistycznego, szybko odrzuca fragmentaryczno¶æ, statyczno¶æ my¶lenia;</i>
+ul####next####Left####<i>zajêcia w terenie pozwalaj± uzyskaæ &#8222;informacje pierwotne&#8221;, nieska¿one procesem literackiej weryfikacji;</i>
+ul####next####Left####<i>kontakt z terenem mo¿e mieæ charakter osobisty &#8211; identyfikowanie&nbsp;siê z&nbsp;zastanymi sprawami nastêpuje tu znacznie czê¶ciej ni¿ w&nbsp;klasie;</i>
+ul####next####Left####<i>zajêcia w terenie, jako jedyne, pozwalaj± ³±czyæ naukê, zabawê i&nbsp;wypoczynek oraz czas na&nbsp;autentyczne refleksje;</i>
+ul####next####Left####<i>tylko kontakt z terenem wyzwala chêæ do dzia³ania, zw³aszcza na rzecz ¶rodowiska;</i>
+ul####next####Left####<i>zajêcia terenowe bazuj± na uczeniu siê i&nbsp;na do¶wiadczeniach z&nbsp;pierwszej rêki, skupiaj± uwagê na ¶rodowisku lokalnym i&nbsp;dostarczaj± korzy¶ci z&nbsp;poznania ¶wiata zewnêtrznego;</i>
+ul####next####Left####<i>wizyta w miejscu szczególnie interesuj±cym czê¶ciej daje szansê skutecznego uczenia&nbsp;siê, s³u¿±c jako stymulator do dalszych badañ lub te¿ jako zakoñczenie procesu badawczego.</i>
+br####3
+par####note####<a id="note01" name="note01"></a><sup>1</sup> matematyzacja &#8211; ujmowanie czego¶ metodami matematycznymi; wprowadzenie pojêæ i metod matematycznych do innych nauk (matematyzacja materia³ów przyrodniczych, socjologicznych) &#8211; <i>S³ownik Jêzyka Polskiego</i>, Warszawa 1984
+par####note####<a id="note02" name="note02"></a><sup>2</sup> Edmund Stucki, <i>Metodyka nauczania matematyki w klasach ni¿szych</i>, czê¶æ 1., Bydgoszcz 1992
+par####note####<a id="note04" name="note03"></a><sup>3</sup> Janusz Gnitecki, <i>Dydaktyka epistemologiczna</i>, Poznañ 2003, s. 350.
+par####note####<a id="note05" name="note04"></a><sup>4</sup> Lubomira Domka, <i>Kryzys ¶rodowiska a edukacja dla ekorozwoju</i>, Wydawnictwo Naukowe UAM, Poznañ 1999.
+br####3
+up&back####

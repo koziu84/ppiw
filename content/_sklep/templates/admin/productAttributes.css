@@ -1,0 +1,17 @@
+#list_table th.paProdList{
+	width: 70px;
+}
+#paOldPrice {
+	text-decoration: line-through;
+}
+#paSpecialPrice {
+   float: right;
+	padding-left: 3px;
+	padding-right: 3px;
+	color: #FFFFFF;
+	background-color: #FF0000;
+	cursor: pointer;
+}
+a:hover #paSpecialPrice {
+	text-decoration: none;
+}

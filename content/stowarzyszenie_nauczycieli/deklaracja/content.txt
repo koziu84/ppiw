@@ -1,0 +1,10 @@
+script####<script Language="JavaScript1.1">function enlarge_picture(picture_path, wwidth, wheight, wdescription){EnlargedWindow=window.open('', '','width='+wwidth+',height='+wheight+',toolbar=no,directories=no,menubar=no,locations=no,status=no,scrollbars=no,resizable=no,screenX=10,screenY=10,fullscreen=no'); EnlargedWindow.document.open(); EnlargedWindow.document.writeln("<html>\n<head>\n</head>"); EnlargedWindow.document.writeln("<title>Powi瘯szony obrazek</title>"); EnlargedWindow.document.writeln("<body leftmargin=0 topmargin=0 style=\"font-family:Arial, Helvetica, sans-serif; font-size:11pt; background-color:#ffffff; background: url(_images/layout/bg.jpg) fixed repeat-x top\">"); EnlargedWindow.document.writeln("<table width=100% height=100% style=\"font-family:Arial, Helvetica, sans-serif; font-size:11pt;\">"); EnlargedWindow.document.writeln("<tr><td valign=center align=center>\n<a href=\"javascript:window.close();\" title=\"Zamknij okno\"><img src="+picture_path+" style=\"border-width: 1px; border-color: #CCCCCC; border-style: solid;\"></a></td></tr>"); EnlargedWindow.document.writeln("<tr><td align=center style=\"font-family:Arial, Helvetica, sans-serif; font-size:10pt; font-color:#000022; background-color:#ffffff\">"+wdescription+"\n</td></tr>"); EnlargedWindow.document.writeln("</table>"); EnlargedWindow.document.writeln("</body>\n</html>\n"); EnlargedWindow.document.close(); EnlargedWindow.focus(); return;}</script>
+submenu####
+br####2
+headtab####sectionTitle####Deklaracja cz這nkowska####authors####
+par####justify####Deklaracja cz這nkowska <a href="download/deklaracja.pdf" target="_top" onMouseOver="self.status='Pobierz plik'; return true;" title="Plik do pobrania (rozmiar pliku: 59,0 kB)"><img src="_images/layout/pictograms/download.gif" alt="&#187;&nbsp;" border="0" />do pobrania</a> w formie pliku PDF.
+br####3
+headtab####sectionTitle####Sk豉dki cz這nkowskie####authors####
+par####justify####Prosimy bardzo o regulowanie sk豉dek cz這nkowskich!
+par####justify####Numer konta Stowarzyszenia: 24 1020 1068 0000 1902 0060 7390.
+br####15

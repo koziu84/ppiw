@@ -1,0 +1,184 @@
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+		<tbody>
+			<tr>
+				<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://localhost/ppiw/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+					<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+						Zaprezentuj siê</h3>
+				</td>
+			</tr>
+			<tr>
+				<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://localhost/ppiw/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+					<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+						&nbsp;&nbsp;</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Ka¿dy, kto chcia³by przedstawiæ sw&oacute;j dorobek na stronach www, mo¿e nades³aæ materia³y do Pracowni na adres:</p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	&nbsp;</p>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; text-align: center; font-size: 13px;">
+	<span style="color: rgb(72, 70, 223);">Pracownia Pedagogiczna i Wydawnicza<br />
+	Janina Korzañska</span><br />
+	ul. Dragon&oacute;w 8 lok. 42<br />
+	00-467 Warszawa</div>
+<p style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	&nbsp;</p>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<h4 class="subSectionTitle" style="font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: 15px; color: rgb(72, 70, 223); line-height: 17px; text-align: justify;">
+	<b>Prezentacje</b></h4>
+<ul class="ul-Left" style="list-style-image: url(http://localhost/ppiw/_images/layout/ul-puzzle.jpg); vertical-align: middle; font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(17, 17, 17); margin-left: 40px; list-style-position: outside;">
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		<a href="http://localhost/ppiw/index.php?go=archiwum&amp;sub1=sniu01" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;">Sukcesy nauczycieli i uczni&oacute;w</a></li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		<a href="http://localhost/ppiw/index.php?go=archiwum&amp;sub1=ms01" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;">Prezentacja ksi±¿ki &bdquo;Matematyczne podr&oacute;¿e Kropki i Plusika&rdquo; Ma³gorzaty Sroki &ndash; nauczycielki Przedszkola Niepublicznego &bdquo;Jag&oacute;dka&rdquo; w Bydgoszczy</a></li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		Prezentacja dorobku Ma³gorzaty Kapelañskiej z Prywatnej Szko³y Podstawowej Jêzykowo-Informatycznej w Poznaniu:<br />
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://localhost/ppiw/index.php?go=archiwum&amp;sub1=mk01" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;">&ndash;&nbsp;czê¶æ 1.</a><br />
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://localhost/ppiw/index.php?go=archiwum&amp;sub1=mk02" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;">&ndash;&nbsp;czê¶æ 2.</a></li>
+</ul>
+<p>
+	&nbsp;</p>
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<a href="http://localhost/ppiw/index.php?go=archiwum&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://localhost/ppiw/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://localhost/ppiw/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+		<tbody>
+			<tr>
+				<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://localhost/ppiw/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+					<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+						Dzieci pisz±</h3>
+				</td>
+			</tr>
+			<tr>
+				<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://localhost/ppiw/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+					<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+						&nbsp;&nbsp;</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Czekamy na listy od dzieci. Mog± byæ kierowane do Figielka, kt&oacute;ry towarzyszy uczniom od pocz±tku istnienia Pracowni, do Abecelk&oacute;w &ndash; Franka, Doroty, Olka &ndash; bohater&oacute;w nowej edycji podrêcznik&oacute;w, albo do redakcji &ndash; z sugestiami, czego w podrêcznikach PPiW dzieciom brakuje, a z czego s± zadowolone.</p>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<h4 class="subSectionTitle" style="font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: 15px; color: rgb(72, 70, 223); line-height: 17px; text-align: justify;">
+	<b>Nades³ane listy</b></h4>
+<ul class="ul-Left" style="list-style-image: url(http://localhost/ppiw/_images/layout/ul-puzzle.jpg); vertical-align: middle; font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(17, 17, 17); margin-left: 40px; list-style-position: outside;">
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		<a href="http://localhost/ppiw/index.php?go=archiwum&amp;sub1=ldo01" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;">Trzecioklasi¶ci pisz± do Olka</a></li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		<a href="http://localhost/ppiw/index.php?go=archiwum&amp;sub1=os01" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;">Listy dzieci ze Szko³y Podstawowej nr 14 w Ostrowcu ¦wiêtokrzyskim</a></li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		<a href="http://localhost/ppiw/index.php?go=archiwum&amp;sub1=zu01" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;">Listy dzieci ze Szko³y Podstawowej w ¯u¿eli</a></li>
+</ul>
+<p>
+	&nbsp;</p>
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<a href="http://localhost/ppiw/index.php?go=archiwum&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://localhost/ppiw/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://localhost/ppiw/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+		<tbody>
+			<tr>
+				<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://localhost/ppiw/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+					<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+						Spotkania z Abecelkami</h3>
+				</td>
+			</tr>
+			<tr>
+				<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://localhost/ppiw/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+					<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+						&nbsp;&nbsp;</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p>
+	<img align="#top" alt="Spotkania z Abecelkami" border="0" class="left" hspace="10px" src="http://localhost/ppiw/_images/content/spotkania_z_abecelkami/sza_header.gif" style="border: none; float: left; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" vspace="0px" /></p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Czy znacie powie¶ci o&nbsp;Abecelkach &ndash; uczniach takich jak Wy, lubi±cych nie tylko ksi±¿ki, muzykê i&nbsp;przyrodê, lecz tak¿e fantastyczn± przygodê i&nbsp;niebezpieczne wyzwania? Je¶li tak, zapraszamy na spotkania z&nbsp;Autork± ksi±¿ki, nakt&oacute;rych opowie Wam, dlaczego pisze w³a¶nie dla dzieci. Je¶li nie znacie tych ksi±¿ek, tym bardziej warto spotkaæ siê z&nbsp;Autork± i&nbsp;pos³uchaæ, jak m&oacute;wi o&nbsp;swojej tw&oacute;rczo¶ci dla dzieci, i&nbsp;oczywi¶cie o&nbsp;Abecelkach!</p>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<h4 class="subSectionTitle" style="font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: 15px; color: rgb(72, 70, 223); line-height: 17px; text-align: justify;">
+	<b>26&ndash;28 wrze¶nia 2007 roku na Podlasiu</b></h4>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Pracownia Pedagogiczna i&nbsp;Wydawnicza we wsp&oacute;³pracy z&nbsp;<a href="http://www.wbp.bialystok.pl/" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_blank" title="Otwórz stronê w nowym oknie"><img alt="&#187;&nbsp;" border="0" src="http://localhost/ppiw/_images/layout/pictograms/window.gif" style="border: none;" />Ksi±¿nic± Podlask± im.&nbsp;£ukasza G&oacute;rnickiego w&nbsp;Bia³ymstoku</a>&nbsp;zorganizowa³a spotkania z Ma³gorzat± Strêkowsk±-Zaremb±, autork± powie¶ci &bdquo;Abecelki i&nbsp;duch Bursztynowego Domu&rdquo; oraz &bdquo;Abecelki i&nbsp;tajemnica Bursztynowego Domu&rdquo;, w&nbsp;bibliotekach publicznych na terenie Bia³egostoku i&nbsp;woj.&nbsp;podlaskiego:</p>
+<p class="left" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	<b>26 wrze¶nia</b></p>
+<p class="left_indent" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px; margin-left: 20px;">
+	Miejsko-Gminna Biblioteka Publiczna w Zab³udowie, ul. Mickiewicza 13<br />
+	Gminna Biblioteka Publiczna w Narwi, ul. Mickiewicza 17<br />
+	Filia Biblioteczna nr 7 w Bia³ymstoku, ul. Zielonog&oacute;rska 2</p>
+<p class="left" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	<b>27 wrze¶nia</b></p>
+<p class="left_indent" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px; margin-left: 20px;">
+	Miejska Biblioteka Publiczna w Bielsku Podlaskim, ul. Kazimierzowska 14<br />
+	Miejska Biblioteka Publiczna w Hajn&oacute;wce, ul. 3 Maja 45<br />
+	Filia Biblioteczna nr 3 w Bia³ymstoku, ul. Ciep³a 15</p>
+<p class="left" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	<b>28 wrze¶nia</b></p>
+<p class="left_indent" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px; margin-left: 20px;">
+	Biblioteka Publiczna Gminy £om¿a z siedzib± w Podg&oacute;rzu, ul. £om¿yñska 30<br />
+	Miejska Biblioteka Publiczna w £om¿y, ul. D³uga 13<br />
+	Biblioteka Publiczna Gminy Miastkowo, ul. £om¿yñska 25/1</p>
+<p>
+	<img align="#top" alt="Spotkania z Abecelkami" border="0" class="right" hspace="10px" src="http://localhost/ppiw/_images/content/spotkania_z_abecelkami/sza_podl_02.gif" style="border: none; float: right; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" vspace="0px" /><br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	W spotkaniach na Podlasiu uczestniczy³y dzieci z najm³odszych klas szk&oacute;³ podstawowych. Takie spotkania s± dla dzieci zawsze wielk± frajd±. Uczestnicy witali Autorkê ka¿dorazowo gromkimi brawami &ndash; ksi±¿ki p. Zaremby s± bowiem dzieciom znane i chêtnie przez nie czytane. Spotkania z pisark±, kt&oacute;rym towarzyszy³a wspania³a atmosfera, up³ywa³y pod znakiem ¶wietnej zabawy i dobrego humoru. Pani Ma³gorzata opowiada³a o swojej tw&oacute;rczo¶ci oraz odpowiada³a na liczne pytania dzieci: Dlaczego pisze w³a¶nie dla dzieci? Czy lubi pisaæ? Czy to jest trudne? Sk±d czerpie pomys³y? Jakie ksi±¿ki lubi³a czytaæ, kiedy by³a ma³a? £atwo¶æ nawi±zywania kontaktu pisarki z dzieæmi zauroczy³a wszystkich obecnych na spotkaniach. Autografom i wsp&oacute;lnym zdjêciom nie by³o koñca! Pani Ma³gorzata podzieli³a siê po spotkaniach miêdzy innymi nastêpuj±c± refleksj±: &bdquo;Jestem pod wra¿eniem zachowania dzieci na Podlasiu. Dzieciaki by³y wspania³e!&rdquo;.</p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Podczas spotkañ zaprosili¶my ich uczestnik&oacute;w do konkursu (<a href="http://localhost/ppiw/download/regulamin_konkursu.doc" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_top" title="Plik do pobrania (rozmiar pliku: 31 kB)"><img alt="&#187;&nbsp;" border="0" src="http://localhost/ppiw/_images/layout/pictograms/download.gif" style="border: none;" />regulamin konkursu na najciekawsze kartki z pamiêtnika</a>). Nadesz³o 66 prac dzieci, kt&oacute;re &ndash; maj±c za wz&oacute;r pamiêtniki pisane przez Franka, Dorotê i Olka &ndash; opisa³y najciekawsze, najwa¿niejsze lub najzabawniejsze zdarzenia ze swego ¿ycia w&nbsp;swoich pamiêtnikach.</p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	W&nbsp;<a href="http://localhost/ppiw/download/protokol_z_posiedzenia_jury.doc" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_top" title="Plik do pobrania (rozmiar pliku: 85 kB)"><img alt="&#187;&nbsp;" border="0" src="http://localhost/ppiw/_images/layout/pictograms/download.gif" style="border: none;" />protokole z posiedzenia jury</a>&nbsp;w sprawie rozstrzygniêcia konkursu mo¿na przeczytaæ, komu zosta³y przyznane nagrody.</p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Zgodnie z Ustaw± z dnia 29&nbsp;sierpnia&nbsp;1997&nbsp;r. o&nbsp;ochronie danych osobowych (Dz.&nbsp;U.&nbsp;Nr&nbsp;133, poz.&nbsp;883) nagrodzone prace konkursowe zamie¶cimy po otrzymaniu pisemnej zgody rodzic&oacute;w/opiekun&oacute;w dzieci na opublikowanie tych prac na stronie internetowej PPiW.</p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	W poszczeg&oacute;lnych kategoriach klasowych zwyciêzcy otrzymaj±:</p>
+<ol class="ol-Left-d" style="vertical-align: middle; font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(17, 17, 17); margin-left: 40px; list-style-position: outside;">
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		miejsce &ndash; wielotematyczny album&nbsp;<a href="http://localhost/ppiw/index.php?go=publikacje_uzupelniajace&amp;sub=#swiatWokolMnie" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;" target="_main" title="Informacje o publikacji"><img alt="&#187;&nbsp;" border="0" src="http://localhost/ppiw/_images/layout/pictograms/anchor.gif" style="border: none;" />&bdquo;¦wiat wok&oacute;³ mnie&rdquo;</a>&nbsp;i atlas (zestaw map i foliogram&oacute;w)&nbsp;<a href="http://localhost/ppiw/index.php?go=publikacje_uzupelniajace&amp;sub=#swiatWczorajIDzis" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;" target="_main" title="Informacje o publikacji"><img alt="&#187;&nbsp;" border="0" src="http://localhost/ppiw/_images/layout/pictograms/anchor.gif" style="border: none;" />&bdquo;¦wiat wczoraj i dzi¶&rdquo;</a>,</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		miejsce &ndash; wielotematyczny album&nbsp;<a href="http://localhost/ppiw/index.php?go=publikacje_uzupelniajace&amp;sub=#swiatWokolMnie" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;" target="_main" title="Informacje o publikacji"><img alt="&#187;&nbsp;" border="0" src="http://localhost/ppiw/_images/layout/pictograms/anchor.gif" style="border: none;" />&bdquo;¦wiat wok&oacute;³ mnie&rdquo;</a>,</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		miejsce &ndash; atlas (zestaw map i foliogram&oacute;w)&nbsp;<a href="http://localhost/ppiw/index.php?go=publikacje_uzupelniajace&amp;sub=#swiatWczorajIDzis" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;" target="_main" title="Informacje o publikacji"><img alt="&#187;&nbsp;" border="0" src="http://localhost/ppiw/_images/layout/pictograms/anchor.gif" style="border: none;" />&bdquo;¦wiat wczoraj i dzi¶&rdquo;</a>,</li>
+</ol>
+<p class="justify_no_first_letter" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyr&oacute;¿nienia &ndash; segregatory i minipuzzle z zabawnym Figielkiem,</p>
+<p class="justify_no_first_letter" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a wszystkie dzieci, kt&oacute;rym nie przyznano nagr&oacute;d g³&oacute;wnych ani wyr&oacute;¿nieñ, otrzymaj± upominki.</p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	W&nbsp;<a href="http://localhost/ppiw/index.php?go=archiwum&amp;sub1=gnp01" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_main" title="Galeria nagrodzonych prac"><img alt="&#187;&nbsp;" border="0" src="http://localhost/ppiw/_images/layout/pictograms/anchor.gif" style="border: none;" />galerii</a>&nbsp;mo¿na obejrzeæ nagrodzone prace dzieci.</p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	O kolejnych spotkaniach Ma³gorzaty Strêkowskiej-Zaremby z czytelnikami poinformujemy na naszej stronie internetowej.</p>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<p class="note-left" style="font-family: Arial, Halvetica, sans-serif; font-size: 11px; color: rgb(0, 0, 0);">
+	<i>Ilustracje Joanny Olech pochodz± z&nbsp;ksi±¿ki Ma³gorzaty Strêkowskiej-Zaremby &bdquo;Abecelki i&nbsp;duch Bursztynowego Domu&rdquo;, PPiW, Warszawa 2003.</i></p>
+<p>
+	&nbsp;</p>
+<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+<div>
+</div>
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<a href="http://localhost/ppiw/index.php?go=archiwum&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://localhost/ppiw/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://localhost/ppiw/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>

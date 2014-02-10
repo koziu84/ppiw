@@ -1,0 +1,15 @@
+menuTd####menuLinkTop####index.php?go=strona_glowna####_self####Strona g³ówna####<b>Strona g³ówna</b>
+menuTd####menuLink####index.php?go=aktualnosci####_self####Aktualno¶ci####Aktualno¶ci
+menuTdEmpty####
+menuTd####menuLinkTop####index.php?go=publikacje_programowe####_self####Publikacje programowe####Publikacje programowe
+menuTd####menuLink####index.php?go=podreczniki####_self####Podrêczniki####Podrêczniki
+menuTd####menuLink####index.php?go=publikacje_uzupelniajace####_self####Publikacje uzupe³niaj±ce####Publikacje uzupe³niaj±ce
+menuTdEmpty####
+menuTd####menuLinkTop####index.php?go=zaprezentuj_sie####_self####Prezentacje Waszych prac####Zaprezentuj siê
+menuTd####menuLink####index.php?go=prace_dzieci####_self####Listy nades³ane przez Dzieci####Dzieci pisz±
+menuTdEmpty####
+menuTd####menuLinkTop####index.php?go=do_pobrania####_self####Pliki do pobrania####Do pobrania
+menuTd####menuLink####index.php?go=kontakt####_self####Kontakt####Kontakt
+menuTd####menuLink####content/_sklep/index.php####_blank####Sklep####<b>Sklep</b>
+menuCustom####<br /><br /><br />
+menuTd####menuLinkDouble####index.php?go=do_pobrania#przewodnikKl3####_self####Przewodnik dla nauczyciela. Klasa III. Moje abc.####<b>Przewodnik dla nauczyciela Klasa III Moje abc</b>

@@ -1,0 +1,96 @@
+<div align="right">
+	<br />
+	<span style="font-size:14px;"><span style="color:#4846df;"><b>Pracownia Pedagogiczna i Wydawnicza<br />
+	Janina Korzañska</b><br />
+	ul. Lucerny 80-82 lok. I<br />
+	04-687 Warszawa Anin</span></span></div>
+<div align="right">
+	&nbsp;</div>
+<div align="right">
+	<span style="font-size:14px;"><span style="color:#4846df;">tel./faks (0) 22 851 50 83<br />
+	e-mail:&nbsp;</span></span><a href="mailto:ppiw@ppiw.com.pl?subject=Ze%20strony%20WWW...&amp;body=Witam!" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" title="ppiw@ppiw.com.pl"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/envelope.gif" style="border: none;" /><b>ppiw@ppiw.com.pl</b></a></div>
+<p>
+	<span style="color: rgb(72, 70, 223); font-size: 18px; line-height: 22px;">&nbsp;&nbsp;</span></p>
+<div align="right" style="color: rgb(0, 0, 0); font-size: 11px;">
+	<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+		<tbody>
+			<tr>
+				<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+					&nbsp;</td>
+			</tr>
+			<tr>
+				<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+					<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+						&nbsp;&nbsp;</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Je¶li chcesz:</p>
+<ul class="ul-Left" style="list-style-image: url(http://ppiw.com.pl/_images/layout/ul-puzzle.jpg); vertical-align: middle; font-size: 13px; color: rgb(17, 17, 17); margin-left: 40px; list-style-position: outside;">
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		obejrzeæ nasze publikacje,</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		porozmawiaæ o warunkach sprzeda¿y,</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		z³o¿yæ zam&oacute;wienie,</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		zapytaæ o szkolenia i spotkania z autorkami,</li>
+</ul>
+<p class="justify_no_first_letter" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	to:</p>
+<ul class="ul-Left" style="list-style-image: url(http://ppiw.com.pl/_images/layout/ul-puzzle.jpg); vertical-align: middle; font-size: 13px; color: rgb(17, 17, 17); margin-left: 40px; list-style-position: outside;">
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		skontaktuj siê z&nbsp;<a href="http://ppiw.com.pl/download/kontakty.pdf" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;" target="_blank" title="Pobierz plik PDF z telefonami konsultantów regionalnych MAC Edukacja"><img alt="&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/download.gif" style="border: none;" />konsultantem Wydawnictwa MAC</a>, kt&oacute;re od&nbsp;2006&nbsp;r. sprzedaje nasze ksi±¿ki,</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		zadzwoñ lub wy¶lij faks do&nbsp;<a href="http://www.mac.pl/" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;" target="_blank" title="Otwórz link w nowym oknie"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/window.gif" style="border: none;" />Wydawnictwa MAC</a>&nbsp;lub Pracowni,</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		skorzystaj ze&nbsp;<a href="http://www.mac.pl/ksiegarnia.php" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;" target="_blank" title="Otwórz link w nowym oknie"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/window.gif" style="border: none;" />sklepu internetowego Wydawnictwa MAC</a>&nbsp;lub &nbsp;<a href="http://ppiw.com.pl/content/_sklep/index.php" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;" target="_blank" title="Otwórz link w nowym oknie"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/window.gif" style="border: none;" />sklepu internetowego Pracowni</a>.</li>
+</ul>
+<div align="right" style="color: rgb(0, 0, 0); font-size: 11px;">
+	<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+	</table>
+</div>
+<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+	&nbsp;&nbsp;</h3>
+<h4 class="subSectionTitle" style="font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: 15px; color: rgb(72, 70, 223); line-height: 17px; text-align: justify;">
+	&nbsp;</h4>
+<div align="right" style="color: rgb(0, 0, 0); font-size: 11px;">
+	<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+		<tbody>
+			<tr>
+				<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+					&nbsp;</td>
+			</tr>
+			<tr>
+				<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+					<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+						&nbsp;&nbsp;</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Je¶li chcesz porozmawiaæ o:</p>
+<ul class="ul-Left" style="list-style-image: url(http://ppiw.com.pl/_images/layout/ul-puzzle.jpg); vertical-align: middle; font-size: 13px; color: rgb(17, 17, 17); margin-left: 40px; list-style-position: outside;">
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		planach wydawniczych Pracowni,</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		potrzebnych spotkaniach autorskich,</li>
+</ul>
+<p class="justify_no_first_letter" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	to:</p>
+<ul class="ul-Left" style="list-style-image: url(http://ppiw.com.pl/_images/layout/ul-puzzle.jpg); vertical-align: middle; font-size: 13px; color: rgb(17, 17, 17); margin-left: 40px; list-style-position: outside;">
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		<a href="http://ppiw.com.pl/index.php?go=kontakt&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;" target="_self" title="Kontakt z PPiW"><img alt="&#187;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/anchor.gif" style="border: none;" />skontaktuj siê z Pracowni±</a>.</li>
+</ul>
+<br style="color: rgb(0, 0, 0); font-size: 11px;" />
+<br style="color: rgb(0, 0, 0); font-size: 11px;" />
+<br style="color: rgb(0, 0, 0); font-size: 11px;" />
+<br style="color: rgb(0, 0, 0); font-size: 11px;" />
+<br style="color: rgb(0, 0, 0); font-size: 11px;" />
+<div align="right" style="color: rgb(0, 0, 0); font-size: 11px;">
+	<a href="http://ppiw.com.pl/index.php?go=kontakt&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>

@@ -1,0 +1,6 @@
+<br />
+<div align="right">
+<a href="#" target="_self" onMouseOver="self.status='Do góry'; return true;" onMouseOut="self.status=''; return true;" title="Przejd¼ na pocz±tek strony"><img src="_images/layout/pictograms/top.gif" alt="^&nbsp;">Do góry</a>&nbsp;|&nbsp;<a href="javascript:history.back();" target="_self" onMouseOver="self.status='Wstecz'; return true;" onMouseOut="self.status=''; return true;" title="Wróæ do poprzedniej strony"><img src="_images/layout/pictograms/back.gif" alt="<&nbsp;">Wstecz</a>
+</div>
+<br />
+<br />

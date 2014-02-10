@@ -1,0 +1,81 @@
+script####<script Language="JavaScript1.1">function enlarge_picture(picture_path, wwidth, wheight, wdescription){EnlargedWindow=window.open('', '','width='+wwidth+',height='+wheight+',toolbar=no,directories=no,menubar=no,locations=no,status=no,scrollbars=no,resizable=no,screenX=10,screenY=10,fullscreen=no'); EnlargedWindow.document.open(); EnlargedWindow.document.writeln("<html>\n<head>\n</head>"); EnlargedWindow.document.writeln("<title>Powiêkszony obrazek</title>"); EnlargedWindow.document.writeln("<body leftmargin=0 topmargin=0 style=\"font-family:Arial, Helvetica, sans-serif; font-size:11pt; background-color:#ffffff; background: url(_images/layout/bg.jpg) fixed repeat-x top\">"); EnlargedWindow.document.writeln("<table width=100% height=100% style=\"font-family:Arial, Helvetica, sans-serif; font-size:11pt;\">"); EnlargedWindow.document.writeln("<tr><td valign=center align=center>\n<a href=\"javascript:window.close();\" title=\"Zamknij okno\"><img src="+picture_path+" style=\"border-width: 1px; border-color: #CCCCCC; border-style: solid;\"></a></td></tr>"); EnlargedWindow.document.writeln("<tr><td align=center style=\"font-family:Arial, Helvetica, sans-serif; font-size:10pt; font-color:#000022; background-color:#ffffff\">"+wdescription+"\n</td></tr>"); EnlargedWindow.document.writeln("</table>"); EnlargedWindow.document.writeln("</body>\n</html>\n"); EnlargedWindow.document.close(); EnlargedWindow.focus(); return;}</script>
+headtab####sectionTitle####Galeria nagrodzonych prac####authors####&nbsp;&nbsp;
+par####justify####W <b>kategorii drugoklasistów</b> nagrody i wyró¿nienia otrzymali:
+par####justify_no_first_letter####1. Pierwsz± nagrodê: <b>Kamila Komarzewska</b> z klasy IId ze Szko³y Podstawowej nr 4 w Bielsku Podlaskim:  
+thumb####center####1####_images/content/spotkania_z_abecelkami/gnp01/####thumb_kat_IIkl_I_01.jpg#### #### ####none####0px####0px####center
+thumb####center####3####_images/content/spotkania_z_abecelkami/gnp01/####thumb_kat_IIkl_I_02.jpg####thumb_kat_IIkl_I_03.jpg####thumb_kat_IIkl_I_04.jpg#### #### #### ####none####0px####0px####center
+hr####_images/layout/h-ruler.gif
+par####justify_no_first_letter####2. Drug± nagrodê: <b>Maciej Józef Borowski</b> z klasy IIc ze Szko³y Podstawowej nr 4 w Bielsku Podlaskim:
+thumb####center####4####_images/content/spotkania_z_abecelkami/gnp01/####thumb_kat_IIkl_II_01.jpg####thumb_kat_IIkl_II_02.jpg####thumb_kat_IIkl_II_03.jpg####thumb_kat_IIkl_II_04.jpg#### #### #### #### ####none####0px####0px####center
+thumb####center####3####_images/content/spotkania_z_abecelkami/gnp01/####thumb_kat_IIkl_II_05.jpg####thumb_kat_IIkl_II_06.jpg####thumb_kat_IIkl_II_07.jpg#### #### #### #### ####none####0px####0px####center
+hr####_images/layout/h-ruler.gif
+par####justify_no_first_letter####3. Trzeci± nagrodê: <b>Maciej Lulewicz</b> z klasy IIa ze Szko³y Podstawowej w Zab³udowie (praca nades³ana drog± mailow±):
+par####cite_letter_right####3 sierpnia 2007 r.
+par####cite_letter_center####Spotkanie z meduzami
+par####cite_letter####W tym roku by³em z mam± na wakacjach w Italii. Tam mieszka mój brat Paolo, za którym bardzo têskniê.
+par####cite_letter####Pewnego dnia, gdy wypoczywali¶my nad morzem, Paolo zauwa¿y³ co¶ dziwnego. Nad brzegiem morza le¿a³a ogromna meduza. Ja siê przestraszy³em, ale mój brat wcale. Wiedzia³em, czym grozi spotkanie z meduz±. Nagle meduza poruszy³a siê i pokaza³a swoje wielkie parzyd³a. Mój brat w tym momencie podskoczy³ ze strachu. Na szczê¶cie doro¶li zabrali meduzê i mogli¶my siê dalej spokojnie bawiæ. Potem pop³ynêli¶my rowerem wodnym. Nagle obok nas pojawi³y siê trzy meduzy. Mój wujek Sylwio wyskoczy³ z wody jak &#8222;poparzony&#8221; i wskoczy³ do nas na rower wodny.
+par####cite_letter####Tym razem to my uratowali¶my wujka!
+par####cite_letter_center####* * *
+par####cite_letter_right####6 sierpnia 2007 r.
+par####cite_letter_center####Ruchome piaski
+par####cite_letter####Druga moja przygoda tak¿e wydarzy³a siê nad w³oskim morzem.
+par####cite_letter####Kiedy p³ywa³em w morzu, mój brat siedzia³ na pla¿y. Zauwa¿y³em, ¿e ma bardzo zdziwion± minê. Pobieg³em do niego i zauwa¿y³em, ¿e Paolo bawi siê w ruchomych piaskach. Zacz±³em bawiæ siê razem z nim. Ruchome piaski wygl±daj± jak ma³e wulkaniki. Gdy wk³adali¶my w nie rêkê albo nogê, to nas wsysa³o. Wyobra¿ali¶my sobie, ¿e jeste¶my na wielkiej pustyni i mo¿emy uton±æ w piaskach.
+par####cite_letter####By³a to ¶wietna zabawa, której d³ugo nie zapomnê.
+hr####_images/layout/h-ruler.gif
+par####justify_no_first_letter####4. Dwa wyró¿nienia:
+par####justify_no_first_letter####&#8211; <b>Paulina Tymoszuk</b> z klasy IIa ze Szko³y Podstawowej w Zab³udowie (praca nades³ana drog± mailow±):
+par####cite_letter_right####5 pa¼dziernika 2006 r.
+par####cite_letter_center####M³odszy brat
+par####cite_letter####Dzisiaj obudzi³am siê o czwartej rano. Przy moim ³ó¿ku siedzia³a babcia. Powiedzia³a, ¿e tato powióz³ mamê do szpitala, bo zaczê³a rodziæ. Ucieszy³am siê, ¿e nareszcie urodzi mi siê dzidziu¶. Tak d³ugo na niego czeka³am. Z wra¿enia nie mog³am ju¿ usn±æ. Kiedy tato wróci³, pomóg³ mi wybraæ siê do szko³y. Chocia¿ mia³am tylko cztery lekcje, to strasznie mi siê d³u¿y³o. Bo tato mi obieca³, ¿e jak tylko skoñczê lekcje, to pojedziemy do szpitala. Têskni³am za mam± i by³am bardzo ciekawa m³odszego braciszka.
+par####cite_letter####Wreszcie koniec lekcji! Tato na mnie czeka³ przed szko³±. Po oko³o 30 minutach byli¶my w&nbsp;szpitalu. Najpierw odwiedzili¶my mamê, a potem braciszka. Jako pierwsza z naszej rodziny, oczywi¶cie nie licz±c mamusi, trzyma³am go na rêkach, a tatu¶ zrobi³ nam zdjêcie. Nie byli¶my zbyt d³ugo, bo mama musia³a le¿eæ i odpoczywaæ. Chocia¿ przez tyle lat by³am jedynaczk± i teraz wszystko siê zmieni, to jednak bardzo siê cieszê, ¿e mam braciszka.
+par####cite_letter####Aha, nazwali¶my go Rafa³ek.
+par####cite_letter_center####* * *
+par####cite_letter_right####9 lipca 2007 r.
+par####cite_letter_center####Moje upragnione wakacje
+par####cite_letter####Po ca³ym dniu mêcz±cej podró¿y dotarli¶my do celu. To znaczy nad morze do Jastrzêbiej Góry. Kwaterê mamy u bardzo mi³ych ludzi. Trochê odpoczêli¶my i zaraz poszli¶my nad morze, bo by³a piêkna pogoda. Nad morze schodzi³o siê z bardzo wysokiej i stromej góry. Morze widzia³am po raz pierwszy, by³o to wspania³e prze¿ycie. Jakbym sta³a na brzegu rzeki, tak szerokiej, ¿e nie widaæ drugiego brzegu. Trochê pozbierali¶my kamyki i muszelki, a potem poszli¶my do baru na niezdrowe, ale pyszne jedzenie.
+par####cite_letter####Mia³am nadziejê, ¿e znalaz³am choæ jednego bursztynka, ale okaza³o siê, ¿e wszystkie moje okazy to zwyk³e kamyki. Ale dla mnie s± one cenne, gdy¿ s± moj± pami±tk± z wakacji.
+par####justify_no_first_letter####&#8211; <b>Angelika Przychodzieñ</b> z klasy IIa ze Szko³y Podstawowej w Miastkowie:
+thumb####center####1####_images/content/spotkania_z_abecelkami/gnp01/####thumb_kat_IIkl_wb_01.jpg#### ####none####0px####0px####center
+hr####_images/layout/h-ruler.gif
+br####3
+up&back####
+par####justify####W <b>kategorii trzecioklasistów</b> nagrody i wyró¿nienia otrzymali:
+par####justify_no_first_letter####1. Pierwsz± nagrodê: <b>Julianna Podolec</b> z klasy IIIb ze Szko³y Podstawowej nr 3 w Bielsku Podlaskim:
+thumb####center####3####_images/content/spotkania_z_abecelkami/gnp01/####thumb_kat_IIIkl_I_01.jpg####thumb_kat_IIIkl_I_02.jpg####thumb_kat_IIIkl_I_03.jpg#### #### #### ####none####0px####0px####center
+hr####_images/layout/h-ruler.gif
+par####justify_no_first_letter####2. Dwie drugie nagrody:
+par####justify_no_first_letter####&#8211; <b>Piotr Wyszyñski</b> z klasy IIIa ze Szko³y Podstawowej nr 2 w Hajnówce:
+thumb####center####2####_images/content/spotkania_z_abecelkami/gnp01/####thumb_kat_IIIkl_IIa_01.jpg####thumb_kat_IIIkl_IIa_02.jpg#### #### ####none####0px####0px####center
+par####justify_no_first_letter####&#8211; <b>Urszula ¦liwko</b> z klasy IIIa ze Szko³y Podstawowej nr 3 w Bielsku Podlaskim:
+thumb####center####3####_images/content/spotkania_z_abecelkami/gnp01/####thumb_kat_IIIkl_IIb_01.jpg####thumb_kat_IIIkl_IIb_02.jpg####thumb_kat_IIIkl_IIb_03.jpg#### #### #### ####none####0px####0px####center
+thumb####center####3####_images/content/spotkania_z_abecelkami/gnp01/####thumb_kat_IIIkl_IIb_04.jpg####thumb_kat_IIIkl_IIb_05.jpg####thumb_kat_IIIkl_IIb_06.jpg#### #### #### ####none####0px####0px####center
+hr####_images/layout/h-ruler.gif
+par####justify_no_first_letter####3. Trzy trzecie nagrody:
+par####justify_no_first_letter####&#8211; <b>Daniel Mackiewicz</b> z klasy IIIa ze Szko³y Podstawowej nr 2 w Hajnówce:
+thumb####center####1####_images/content/spotkania_z_abecelkami/gnp01/####thumb_kat_IIIkl_IIIa_01.jpg#### ####none####0px####0px####center
+par####justify_no_first_letter####&#8211; <b>Hanna Piskorska</b> z klasy IIIa ze Szko³y Podstawowej nr 6 w Hajnówce:
+thumb####center####1####_images/content/spotkania_z_abecelkami/gnp01/####thumb_kat_IIIkl_IIIb_01.jpg#### ####none####0px####0px####center
+par####justify_no_first_letter####&#8211; <b>Karolina Tkaczuk</b> z klasy IIIa ze Szko³y Podstawowej nr 3 w Bielsku Podlaskim:
+thumb####center####2####_images/content/spotkania_z_abecelkami/gnp01/####thumb_kat_IIIkl_IIIc_01.jpg####thumb_kat_IIIkl_IIIc_02.jpg#### #### ####none####0px####0px####center
+thumb####center####2####_images/content/spotkania_z_abecelkami/gnp01/####thumb_kat_IIIkl_IIIc_03.jpg####thumb_kat_IIIkl_IIIc_04.jpg#### #### ####none####0px####0px####center
+thumb####center####2####_images/content/spotkania_z_abecelkami/gnp01/####thumb_kat_IIIkl_IIIc_05.jpg####thumb_kat_IIIkl_IIIc_06.jpg#### #### ####none####0px####0px####center
+thumb####center####2####_images/content/spotkania_z_abecelkami/gnp01/####thumb_kat_IIIkl_IIIc_07.jpg####thumb_kat_IIIkl_IIIc_08.jpg#### #### ####none####0px####0px####center
+hr####_images/layout/h-ruler.gif
+par####justify_no_first_letter####4. Wyró¿nienia:
+par####justify_no_first_letter####&#8211; <b>Borys Budziñski</b> z klasy IIIa ze Szko³y Podstawowej nr 2 w Hajnówce:
+thumb####center####4####_images/content/spotkania_z_abecelkami/gnp01/####thumb_kat_IIIkl_wa_01.jpg####thumb_kat_IIIkl_wa_02.jpg####thumb_kat_IIIkl_wa_03.jpg####thumb_kat_IIIkl_wa_04.jpg#### #### #### #### ####none####0px####0px####center
+par####justify_no_first_letter####&#8211; <b>Emma Pawluczuk</b> z klasy IIIa ze Szko³y Podstawowej nr 2 w Hajnówce:
+thumb####center####3####_images/content/spotkania_z_abecelkami/gnp01/####thumb_kat_IIIkl_wb_01.jpg####thumb_kat_IIIkl_wb_02.jpg####thumb_kat_IIIkl_wb_03.jpg#### #### #### ####none####0px####0px####center
+par####justify_no_first_letter####&#8211; <b>Wiktoria ¦wiêtuchowska</b> z klasy IIIa ze Szko³y Podstawowej nr 2 w Hajnówce:
+thumb####center####3####_images/content/spotkania_z_abecelkami/gnp01/####thumb_kat_IIIkl_wc_01.jpg####thumb_kat_IIIkl_wc_02.jpg####thumb_kat_IIIkl_wc_03.jpg#### #### #### ####none####0px####0px####center
+par####justify_no_first_letter####&#8211; <b>Aneta Domañska</b> z klasy IIIb ze Szko³y Podstawowej w Miastkowie:
+thumb####center####2####_images/content/spotkania_z_abecelkami/gnp01/####thumb_kat_IIIkl_wf_01.jpg####thumb_kat_IIIkl_wf_02.jpg#### #### ####none####0px####0px####center
+hr####_images/layout/h-ruler.gif
+par####justify_no_first_letter####5. Wyró¿nienia specjalne:
+par####justify_no_first_letter####&#8211; <b>Karolina Nowicka</b> z klasy IIIa ze Szko³y Podstawowej nr 2 w Hajnówce &#8211; za interesuj±ce zilustrowanie tekstu:
+thumb####center####4####_images/content/spotkania_z_abecelkami/gnp01/####thumb_kat_IIIkl_wsa_01.jpg####thumb_kat_IIIkl_wsa_02.jpg####thumb_kat_IIIkl_wsa_03.jpg####thumb_kat_IIIkl_wsa_04.jpg#### #### #### #### ####none####0px####0px####center
+hr####_images/layout/h-ruler.gif
+par####justify_no_first_letter####&#8211; <b>Karol Ostapkiewicz</b> z klasy IIIc ze Szko³y Podstawowej nr 4 w Bielsku Podlaskim &#8211; za trafny dobór fotografii do napisanego tekstu:
+thumb####center####4####_images/content/spotkania_z_abecelkami/gnp01/####thumb_kat_IIIkl_wsc_01.jpg####thumb_kat_IIIkl_wsc_02.jpg####thumb_kat_IIIkl_wsc_03.jpg####thumb_kat_IIIkl_wsc_04.jpg#### #### #### #### ####none####0px####0px####center
+br####3
+up&back####

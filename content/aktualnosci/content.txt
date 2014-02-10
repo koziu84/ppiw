@@ -1,0 +1,597 @@
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<div align="right">
+		<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+			<tbody>
+				<tr>
+					<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+						<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+							Weso³ych ¦wi±t!</h3>
+					</td>
+				</tr>
+				<tr>
+					<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+						<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+							dodano: 19 kwietnia 2011 r.</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<img align="bottom" alt="Weso³ych ¦wi±t!" border="0" class="right" hspace="10px" src="http://ppiw.com.pl/_images/content/aktualnosci/a_sw.gif" style="border: none; float: right;" vspace="0px" />
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		¯yczymy Wielkanocy pachn±cej mazurkiem, puszystej jak baranek, kolorowej jak pisanki i niepowtarzalnej jak koszyczek wielkanocny.</p>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		¯yczymy zapach&oacute;w ciep³ej ziemi i&nbsp;¶wie¿ych kwiat&oacute;w, weso³ego powiewu wiatru we w³osach, wiosny w duszy, wiosny na ulicach, wiosny nienudnej i szczeg&oacute;lnej &ndash; na ¶wiêta Wielkiej Nocy&hellip;</p>
+	<br />
+	<div align="right">
+		<a href="http://ppiw.com.pl/index.php?go=aktualnosci&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<div align="right">
+		<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+			<tbody>
+				<tr>
+					<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+						<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+							MEN dopuszcza korzystanie ze starych podrêcznik&oacute;w</h3>
+					</td>
+				</tr>
+				<tr>
+					<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+						<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+							dodano: 25 wrze¶nia 2009 r.</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		Zachêcamy do zapoznania siê z artku³em&nbsp;<a href="http://wyborcza.pl/1,85996,7025311,Stare__tansze_podreczniki_wracaja_do_szkol.html" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_blank" title="Przejd¼ do strony Stowarzyszenia"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/window.gif" style="border: none;" />&bdquo;Stare, tañsze podrêczniki wracaj± do szk&oacute;³&rdquo;</a>.</p>
+	<br />
+	<div align="right">
+		<a href="http://ppiw.com.pl/index.php?go=aktualnosci&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<div align="right">
+		<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+			<tbody>
+				<tr>
+					<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+						<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+							Rabat na podrêczniki</h3>
+					</td>
+				</tr>
+				<tr>
+					<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+						<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+							dodano: 25 wrze¶nia 2009 r.</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		Na podrêczniki z serii&nbsp;<i>Moje abc</i>&nbsp;dla klasy I udzielamy&nbsp;<b>rabatu w wysoko¶ci 20%</b>. Oferta obowi±zuje do odwo³ania.</p>
+	<br />
+	<div align="right">
+		<a href="http://ppiw.com.pl/index.php?go=aktualnosci&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<div align="right">
+		<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+			<tbody>
+				<tr>
+					<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+						<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+							Nowy portal MEN na temat sze¶ciolatk&oacute;w</h3>
+					</td>
+				</tr>
+				<tr>
+					<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+						<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+							dodano: 25 marca 2009 r.</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		Ministerstwo Edukacji Narodowej uruchomi³o portal www.6latki.men.gov.pl, na kt&oacute;rym mo¿na znale¼æ odpowied¼ na pytanie:</p>
+	<p class="cite_letter" style="font-style: italic; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px; margin-left: 40px; margin-right: 40px;">
+		Dlaczego nie powsta³y ¿adne projekty podrêcznik&oacute;w do nauki dzieci 6-letnich, kt&oacute;rych rodzice zdecyduj±&nbsp;siê o&nbsp;nieposy³aniu ich do szko³y do klasy pierwszej?</p>
+	<p class="cite_letter" style="font-style: italic; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px; margin-left: 40px; margin-right: 40px;">
+		Odpowied¼:<br />
+		Ze wzglêdu na specyfikê wychowania przedszkolnego, kt&oacute;rego zadaniem jest wspomaganie rozwoju intelektualnego i&nbsp;kszta³towanie gotowo¶ci dziecka do nauki czytania i&nbsp;pisania, w&nbsp;szczeg&oacute;lno¶ci poprzez r&oacute;¿nego rodzaju zabawy i&nbsp;gry dydaktyczne, na&nbsp;tym etapie edukacyjnym korzystanie z&nbsp;podrêcznik&oacute;w nie&nbsp;jest konieczne. Decyzja o&nbsp;ewentualnym korzystaniu z&nbsp;podrêcznik&oacute;w pomocniczych, zeszyt&oacute;w æwiczeñ czy innych pomocy dydaktycznych nale¿y zatem do nauczyciela. Pomoce&nbsp;te nie&nbsp;wymagaj± dopuszczenia do u¿ytku szkolnego przez Ministra Edukacji Narodowej.</p>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		Dane dotycz±ce zatwierdzeñ ksi±¿ek z oferty PPiW dla sze¶ciolatk&oacute;w:</p>
+	<ul class="ul-Left" style="list-style-image: url(http://ppiw.com.pl/_images/layout/ul-puzzle.jpg); vertical-align: middle; font-size: 13px; color: rgb(17, 17, 17); margin-left: 40px; list-style-position: outside;">
+		<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+			Karty pracy&nbsp;<i>Uczymy siê z&nbsp;Psotk±</i>&nbsp;cz. 1. i 2. &ndash; zatwierdzone jako ksi±¿ki pomocnicze dla sze¶ciolatk&oacute;w, nr&nbsp;dopuszczenia 248/02.</li>
+	</ul>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		W&nbsp;<i>Przewodnikach dla nauczyciela</i>&nbsp;do Kart pracy&nbsp;<i>Uczymy siê z&nbsp;Psotk±</i>&nbsp;wymienione&nbsp;s± dzia³ania z&nbsp;wykorzystaniem atlasu i&nbsp;albumu, kt&oacute;re mo¿na podejmowaæ dla urozmaicenia realizowanych zajêæ:</p>
+	<ul class="ul-Left" style="list-style-image: url(http://ppiw.com.pl/_images/layout/ul-puzzle.jpg); vertical-align: middle; font-size: 13px; color: rgb(17, 17, 17); margin-left: 40px; list-style-position: outside;">
+		<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+			atlas&nbsp;<i>¦wiat wczoraj i dzi¶</i>&nbsp;&ndash; zatwierdzony jako ¶rodek dydaktyczny, nr&nbsp;zalecenia 1208/2001;</li>
+		<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+			album&nbsp;<i>¦wiat wok&oacute;³ mnie</i>&nbsp;&ndash; zatwierdzony jako ¶rodek dydaktyczny, nr&nbsp;zalecenia 1209/2001.</li>
+	</ul>
+	<br />
+	<div align="right">
+		<a href="http://ppiw.com.pl/index.php?go=aktualnosci&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+	<br />
+	<br />
+	<div align="right">
+		<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+			<tbody>
+				<tr>
+					<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+						<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+							Komunikat: Nowa podstawa programowa &ndash; nowe podrêczniki</h3>
+					</td>
+				</tr>
+				<tr>
+					<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+						<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+							dodano: 25 lutego 2009 r.</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<img align="bottom" alt="PPiW" border="0" class="left" hspace="10px" src="http://ppiw.com.pl/_images/content/aktualnosci/a_ppiwlogo.gif" style="border: none; float: left;" vspace="0px" />
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		Wed³ug Rozporz±dzenia Ministra Edukacji Narodowej z&nbsp;dnia 23&nbsp;grudnia&nbsp;2008&nbsp;roku w&nbsp;sprawie podstawy programowej wychowania przedszkolnego oraz kszta³cenia og&oacute;lnego w&nbsp;poszczeg&oacute;lnych typach szk&oacute;³ (Dz.&nbsp;U.&nbsp;z&nbsp;dnia 15&nbsp;stycznia&nbsp;2009&nbsp;roku, Nr&nbsp;4, poz.&nbsp;17) nowa podstawa programowa bêdzie obowi±zywaæ od roku szkolnego 2009/2010 w&nbsp;przedszkolach, pierwszych klasach szk&oacute;³ podstawowych i&nbsp;pierwszych klasach gimnazjum.</p>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		<b>Wszystkich zainteresowanych podrêcznikami Pracowni Pedagogicznej i&nbsp;Wydawniczej na rok szkolny 2009/2010 proszê o&nbsp;bezpo¶redni kontakt:</b></p>
+	<p class="right" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		<a href="mailto:ppiw@ppiw.com.pl?subject=Ze%20strony%20WWW...&amp;body=Witam!" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" title="ppiw@ppiw.com.pl"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/envelope.gif" style="border: none;" /><b>ppiw@ppiw.com.pl</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
+		<a href="mailto:j.korzanska@ppiw.com.pl?subject=Ze%20strony%20WWW...&amp;body=Witam!" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" title="j.korzanska@ppiw.com.pl"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/envelope.gif" style="border: none;" /><b>j.korzanska@ppiw.com.pl</b></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+	<br />
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		<a href="http://ppiw.com.pl/index.php?go=stowarzyszenie_nauczycieli&amp;sub1=aktualnosci#ldm" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ do strony Stowarzyszenia"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/anchor.gif" style="border: none;" />Zapraszamy do dyskusji na temat potrzeb nauczycieli i uczni&oacute;w zwi±zanych z wprowadzeniem reformy.</a></p>
+	<br />
+	<div align="right">
+		<a href="http://ppiw.com.pl/index.php?go=aktualnosci&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+	<br />
+	<br />
+	<br />
+	<div align="right">
+		<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+			<tbody>
+				<tr>
+					<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+						<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+							Zapraszamy na stronê Stowarzyszenia Edukacja Jutra</h3>
+					</td>
+				</tr>
+				<tr>
+					<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+						<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+							dodano: 12 stycznia 2009 r.</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		Cztery lata temu ksi±¿ka &bdquo;Abecelki i&nbsp;duch Bursztynowego Domu&rdquo; Ma³gorzaty Strêkowskiej-Zaremby otrzyma³a literack± nagrodê im.&nbsp;Kornela Makuszyñskiego. Rok p&oacute;¼niej ukaza³a&nbsp;siê druga czê¶æ przyg&oacute;d sympatycznych bohater&oacute;w &ndash; abecelk&oacute;w. Obie ksi±¿ki ci±gle zyskuj± nowych czytelnik&oacute;w.</p>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		To znakomity prezent dla ka¿dego dziecka! Zapraszamy do naszego&nbsp;<a href="http://ppiw.com.pl/content/_sklep/index.php?p=productsList&amp;sWord=Abecelki" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_new" title="Przejd¼ do sklepu internetowego PPiW"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/shop.gif" style="border: none;" />sklepu internetowego</a>.</p>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		Zamieszczamy&nbsp;<a href="http://ppiw.com.pl/download/stowarzyszenie_nauczycieli/aktualnosci/sprawozdanie-abecelki.pdf" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_new" title="Pobierz plik. (rozmiar pliku: 79.5 kB)"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/download.gif" style="border: none;" />sprawozdanie</a>&nbsp;z wykonania zadania publicznego &bdquo;Abecelki, czyli inicjacja czytelnicza najm³odszych uczni&oacute;w&rdquo; zrealizowanego w Gorzowie Wielkopolskim przez&nbsp;<a href="http://ppiw.com.pl/index.php?go=stowarzyszenie_nauczycieli&amp;sub1=aktualnosci" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ do strony Stowarzyszenia"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/anchor.gif" style="border: none;" />Stowarzyszenie Nauczycieli Nowator&oacute;w na rzecz Jako¶ci Edukacji &bdquo;Edukacja Jutra&rdquo;</a>.</p>
+	<br />
+	<div align="right">
+		<a href="http://ppiw.com.pl/index.php?go=aktualnosci&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<div align="right">
+		<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+			<tbody>
+				<tr>
+					<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+						<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+							Dzieñ Nauczyciela</h3>
+					</td>
+				</tr>
+				<tr>
+					<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+						<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+							dodano: 14 pa¼dziernika 2008 r.</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		Wszystkim Nauczycielom ¿yczymy, aby nie zabrak³o Wam zapa³u do pracy, aby¶cie uczyli pokonywania z³a i&nbsp;kierowania&nbsp;siê w&nbsp;¿yciu tylko dobrem, i&nbsp;aby efekty Waszej pracy by³y widoczne niemal natychmiast.</p>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		¯yczymy wytrwa³o¶ci, by¶cie mogli w&nbsp;pe³ni realizowaæ swoje plany ¿yciowe i&nbsp;zawodowe.</p>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		¯yczymy spe³nienia obranego celu oraz tego, aby Wasza praca by³a ¼r&oacute;d³em satysfakcji i&nbsp;uznania innych.</p>
+	<br />
+	<div align="right">
+		<a href="http://ppiw.com.pl/index.php?go=aktualnosci&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<div align="right">
+		<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+			<tbody>
+				<tr>
+					<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+						<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+							Pocz±tek roku szkolnego</h3>
+					</td>
+				</tr>
+				<tr>
+					<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+						<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+							dodano: 29 sierpnia 2008 r.</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<table class="a-pr" style="font-size: 13px; width: 618px; background-image: url(http://ppiw.com.pl/_images/content/aktualnosci/a_prsz.jpg); background-color: transparent; background-position: 50% 50%; background-repeat: no-repeat no-repeat;">
+		<tbody>
+			<tr>
+				<td class="a-pr-kol" style="border: none; padding: 5px; vertical-align: top; background-color: transparent;">
+					<p class="left" style="color: rgb(5, 5, 5); line-height: 19px;">
+						Da³ sygna³ odjazdu<br />
+						zawiadowca stacji...<br />
+						Wiêc trzeba siê ¿egnaæ?<br />
+						Ju¿ koniec wakacji?</p>
+					<p class="left_indent" style="color: rgb(5, 5, 5); line-height: 19px; margin-left: 20px;">
+						Zostawiæ ¼rebaczka,<br />
+						co bryka³ na ³±ce?<br />
+						Je¿yny na krzaczkach?<br />
+						¯ab wieczorny koncert,<br />
+						kt&oacute;re rechota³y,<br />
+						¿e s± rade-rade...<br />
+						Trudno siê rozstawaæ, ale pora!<br />
+						Jadê!</p>
+				</td>
+				<td class="a-pr-kol" style="border: none; padding: 5px; vertical-align: top; background-color: transparent;">
+					<p class="left" style="color: rgb(5, 5, 5); line-height: 19px;">
+						Ruszaj± poci±gi.<br />
+						Do domu wracamy!<br />
+						Do miasta, koleg&oacute;w,<br />
+						do taty, do mamy.<br />
+						¦piewaj± wagony<br />
+						piosenkê weso³±:<br />
+						&ndash; ¯e ju-tro, ¿e ju-tro,<br />
+						spot-ka-nie przed szko-³±!</p>
+					<p class="signature" style="text-align: right; line-height: 20px;">
+						<b>Hanna Zieliñska</b>,</p>
+					<p class="note-right" style="font-family: Arial, Halvetica, sans-serif; font-size: 11px; text-align: right;">
+						<i>Powr&oacute;t</i>, s. 6.<br />
+						<i>Moje abc. Czytanki. Pamiêtnik Doroty, Klasa II czê¶æ 1.</i></p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		Po dwumiesiêcznych letnich wakacjach dzieci wracaj± do szk&oacute;³...</p>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		¯yczymy im tego, ¿eby w szkole znale¼li nie tylko wiedzê, lecz tak¿e przyjaci&oacute;³ i serdeczno¶æ nauczycieli. ¯yczymy chêci i zapa³u do pracy przez ca³y rok szkolny, sukces&oacute;w, ale nie tylko w nauce &ndash; bo sukces mo¿na osi±gn±æ tak¿e w innych dziedzinach, na przyk³ad w sporcie albo pomagaj±c innym.</p>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		¯yczymy mi³ej i sympatycznej atmosfery w szkole, a nauczycielom otwarto¶ci na uczniowskie potrzeby.</p>
+	<p class="note-left" style="font-family: Arial, Halvetica, sans-serif;">
+		<i>Ilustracja pochodzi z podrêcznika Moje abc. Czytanki. Pamiêtnik Doroty, Klasa II czê¶æ 1., Warszawa 2005, s.&nbsp;6.&ndash;7.</i></p>
+	<br />
+	<div align="right">
+		<a href="http://ppiw.com.pl/index.php?go=aktualnosci&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<div align="right">
+		<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+			<tbody>
+				<tr>
+					<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+						<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+							Ochrona danych osobowych</h3>
+					</td>
+				</tr>
+				<tr>
+					<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+						<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+							dodano: 22 marca 2008 r.</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		W zwi±zku z Ustaw± z&nbsp;dnia 29&nbsp;sierpnia 1997&nbsp;r. o&nbsp;ochronie danych osobowych (DzU&nbsp;z&nbsp;2002&nbsp;r. Nr&nbsp;101, poz.&nbsp;926 z&nbsp;p&oacute;¼n.&nbsp;zm.)&nbsp;<b>osoby zg³aszaj±ce&nbsp;siê do udzia³u w&nbsp;programie weryfikacji oraz dokonuj±ce zakup&oacute;w w&nbsp;naszym&nbsp;<a href="http://ppiw.com.pl/content/_sklep/index.php" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_new" title="Sklep internetowy PPiW"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/window.gif" style="border: none;" />sklepie internetowym</a></b>&nbsp;prosimy o&nbsp;przes³anie na&nbsp;<a href="http://ppiw.com.pl/index.php?go=kontakt&amp;sub1=" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_main" title="Dane teleadresowe"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/anchor.gif" style="border: none;" />adres Pracowni</a>&nbsp;wype³nionego i&nbsp;podpisanego&nbsp;<a href="http://ppiw.com.pl/download/oswiadczenie_dane.pdf" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_top" title="Plik do pobrania (rozmiar pliku: 57,4 kB)"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/download.gif" style="border: none;" />o¶wiadczenia</a>&nbsp;dotycz±cego przetwarzania danych osobowych.</p>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		Odes³anie o¶wiadczenia bêdziemy traktowaæ jako wyra¿enie zgody na przetwarzanie danych osobowych w rozumieniu ww. Ustawy. Jednocze¶nie informujemy, ¿e w przypadku niewype³nienia&nbsp;<a href="http://ppiw.com.pl/download/oswiadczenie_dane.pdf" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_top" title="Plik do pobrania (rozmiar pliku: 57,4 kB)"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/download.gif" style="border: none;" />o¶wiadczenia</a>&nbsp;lub nieudzielenia zgody na przetwarzanie danych osobowych, dane osobowe nie zostan± wprowadzone do bazy Pracowni Pedagogicznej i Wydawniczej.</p>
+	<br />
+	<div align="right">
+		<a href="http://ppiw.com.pl/index.php?go=aktualnosci&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<div align="right">
+		<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+			<tbody>
+				<tr>
+					<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+						<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+							Do Ciebie nale¿y wyb&oacute;r &ndash; informacja dla nauczycieli</h3>
+					</td>
+				</tr>
+				<tr>
+					<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+						<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+							dodano: 11 lutego 2008 r.</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<center>
+		<table class="thumb" style="font-size: 13px;">
+			<tbody>
+				<tr>
+					<td class="thumb" style="border-color: rgb(176, 177, 255); padding: 5px;">
+						<a style="color: rgb(85, 85, 85); cursor: pointer; line-height: 18px;" title="Powiêksz w nowym oknie"><img align="center" alt="&nbsp;" border="none" class="center" hspace="0px" src="http://ppiw.com.pl/_images/content/aktualnosci/thumb_a_dcnw.jpg" style="border: none; float: none;" vspace="0px" /></a></td>
+				</tr>
+				<tr>
+					<td>
+						<p>
+							&nbsp;</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		Artyku³ pochodzi z &bdquo;Dziennika&rdquo; z 2 lutego 2008 r., s. 6.</p>
+	<br />
+	<div align="right">
+		<a href="http://ppiw.com.pl/index.php?go=aktualnosci&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<div align="right">
+		<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+			<tbody>
+				<tr>
+					<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+						<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+							Konkurs Centralnego O¶rodka Doskonalenia Nauczycieli</h3>
+					</td>
+				</tr>
+				<tr>
+					<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+						<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+							dodano: 30 listopada 2007 r.</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<img align="bottom" alt="Konkurs dla nauczycieli" border="0" class="left" hspace="10px" src="http://ppiw.com.pl/_images/content/aktualnosci/a_kcodn.jpg" style="border: none; float: left;" vspace="0px" />
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		Zajrzyj na&nbsp;<a href="http://www.lem.codn.edu.pl/konkurs/" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_blank" title="Otwórz link w nowym oknie"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/window.gif" style="border: none;" />tê stronê</a>. To konkurs dla Ciebie!</p>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		Je¶li masz do¶wiadczenia zdobyte we&nbsp;wsp&oacute;³pracy z&nbsp;nami, to pewnie bêdziesz mieæ problem, kt&oacute;re 6&nbsp;minut prowadzonych przez Ciebie zajêæ przedstawiæ jako materia³ konkursowy! We¼ udzia³ w konkursie dla osi±gniêcia satysfakcji lub dla&hellip; nagrody, a&nbsp;najlepiej dla ogromnej satysfakcji z&nbsp;powodu zdobycia nagrody!</p>
+	<p class="note-left" style="font-family: Arial, Halvetica, sans-serif;">
+		<i>Ilustracja pochodzi z podrêcznika Moje abc. Podrêcznik Olka, Klasa III czê¶æ 2., Warszawa 2006, s. 138.</i></p>
+	<br />
+	<div align="right">
+		<a href="http://ppiw.com.pl/index.php?go=aktualnosci&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<div align="right">
+		<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+			<tbody>
+				<tr>
+					<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+						<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+							Rozstrzygniêcie konkursu na najciekawsze kartki z pamiêtnika</h3>
+					</td>
+				</tr>
+				<tr>
+					<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+						<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+							dodano: 15 listopada 2007 r.</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		Konkurs na najciekawsze kartki z pamiêtnika rozstrzygniêty. Mo¿na pobraæ&nbsp;<a href="http://ppiw.com.pl/download/protokol_z_posiedzenia_jury.doc" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_top" title="Plik do pobrania (rozmiar pliku: 85 kB)"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/download.gif" style="border: none;" />protok&oacute;³ z posiedzenia jury</a>&nbsp;w sprawie rozstrzygniêcia konkursu.</p>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		Otrzymali¶my kilkadziesi±t bardzo ciekawych prac konkursowych. Gratulujemy zwyciêzcom, a&nbsp;wszystkim dzieciom, kt&oacute;re wziê³y udzia³ w konkursie, dziêkujemy za chêæ podzielenia siê z innymi swoimi prze¿yciami. Opiekunom klas, z kt&oacute;rych dzieci wys³a³y prace na konkurs, dziêkujemy natomiast za&nbsp;wspieranie uczni&oacute;w w ich dzia³aniach.</p>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		Zgodnie z Ustaw± z dnia 29&nbsp;sierpnia&nbsp;1997&nbsp;r. o&nbsp;ochronie danych osobowych (Dz.&nbsp;U.&nbsp;Nr&nbsp;133, poz.&nbsp;883) nagrodzone prace konkursowe zamie¶cimy po otrzymaniu pisemnej zgody rodzic&oacute;w/opiekun&oacute;w dzieci na opublikowanie tych prac na stronie internetowej PPiW.</p>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		W&nbsp;<a href="http://ppiw.com.pl/index.php?go=spotkania_z_abecelkami&amp;sub1=gnp01" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_main" title="Galeria nagrodzonych prac"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/anchor.gif" style="border: none;" />galerii</a>&nbsp;mo¿na obejrzeæ nagrodzone prace dzieci.</p>
+	<br />
+	<div align="right">
+		<a href="http://ppiw.com.pl/index.php?go=aktualnosci&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<div align="right">
+		<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+			<tbody>
+				<tr>
+					<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+						<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+							Nowe karty kontrolne do podrêcznik&oacute;w&nbsp;<i>Moje abc</i></h3>
+					</td>
+				</tr>
+				<tr>
+					<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+						<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+							dodano: 16 stcznia 2007 r.</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		Nowe karty kontrolne do podrêcznik&oacute;w z serii&nbsp;<i>Moje abc</i>&nbsp;s± do nabycia poza sklepem internetowym. Zg³oszenia proszê kierowaæ na adres:&nbsp;<a href="mailto:ppiw@ppiw.com.pl?subject=Karty%20kontrolne%20z%20serii%20Moje%20abc&amp;body=Witam!" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" title="ppiw@ppiw.com.pl"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/envelope.gif" style="border: none;" /><b>ppiw@ppiw.com.pl</b></a>.</p>
+	<br />
+	<div align="right">
+		<a href="http://ppiw.com.pl/index.php?go=aktualnosci&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<div align="right">
+		<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+			<tbody>
+				<tr>
+					<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+						<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+							Ju¿ mo¿na:</h3>
+					</td>
+				</tr>
+				<tr>
+					<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+						<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+							dodano: 7 grudnia 2006 r.</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<ul class="ul-Left" style="list-style-image: url(http://ppiw.com.pl/_images/layout/ul-puzzle.jpg); vertical-align: middle; font-size: 13px; color: rgb(17, 17, 17); margin-left: 40px; list-style-position: outside;">
+		<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+			Przesy³aæ sw&oacute;j zawodowy dorobek: oryginalne pomys³y ca³odziennych zajêæ lub d³ugoterminowych projekt&oacute;w w celu zaprezentowania ich na stronach www Pracowni.</li>
+		<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+			Zg³aszaæ zapotrzebowanie na programy wychowawcze mo¿liwe do realizacji w trakcie bie¿±cej pracy z&nbsp;<i>Programem abc</i>&nbsp;i podrêcznikami&nbsp;<i>Moje abc</i>&nbsp;o tematyce:
+			<ul style="list-style-image: none; list-style-type: none;">
+				<li>
+					&ndash; patriotycznnej,</li>
+				<li>
+					&ndash; ekologicznej,</li>
+				<li>
+					&ndash; regionalnej,</li>
+				<li>
+					oraz:</li>
+				<li>
+					&ndash; rozwijaj±cej zainteresowania i samodzielne uczenie siê,</li>
+				<li>
+					&ndash; wspieraj±cej aktywno¶æ czytelnicz±,</li>
+			</ul>
+		</li>
+		<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+			Zapraszaæ na spotkania autorskie:
+			<ul style="list-style-image: none; list-style-type: none;">
+				<li>
+					&ndash; autorki kart pracy&nbsp;<i>Uczymy siê z Psotk±</i>&nbsp;do klasy 0,</li>
+				<li>
+					&ndash; autorki nowej edycji podrêcznik&oacute;w do klas I&ndash;III&nbsp;<i>Moje abc</i>,</li>
+				<li>
+					&ndash; autorkê ksi±¿ek&nbsp;<i>Abecelki i duch Bursztynowego Domu</i>,&nbsp;<i>Abecelki i tajemnica &nbsp;&nbsp;Bursztynowego Domu</i>, wsp&oacute;³autorkê&nbsp;<i>Kolorowych ¿yczeñ</i>.</li>
+			</ul>
+		</li>
+		<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+			Przyst±piæ do weryfikacji kart kontrolnych przeznaczonych do nowej edycji podrêcznik&oacute;w<i>Moje abc</i>.</li>
+		<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+			Zg³osiæ sw&oacute;j udzia³ do wsp&oacute;³pracy nad nowym projektem wydawniczym Pracowni.</li>
+		<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+			Zamawiaæ spotkania metodyczne i ich tematykê.</li>
+	</ul>
+	<br />
+	<div align="right">
+		<a href="http://ppiw.com.pl/index.php?go=aktualnosci&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+	<br />
+	<br />
+	<br />
+	<br />
+	<br />
+	<div align="right">
+		<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+			<tbody>
+				<tr>
+					<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+						<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+							Wsp&oacute;³praca z wydawnictwem MAC Edukacja S.A.</h3>
+					</td>
+				</tr>
+				<tr>
+					<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+						<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+							dodano: 22 kwietnia 2006 r.</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		Pracownia Pedagogiczna i Wydawnicza przyst±pi³a w tym roku szkolnym do wsp&oacute;³pracy z&nbsp;wydawnictwem&nbsp;<a href="http://www.mac.pl/" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_blank" title="Otwórz link w nowym oknie"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/window.gif" style="border: none;" />MAC Edukacja S.A.</a>&nbsp;w zakresie druku i dystrybucji publikacji ze swojej oferty wydawniczej. Katalog wydawniczy na rok szkolny 2006/2007 zosta³ przygotowany przez Dzia³ Sprzeda¿y&nbsp;<a href="http://www.mac.pl/" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_blank" title="Otwórz link w nowym oknie"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/window.gif" style="border: none;" />MAC Edukacja S.A.</a>&nbsp;i zapewne przedstawiciele tego wydawnictwa dotarli z nim do wszystkich szk&oacute;³. Je¶li chcesz skontaktowaæ siê z przedstawicielem handlowym MAC Edukacja S.A., skorzystaj z danych zawartych w&nbsp;<a href="http://ppiw.com.pl/download/kontakty.pdf" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_blank" title="Pobierz dokument PDF"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/download.gif" style="border: none;" />wykazie konsultant&oacute;w MAC Edukacja S.A.</a></p>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		Poni¿ej list skierowany do wszystkich odwiedzaj±cych www.ppiw.com.pl.</p>
+	<p class="cite_letter" style="font-style: italic; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px; margin-left: 40px; margin-right: 40px;">
+		Szanowni Pañstwo,</p>
+	<p class="cite_letter" style="font-style: italic; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px; margin-left: 40px; margin-right: 40px;">
+		&nbsp;&nbsp;&nbsp;Uprzejmie informujemy, ¿e&nbsp;<b>dystrybucj±</b>&nbsp;nowej edycji cyklu&nbsp;<b>Moje ABC</b>&nbsp;autorstwa Janiny Korzañskiej zajmuje siê obecnie Wydawnictwo&nbsp;<b>MAC Edukacja S.A.</b></p>
+	<p class="cite_letter" style="font-style: italic; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px; margin-left: 40px; margin-right: 40px;">
+		&nbsp;&nbsp;&nbsp;Zam&oacute;wienia na podrêczniki&nbsp;<b>Moje ABC</b>&nbsp;oraz publikacje pomocnicze mo¿na sk³adaæ telefonicznie w centrali Wydawnictwa MAC Edukacja pod numerami infolinii: 0&nbsp;801&nbsp;808&nbsp;102 i&nbsp;0&nbsp;801&nbsp;802&nbsp;102 oraz w ksiêgarni internetowej&nbsp;<a href="http://www.mac.pl/ksiegarnia.php" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_blank" title="Otwórz link w nowym oknie"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/window.gif" style="border: none;" />www.mac.pl</a>.</p>
+	<p class="cite_letter" style="font-style: italic; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px; margin-left: 40px; margin-right: 40px;">
+		&nbsp;&nbsp;&nbsp;Na pytania i w±tpliwo¶ci odpowiedz± Pañstwu pracownicy&nbsp;<b>Dzia³u Obs³ugi Klienta</b>dy¿uruj±cy w ka¿dy dzieñ powszedni do godz. 16:00 pod numerami: 0&nbsp;801&nbsp;808&nbsp;102 i&nbsp;0&nbsp;801&nbsp;802&nbsp;102. Pytania mo¿na kierowaæ r&oacute;wnie¿ drog± mailow± na adres:&nbsp;<a href="mailto:mac@mac.pl" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" title="mac@mac.pl"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/envelope.gif" style="border: none;" />mac@mac.pl</a>. W&nbsp;przypadku chêci zaproszenia nas do Pañstwa szko³y, sugerujemy kontakt z&nbsp;pracownikami Dzia³u Marketingu:&nbsp;<a href="mailto:marketing@mac.pl" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" title="marketing@mac.pl"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/envelope.gif" style="border: none;" />marketing@mac.pl</a>.</p>
+	<p class="cite_letter" style="font-style: italic; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px; margin-left: 40px; margin-right: 40px;">
+		Zapraszamy do wsp&oacute;³pracy<br />
+		<b>Zarz±d Wydawnictwa<br />
+		MAC Edukacja S.A.</b></p>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		W katalogu wydawniczym wydanym w 2006 roku nie zosta³y wymienione niekt&oacute;re pozycje znajduj±ce siê ci±gle w ofercie Pracowni. Znale¼æ je mo¿na na naszej&nbsp;<a href="http://ppiw.com.pl/content/_sklep/index.php" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_blank" title="Otwórz link w nowym oknie"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/window.gif" style="border: none;" />stronie internetowej</a>&nbsp;lub w zesz³orocznym katalogu PPiW.</p>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		We wszystkich sprawach zwi±zanych z zam&oacute;wieniami publikacji PPiW nale¿y kontaktowaæ siê, korzystaj±c z danych adresowych znajduj±cych siê w dziale&nbsp;<a href="http://ppiw.com.pl/index.php?go=kontakt" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_self" title="Kontakt"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/anchor.gif" style="border: none;" />Kontakt</a>.</p>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		Aktualne dane adresowe Pracowni:</p>
+	<ul class="ul-Left" style="list-style-image: url(http://ppiw.com.pl/_images/layout/ul-puzzle.jpg); vertical-align: middle; font-size: 13px; color: rgb(17, 17, 17); margin-left: 40px; list-style-position: outside;">
+		<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+			adresy mailowe:<br />
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:j.korzanska@ppiw.com.pl?subject=Ze%20strony%20WWW...&amp;body=Witam!" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;" title="j.korzanska@ppiw.com.pl"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/envelope.gif" style="border: none;" /><b>j.korzanska@ppiw.com.pl</b></a><br />
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:sprzedaz@ppiw.com.pl?subject=Ze%20strony%20WWW...&amp;body=Witam!" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;" title="sprzedaz@ppiw.com.pl"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/envelope.gif" style="border: none;" /><b>sprzedaz@ppiw.com.pl</b></a><br />
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:ppiw@ppiw.com.pl?subject=Ze%20strony%20WWW...&amp;body=Witam!" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;" title="ppiw@ppiw.com.pl"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/envelope.gif" style="border: none;" /><b>ppiw@ppiw.com.pl</b></a></li>
+		<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+			tel./faks (0) 22 851 50 83, (0) 22 840 55 39,</li>
+		<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+			adres pocztowy:&nbsp;<b>ul. Dragon&oacute;w 8 lok. 42, 00-467 Warszawa</b>.</li>
+	</ul>
+	<p class="justify" style="font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+		Serdecznie pozdrawiam wszystkich odwiedzaj±cych strony Pracowni i liczê na dalsz± interesuj±c± wsp&oacute;³pracê</p>
+	<p class="signature" style="font-size: 13px; line-height: 20px;">
+		<b>Janina Korzañska</b></p>
+	<br />
+	<div align="right">
+		<a href="http://ppiw.com.pl/index.php?go=aktualnosci&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+</div>
+<p>
+	&nbsp;</p>

@@ -1,0 +1,59 @@
+/* attributes displayed on product more page */
+div#attrSelect, div#attrSelect div {
+	width: auto;
+	border: 0px;
+}
+div#attrSelect select {
+	width: 100%;
+}
+div#attrSelect .paUI {
+	text-align: left;
+	font-weight:normal;
+	font-size:10px;
+	color:#000000;
+	font-style:italic; 
+}
+div#attrSelect .paUI input {
+	width: 100%;
+   text-align:left;
+}
+
+/* attributes on print of product */
+div#attrPrint table {
+	padding: 0px;
+	margin: 1px;
+	border: 0px;
+	border-collapse: collapse;
+}
+div#attrPrint th {
+   width: 70px;
+	font-weight: normal;
+}
+div#attrPrint td {
+	border: 1px solid #808080;
+	margin: 0px;
+	padding: 1px 5px 1px 5px;
+}
+div#attrPrint span {
+	font-style: italic;
+	color: #A3A3A3;
+}
+
+/* prices displayed in add-to-cart sections */
+div#addcart #fPrice {
+	position: absolute;
+	visibility: hidden;
+}
+#paOldPrice {
+	text-decoration: line-through;
+	color: #808080;
+	background-color: inherit;
+}
+#paSpecialPrice {
+}
+
+/* Style of attributes displayed in basket */
+.paBasketAttr, .paBasketAttrPrint {
+	font-style: italic;
+	color: #808080;
+}

@@ -1,0 +1,18 @@
+script####<script Language="JavaScript1.1">function enlarge_picture(picture_path, wwidth, wheight, wdescription){EnlargedWindow=window.open('', '','width='+wwidth+',height='+wheight+',toolbar=no,directories=no,menubar=no,locations=no,status=no,scrollbars=no,resizable=no,screenX=10,screenY=10,fullscreen=no'); EnlargedWindow.document.open(); EnlargedWindow.document.writeln("<html>\n<head>\n</head>"); EnlargedWindow.document.writeln("<title>Powiêkszony obrazek</title>"); EnlargedWindow.document.writeln("<body leftmargin=0 topmargin=0 style=\"font-family:Arial, Helvetica, sans-serif; font-size:11pt; background-color:#ffffff; background: url(_images/layout/bg.jpg) fixed repeat-x top\">"); EnlargedWindow.document.writeln("<table width=100% height=100% style=\"font-family:Arial, Helvetica, sans-serif; font-size:11pt;\">"); EnlargedWindow.document.writeln("<tr><td valign=center align=center>\n<a href=\"javascript:window.close();\" title=\"Zamknij okno\"><img src="+picture_path+" style=\"border-width: 1px; border-color: #CCCCCC; border-style: solid;\"></a></td></tr>"); EnlargedWindow.document.writeln("<tr><td align=center style=\"font-family:Arial, Helvetica, sans-serif; font-size:10pt; font-color:#000022; background-color:#ffffff\">"+wdescription+"\n</td></tr>"); EnlargedWindow.document.writeln("</table>"); EnlargedWindow.document.writeln("</body>\n</html>\n"); EnlargedWindow.document.close(); EnlargedWindow.focus(); return;}</script>
+submenu####
+br####2
+headtab####sectionTitle####Numer KRS####authors####
+par####justify####Organizacja zosta³a zarejestrowana w KRS w 2002 r. pod numerem: 0000121167. Wiêcej informacji na&nbsp;<a href="http://pdi.cors.gov.pl/KRSSED/Podmiot.aspx?nrkrs=0000121167" target="_blank" onMouseOver="self.status='Otwórz link w nowym oknie'; return true;" title="Otwórz link w nowym oknie"><img src="_images/layout/pictograms/window.gif" alt="&#187;&nbsp;" border="0" />stronie KRS</a>.
+br####3
+headtab####sectionTitle####Sk³adki cz³onkowskie####authors####
+par####justify####Prosimy bardzo o regulowanie sk³adek cz³onkowskich!
+par####justify####Numer konta Stowarzyszenia: 24 1020 1068 0000 1902 0060 7390.
+br####3
+headtab####sectionTitle####Statut Stowarzyszenia####authors####
+par####justify####Obecny statut <b>Stowarzyszenia Nauczycieli Nowatorów na Rzecz Jako¶ci Edukacji &#8222;Edukacja Jutra&#8221;</b> w&nbsp;formie pliku PDF <a href="download/statut_SNNnrJEEJ.pdf" target="_top" onMouseOver="self.status='Pobierz plik'; return true;" title="Plik do pobrania (rozmiar pliku: 94,3 kB)"><img src="_images/layout/pictograms/download.gif" alt="&#187;&nbsp;" border="0" />do pobrania</a>.
+br####3
+headtab####sectionTitle####Projekt nowego statutu####authors####
+par####justify####Poddajemy pod dyskusjê projekt statutu Stowarzyszenia jako organizacji po¿ytku publicznego. Po&nbsp;wprowadzeniu zmian projekt zostanie przedstawiony do zatwierdzenia na najbli¿szym Zwyczajnym Walnym Zebraniu Cz³onków Stowarzyszenia.
+par####justify####Projekt <b>nowego</b> statutu <a href="download/statut_SNNnrJEEJ_projekt.pdf" target="_top" onMouseOver="self.status='Pobierz plik'; return true;" title="Plik do pobrania (rozmiar pliku: 107,1 kB)"><img src="_images/layout/pictograms/download.gif" alt="&#187;&nbsp;" border="0" />do pobrania</a> w formie pliku PDF.
+up&back####
+submenu####

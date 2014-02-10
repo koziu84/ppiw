@@ -1,0 +1,241 @@
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+		<tbody>
+			<tr>
+				<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://localhost/ppiw/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+					<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+						Klasa 0 &ndash; edycja 2004</h3>
+				</td>
+			</tr>
+			<tr>
+				<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://localhost/ppiw/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+					<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+						Autorki:<br />
+						<b>Katarzyna Dolna<br />
+						Ma³gorzata Sieñczewska<br />
+						Katarzyna Wujczak<br />
+						Mariola Wyrzykowska</b></p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<h4 class="subSectionTitle" style="font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: 15px; color: rgb(72, 70, 223); line-height: 17px; text-align: justify;">
+	<b>Karty pracy&nbsp;<i>Uczymy siê z Psotk±</i></b></h4>
+<p>
+	<img align="right" alt="Karty pracy Uczymy siê z Psotk±" border="0" class="frontpage" hspace="10px" src="http://localhost/ppiw/_images/content/dla_szesciolatkow/dsz_kpuszp.jpg" style="border: none; float: right; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" vspace="2px" /></p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Atrakcyjny zestaw zabawnych zadañ edukacyjnych i&nbsp;kr&oacute;tkich tekst&oacute;w, sprzyjaj±cych indywidualizacji pracy z&nbsp;dzieckiem, wyzwalaj±cych spontaniczno¶æ, zachêcaj±cych do podejmowania tw&oacute;rczych dzia³añ i&nbsp;zabawy.</p>
+<ul class="ul-Left" style="list-style-image: url(http://localhost/ppiw/_images/layout/ul-puzzle.jpg); vertical-align: middle; font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(17, 17, 17); margin-left: 40px; list-style-position: outside;">
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		Rozwija umiejêtno¶ci niezbêdne do podjêcia nauki.</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		Odwo³uje&nbsp;siê do do¶wiadczeñ dziecka, umiejêtnie ³±cz±c zabawê z&nbsp;procesem uczenia siê.</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		Pobudza naturaln± aktywno¶æ, rozwijaj±c wyobra¼niê dziecka i&nbsp;zainteresowania.</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		Sprawia, ¿e nauka staje&nbsp;siê pasjonuj±c± podr&oacute;¿± w&nbsp;nieznane, w&nbsp;ktorej przewodnikiem jest zabawna Psotka.</li>
+</ul>
+<p>
+	&nbsp;</p>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: left;">
+	<a href="http://localhost/ppiw/content/_sklep/index.php?p=productsList&amp;sWord=Uczymy+si%EA+z+Psotk%B1+klasa+0" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ do sklepu internetowego PPiW"><img alt="^&nbsp;" src="http://localhost/ppiw/_images/layout/zamow.jpg" style="border: none;" /></a></div>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: right; width: 311px; text-align: right;">
+	<a href="http://localhost/ppiw/index.php?go=dla_szesciolatkow&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://localhost/ppiw/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://localhost/ppiw/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<h4 class="subSectionTitle" style="font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: 15px; color: rgb(72, 70, 223); line-height: 17px; text-align: justify;">
+	<b>Program dla klasy 0&nbsp;<i>Uczymy siê z Psotk±</i></b></h4>
+<p>
+	<img align="right" alt="Uczymy siê z Psotk±" border="0" class="frontpage" hspace="10px" src="http://localhost/ppiw/_images/content/dla_szesciolatkow/dsz_pdk0.jpg" style="border: none; float: right; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" vspace="5px" /></p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Program dla sze¶ciolatk&oacute;w&nbsp;<i>Uczymy&nbsp;siê z&nbsp;Psotk±</i>&nbsp;nawi±zuje do za³o¿eñ edukacji zintegrowanej, w&nbsp;kt&oacute;rej wiêksze znaczenie przywi±zuje&nbsp;siê do rozwijania umiejêtno¶ci poznawczych i&nbsp;spo³eczno-emocjonalnych, umo¿liwiaj±cych poznawanie ¶wiata i&nbsp;sprawne funkcjonowanie w¶r&oacute;d r&oacute;wie¶nik&oacute;w i&nbsp;doros³ych, ni¿ do gromadzenia zasob&oacute;w wiedzy, kt&oacute;ra jest oderwana od rzeczywisto¶ci. Proces edukacji dzieci sze¶cioletnich ma naturalny charakter, odwo³uje siê do ich osobistych do¶wiadczeñ, odpowiada indywidualnym mo¿liwo¶ciom, sprzyja rozwojowi ka¿dego dziecka. Dzieci poznaj± ¶wiat w&nbsp;jego harmonijnej ca³o¶ci, poprzez dzia³anie, organizowanie i&nbsp;przetwarzanie zdobywanych wiadomo¶ci i&nbsp;umiejêtno¶ci.</p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Istotnym aspektem tak zorganizowanego programu edukacyjnego jest odwo³ywanie&nbsp;siê do wewnêtrznej motywacji dzieci zwi±zanej z&nbsp;pasj±, ciekawo¶ci±, zdziwieniem, chêci± poznania czego¶ nowego, rado¶ci± odkrywania i&nbsp;tworzenia. Wa¿ne jest r&oacute;wnie¿ dzielenie&nbsp;siê swoimi odkryciami z&nbsp;innymi i&nbsp;umiejêtno¶æ s³uchania tego, co maj± nam do powiedzenia r&oacute;wie¶nicy i&nbsp;doro¶li. Dzieci ucz±&nbsp;siê koncentracji na zadaniach, wytrwa³o¶ci, ale tak¿e towarzysko¶ci i&nbsp;¿yczliwo¶ci w&nbsp;kontaktach z&nbsp;innymi lud¼mi.</p>
+<p>
+	&nbsp;</p>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: left;">
+	<a href="http://localhost/ppiw/content/_sklep/index.php?p=productsList&amp;sWord=Program+dla+klasy+0+Uczymy+si%EA+z+Psotk%B1" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ do sklepu internetowego PPiW"><img alt="^&nbsp;" src="http://localhost/ppiw/_images/layout/zamow.jpg" style="border: none;" /></a></div>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: right; width: 311px; text-align: right;">
+	<a href="http://localhost/ppiw/index.php?go=dla_szesciolatkow&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://localhost/ppiw/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://localhost/ppiw/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<h4 class="subSectionTitle" style="font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: 15px; color: rgb(72, 70, 223); line-height: 17px; text-align: justify;">
+	<b>Przewodniki dla nauczyciela</b></h4>
+<p>
+	<img align="right" alt="Przewodniki dla nauczyciela" border="0" class="frontpage" hspace="10px" src="http://localhost/ppiw/_images/content/dla_szesciolatkow/dsz_pdn.jpg" style="border: none; float: right; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" vspace="7px" /></p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Zawieraj± propozycje dzia³añ, daj± podstawê planowania codziennej pracy.</p>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: left;">
+	<img alt="^&nbsp;" src="http://localhost/ppiw/_images/layout/wyczerpany.jpg" style="border: none;" /></div>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: right; width: 311px; text-align: right;">
+	<a href="http://localhost/ppiw/index.php?go=dla_szesciolatkow&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://localhost/ppiw/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://localhost/ppiw/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<h4 class="subSectionTitle" style="font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: 15px; color: rgb(72, 70, 223); line-height: 17px; text-align: justify;">
+	<b>Plansze wyrazowe</b></h4>
+<p>
+	<img align="right" alt="Plansze wyrazowe" border="0" class="frontpage" hspace="10px" src="http://localhost/ppiw/_images/content/dla_szesciolatkow/dsz_pw.jpg" style="border: none; float: right; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" vspace="5px" /></p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Ilustrowane wyrazy do nauki czytania dla dzieci w&nbsp;wieku 5&ndash;6 lat &ndash; w&nbsp;formacie A4:</p>
+<ul class="ul-Left" style="list-style-image: url(http://localhost/ppiw/_images/layout/ul-puzzle.jpg); vertical-align: middle; font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(17, 17, 17); margin-left: 40px; list-style-position: outside;">
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		124 plansze z wyrazami do czytania,</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		30 kart ilustruj±cych wyrazy podstawowe wspomagaj±ce naukê czytania i&nbsp;przedstawiaj±ce wzory liter pisanych.</li>
+</ul>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: left;">
+	<a href="http://localhost/ppiw/content/_sklep/index.php?p=productsList&amp;sWord=Plansze+wyrazowe+klasa+0" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ do sklepu internetowego PPiW"><img alt="^&nbsp;" src="http://localhost/ppiw/_images/layout/zamow.jpg" style="border: none;" /></a></div>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: right; width: 311px; text-align: right;">
+	<a href="http://localhost/ppiw/index.php?go=dla_szesciolatkow&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://localhost/ppiw/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://localhost/ppiw/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<h4 class="subSectionTitle" style="font-family: Arial, Helvetica, sans-serif; font-weight: normal; font-size: 15px; color: rgb(72, 70, 223); line-height: 17px; text-align: justify;">
+	<b>Kolorowe ilustracje do tekst&oacute;w</b></h4>
+<p>
+	<img align="right" alt="Kolorowe ilustracje do tekstów" border="0" class="frontpage" hspace="10px" src="http://localhost/ppiw/_images/content/dla_szesciolatkow/dsz_kidt.jpg" style="border: none; float: right; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" vspace="5px" /></p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Zestaw wielotematycznych ilustracji dla dzieci w&nbsp;wieku 3&ndash;6 lat:</p>
+<ul class="ul-Left" style="list-style-image: url(http://localhost/ppiw/_images/layout/ul-puzzle.jpg); vertical-align: middle; font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(17, 17, 17); margin-left: 40px; list-style-position: outside;">
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		10 plansz formatu A4 z&nbsp;kolorowymi ilustracjami tekst&oacute;w literackich do demonstrowania w&nbsp;poszczeg&oacute;lnych o¶rodkach tematycznych,</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		10 plansz formatu A4 z&nbsp;kolorow± prezentacj± tematyki o¶rodk&oacute;w,</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		6 plansz formatu A3 z&nbsp;ilustracjami p&oacute;r roku.</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p class="cite_text" style="font-family: Arial, Helvetica, sans-serif; font-style: italic; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px; text-align: justify;">
+	&bdquo;(&hellip;) Koresponduj± z dzieciêcymi potrzebami stymulacji zmys³owej, w&nbsp;du¿ej mierze zastêpuj± tekst, prowokuj± do tworzenia w³asnych opowiadañ, opis&oacute;w. Kolorystyka zgodna z&nbsp;rzeczywisto¶ci±, co jest bardzo wa¿ne dla wra¿liwego na odcienie barw oczu dziecka. (&hellip;)&rdquo;</p>
+<p class="signature" style="text-align: right; font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 20px; color: rgb(0, 0, 0);">
+	<b>mgr Ryta Folejewska</b></p>
+<p>
+	&nbsp;</p>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: left;">
+	<a href="http://localhost/ppiw/content/_sklep/index.php?p=productsList&amp;sWord=Kolorowe+ilustracje+do+tekst%F3w+klasa+0" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ do sklepu internetowego PPiW"><img alt="^&nbsp;" src="http://localhost/ppiw/_images/layout/zamow.jpg" style="border: none;" /></a></div>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: right; width: 311px; text-align: right;">
+	<a href="http://localhost/ppiw/index.php?go=dla_szesciolatkow&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://localhost/ppiw/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://localhost/ppiw/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+		<tbody>
+			<tr>
+				<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://localhost/ppiw/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+					<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+						Moje literki i cyferki</h3>
+				</td>
+			</tr>
+			<tr>
+				<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://localhost/ppiw/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+					<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+						Autorka:<br />
+						<b>Beata Dobiasz</b></p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p>
+	<img class="frontpage" src="http://localhost/ppiw/_images/content/dla_szesciolatkow/dsz_mlic_01.jpg" style="border: none; float: right; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" usemap="#pu_mlic" /><map name="pu_mlic" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;"></map></p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Ze wstêpu Autorki:</p>
+<p class="justify_no_first_letter" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	<i>&bdquo;Moje literki i cyferki&rdquo; s± zbiorem æwiczeñ dodatkowych przeznaczonych dla dzieci rozpoczynaj±cych naukê pisania. Mog± byæ r&oacute;wnie¿ pomoc± dla uczni&oacute;w, kt&oacute;rzy z&nbsp;r&oacute;¿nych przyczyn maj± trudno¶ci na pocz±tkowym etapie nauki. W ksi±¿ce znajduj± siê æwiczenia doskonal±ce spostrzeganie, koordynacjê oko&ndash;rêka, analizê i syntezê wzrokow± oraz pisanie liter, wyraz&oacute;w i&nbsp;zdañ.</i></p>
+<p class="justify_no_first_letter" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	<i>Æwiczenia te powinny byæ wykonywane systematycznie pod kontrol± nauczyciela lub rodzic&oacute;w. Polecenia do poszczeg&oacute;lnych æwiczeñ znajduj± siê na koñcu publikacji i s± skierowane do osoby doros³ej. Jest wa¿ne, aby przekazaæ je dziecku w zrozumia³y dla niego spos&oacute;b.</i></p>
+<p class="justify_no_first_letter" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	<i>Poniewa¿ niekt&oacute;re æwiczenia s± tylko przyk³adowe, ich liczba mo¿e okazaæ siê niewystarczaj±ca. Nauczyciel lub rodzice mog± je wzbogacaæ. Przy wykonywaniu æwiczeñ nale¿y zwr&oacute;ciæ uwagê na staranne kolorowanie rysunk&oacute;w, poniewa¿ w ten spos&oacute;b doskonali siê sprawno¶æ rêki. (&hellip;)</i></p>
+<p>
+	&nbsp;</p>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: left;">
+	<a href="http://localhost/ppiw/content/_sklep/index.php?p=productsMore&amp;iProduct=38" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ do sklepu internetowego PPiW"><img alt="^&nbsp;" src="http://localhost/ppiw/_images/layout/zamow.jpg" style="border: none;" /></a></div>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: right; width: 311px; text-align: right;">
+	<a href="http://localhost/ppiw/index.php?go=dla_szesciolatkow&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://localhost/ppiw/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://localhost/ppiw/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+		<tbody>
+			<tr>
+				<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://localhost/ppiw/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+					<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+						Matematyczne podr&oacute;¿e Kropki i Plusika</h3>
+				</td>
+			</tr>
+			<tr>
+				<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://localhost/ppiw/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+					<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+						Autorka:<br />
+						<b>Ma³gorzata Sroka</b></p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p>
+	<img align="right" alt="Matematyczne podró¿e Kropki i Plusika" border="0" class="frontpage" hspace="10px" src="http://localhost/ppiw/_images/content/dla_szesciolatkow/dsz_mpkip.png" style="border: none; float: right; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" vspace="5px" /></p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	&bdquo;Matematyczne podr&oacute;¿e Kropki i Plusika&rdquo; adresowane s± do dzieci przygotowuj±cych&nbsp;siê do nauki w&nbsp;szkole. Celem zawartych w&nbsp;ksi±¿ce zadañ jest doskonalenie intelektualnej dojrza³o¶ci do uczenia&nbsp;siê matematyki. Zaproponowane æwiczenia rozwijaj± procesy poznawcze: pamiêæ, my¶lenie, spostrzegawczo¶æ, wyobra¼niê, uwagê. Zadania skonstruowane&nbsp;s± z&nbsp;my¶l± o&nbsp;ci±g³ym rozwijaniu aktywno¶ci tw&oacute;rczej dziecka oraz stymulowaniu koordynacji wzrokowo-ruchowej.</p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Ksi±¿ka przenosi dziecko w&nbsp;¶wiat fauny zamieszkuj±cej wszystkie kontynenty ¶wiata. W&nbsp;ka¿dym æwiczeniu dziecko poznaje charakterystyczne gatunki zwierz±t oraz ich ubarwienie oznaczone kolorowymi plamami. W&nbsp;prawym g&oacute;rnym rogu kart wprowadzaj±cych nowe zwierzêta znajduje&nbsp;siê mapa konturowa z&nbsp;zaznaczonym obszarem wystêpowania przedstawionych gatunk&oacute;w. Rysunki wszystkich zwierz±t zaopatrzone&nbsp;s± w&nbsp;etykietê zawieraj±c± nazwê, dziêki czemu dziecko utrwala litery i&nbsp;doskonali czytanie.</p>
+<p>
+	&nbsp;</p>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: left;">
+	<a href="http://localhost/ppiw/content/_sklep/index.php?p=productsMore&amp;iProduct=98" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ do sklepu internetowego PPiW"><img alt="^&nbsp;" src="http://localhost/ppiw/_images/layout/zamow.jpg" style="border: none;" /></a></div>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: right; width: 311px; text-align: right;">
+	<a href="http://localhost/ppiw/index.php?go=dla_szesciolatkow&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://localhost/ppiw/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://localhost/ppiw/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>

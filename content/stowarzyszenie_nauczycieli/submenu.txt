@@ -1,0 +1,4 @@
+aktualno¶ci####aktualnosci####default
+sprawy cz³onkowskie####sprawy_czlonkowskie
+deklaracja cz³onkowska####deklaracja
+kontakt####kontakt

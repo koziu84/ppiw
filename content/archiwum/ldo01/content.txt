@@ -1,0 +1,77 @@
+script####<script Language="JavaScript1.1">function enlarge_picture(picture_path, wwidth, wheight, wdescription){EnlargedWindow=window.open('', '','width='+wwidth+',height='+wheight+',toolbar=no,directories=no,menubar=no,locations=no,status=no,scrollbars=no,resizable=no,screenX=10,screenY=10,fullscreen=no'); EnlargedWindow.document.open(); EnlargedWindow.document.writeln("<html>\n<head>\n</head>"); EnlargedWindow.document.writeln("<title>Powiêkszony obrazek</title>"); EnlargedWindow.document.writeln("<body leftmargin=0 topmargin=0 style=\"font-family:Arial, Helvetica, sans-serif; font-size:11pt; background-color:#ffffff; background: url(_images/layout/bg.jpg) fixed repeat-x top\">"); EnlargedWindow.document.writeln("<table width=100% height=100% style=\"font-family:Arial, Helvetica, sans-serif; font-size:11pt;\">"); EnlargedWindow.document.writeln("<tr><td valign=center align=center>\n<a href=\"javascript:window.close();\" title=\"Zamknij okno\"><img src="+picture_path+" style=\"border-width: 1px; border-color: #CCCCCC; border-style: solid;\"></a></td></tr>"); EnlargedWindow.document.writeln("<tr><td align=center style=\"font-family:Arial, Helvetica, sans-serif; font-size:10pt; font-color:#000022; background-color:#ffffff\">"+wdescription+"\n</td></tr>"); EnlargedWindow.document.writeln("</table>"); EnlargedWindow.document.writeln("</body>\n</html>\n"); EnlargedWindow.document.close(); EnlargedWindow.focus(); return;}</script>
+par####justify####Olek to bohater powie¶ci &#8222;Abecelki i duch Bursztynowego Domu&#8221; oraz &#8222;Abecelki i tajemnica Bursztynowego Domu&#8221;, a tak¿e bohater podrêczników dla klasy III. Przyja¼ni siê z Frankiem<br/>i Dorot± &#8211; a¿ od czasu wspólnych zabaw w piaskownicy. Olek ma kota Ogryzka i g³owê pe³n± pomys³ów. Marzy o&nbsp;lataniu. W podrêczniku dla klasy III zachêca swoich rówie¶ników do pisania listów (tradycyjnych i&nbsp;mailowych) na temat ich marzeñ.
+httags####<div style="text-align: center;">
+map_e####center####_images/content/prace_dzieci/ldo01/pd_ldo01_01.jpg####podrecznik_olka####1####polygon####159,41, 380,39, 376,227, 116,203####_images/content/prace_dzieci/ldo01/pd_ldo01_01_big.jpg####Podrêcznika Olka cz. 1.
+httags####</div>
+par####justify####Oto maile nades³ane przez dzieci do Olka:
+column####new####dzp-ldo####dzp-ldo-kol
+par####left####<i>Te¿ mam bardzo du¿o marzeñ. Najbardziej chcia³bym, aby wynalazek, który dopiero szkicujê, o nazwie hydrosfalmalder, uda³ siê i&nbsp;¿ebym by³ s³awny. To&nbsp;takie urz±dzenie, które przywo³uje delfiny, wydaj±c fale smalderowe i&nbsp;przet³umacza ich jêzyk. Niedawno siê tym zaj±³em.</i>
+par####signature####<i>Mam nadziejê, ¿e jeste¶ zdrów.<br/>Kacper</i>
+column####next####dzp-ldo-kol
+par####left####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+column####end
+hr####_images/layout/h-ruler.gif
+column####new####dzp-ldo####dzp-ldo-kol
+img####left####_images/content/prace_dzieci/ldo01/pd_ldo01_02.gif####Lataj±cy dywan?####0####15####0####right
+column####next####dzp-ldo-kol
+par####left####<i>Drogi Olku!!!</i>
+par####left####<i>Moim marzeniem jest mieæ lataj±cy dywan. Mog³abym na nim zwiedziæ ca³y ¶wiat. Mog³abym lataæ na nim do szko³y i jest to moje najwiêksze marzenie o&nbsp;lataniu.</i>
+par####signature####<i>Daria</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+column####end
+hr####_images/layout/h-ruler.gif
+column####new####dzp-ldo####dzp-ldo-kol
+par####left####<i>Cze¶æ Olek!</i>
+par####left####<i>Wiesz, chcia³abym mieæ bia³ego pegaza. Pegaz to koñ ze skrzyd³ami. Nie&nbsp;chcia³abym mieæ samolotu, bo mo¿e siê zepsuæ, a pegaz nie. Pegaza mo¿na przytuliæ, a samolotu nie. Chcia³abym przemierzyæ ¶wiat na pegazie. To&nbsp;jest moje marzenie. ¦wiat jest bardzo ciekawy i&nbsp;chcia³abym go bardzo zobaczyæ. Przede wszystkim chcê zobaczyæ: Big Ben w&nbsp;Londynie, wie¿ê Eiffla w Pary¿u i inne ciekawe zabytkowe lub nowe miejscowo¶ci albo budowle.</i>
+par####signature####<i>Pozdrówka,<br/>Marta</i>
+column####next####dzp-ldo-kol
+par####left####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+column####end
+hr####_images/layout/h-ruler.gif
+column####new####dzp-ldo####dzp-ldo-kol
+par####left####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+column####next####dzp-ldo-kol
+par####left####<i>Drogi Olku!!!</i>
+par####left####<i>Marzê o lataj±cym wehikule czasu. Chcia³bym siê nim przemieszczaæ w&nbsp;dowolny czas. Najpierw przemie¶ci³bym siê w czasy dinozaurów i epoki lodowcowej. Ciekawi mnie, jaki prowadzi³y tryb ¿ycia i dlaczego wyginê³y. Potem przemie¶ci³bym siê do innej epoki. O tym napiszê w nastêpnym li¶cie,</i>
+par####signature####<i>serdecznie pozdrawiam,<br/>Szymon</i>
+column####end
+hr####_images/layout/h-ruler.gif
+column####new####dzp-ldo####dzp-ldo-kol
+par####left####<i>Drogi Olku!</i>
+par####left####<i>Ja bardzo chcia³bym polecieæ w kosmos i&nbsp;odkryæ now± planetê, na której mog± zamieszkaæ ludzie. Móg³bym z³o¿yæ ¿yczenia panu Twardowskiemu. ¯yczeñ wiêcej ju¿ nie mam.</i>
+par####signature####<i>Serdecznie pozdrawiam,<br/>Marcin</i>
+column####next####dzp-ldo-kol
+img####right####_images/content/prace_dzieci/ldo01/pd_ldo01_03.gif####Lot w kosmos####0####15####0####left
+column####end
+hr####_images/layout/h-ruler.gif
+column####new####dzp-ldo####dzp-ldo-kol
+par####left####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+column####next####dzp-ldo-kol
+par####left####<i>Drogi Olku!</i>
+par####left####<i>Moim najwiêkszym, najwiêkszym marzeniem jest podró¿ do odleg³ych zak±tków naszej galaktyki. Mo¿e uda³oby mi siê znale¼æ jakie¶ nowe formy ¿ycia na innych planetach. Szczególnie interesuje mnie &#8222;czerwona planeta&#8221; &#8211;&nbsp;Mars. Ciekawi mnie, czy istnieje tam taka sama grawitacja jak na Ziemi. My¶lê, ¿e po tak d³ugiej podró¿y zatêskni³bym za moimi przyjació³mi, a&nbsp;szczególnie za Tob±, Olku.</i>
+par####signature####<i>Pozdrawiam Ciê,<br/>Twój kolega Piotrek</i>
+column####end
+hr####_images/layout/h-ruler.gif
+column####new####dzp-ldo####dzp-ldo-kol
+par####left####<i>Drogi Olku!!!</i>
+par####left####<i>Podró¿owanie nad Afryk± to moje marzenie. Chcia³abym spojrzeæ w dó³ i&nbsp;ujrzeæ stado dzikich zwierz±t. Moje najwiêksze marzenie to spotkaæ siê z&nbsp;¿yraf±, krokodylem i tygrysem (oczywi¶cie dziko ¿yj±cym tygrysem). Jedno&nbsp;moje marzenie ju¿ siê spe³ni³o &#8211; odwiedzi³am piramidy i rzekê Nil. Kiedy by³am w Egipcie, spêdzi³am trochê czasu w muzeum, ujrza³am tam wiele ciekawych rzeczy, miêdzy innymi mumiê faraonów i pos±gi staro¿ytnych Egipcjan.</i>
+par####left####<i>To wszystko, co chcia³am napisaæ o moich marzeniach.</i>
+par####signature####<i>Pozdrawiam,<br/>Sara</i>
+column####next####dzp-ldo-kol
+par####left####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+column####end
+hr####_images/layout/h-ruler.gif
+column####new####dzp-ldo####dzp-ldo-kol
+img####left####_images/content/prace_dzieci/ldo01/pd_ldo01_04.gif####¦wiat z lotu ptaka####0####15####0####right
+column####next####dzp-ldo-kol
+par####left####<i>Drogi Olku!</i>
+par####left####<i>Ja tak¿e chcia³abym wznie¶æ siê w górê i&nbsp;zobaczyæ ¶wiat z lotu ptaka. Chcia³abym tam polecieæ auto-samolotem. Polecia³abym tam z&nbsp;tat±, bo on ma prawo jazdy. Jak ju¿ bym tam z&nbsp;nim polecia³a, to zabra³abym tam: mamê, siostrê i mojego psa. Fajnie by by³o pobawiæ siê z UFO, napiæ i zje¶æ UFO potraw.</i>
+par####signature####<i>Pozdrawiam ciep³o,<br/>Julia</i>
+column####end
+par####note-left####<i>Ilustracje Joanny Olech przedstawiaj±ce Olka i jego przyjació³ pochodz± z&nbsp;ksi±¿ki Ma³gorzaty Strêkowskiej-Zaremby &#8222;Abecelki i&nbsp;duch Bursztynowego Domu&#8221;, PPiW, Warszawa&nbsp;2003.</i>
+hr####_images/layout/h-ruler.gif
+par####justify####A to ju¿ tradycyjne listy &#8211; te¿ na temat marzeñ &#8211; przes³ane przez uczniów ze Szko³y Podstawowej nr&nbsp;160 z Krakowa:
+thumb####center####3####_images/content/prace_dzieci/ldo01/####thumb_pd_ldo01_001.gif####thumb_pd_ldo01_002.gif####thumb_pd_ldo01_008.gif####Mateusz####Tomek####Patryk####none####0px####0px####center
+thumb####center####3####_images/content/prace_dzieci/ldo01/####thumb_pd_ldo01_005.gif####thumb_pd_ldo01_006.gif####thumb_pd_ldo01_009.gif####Patrycja####Marta####Justynka####none####0px####0px####center
+thumb####center####3####_images/content/prace_dzieci/ldo01/####thumb_pd_ldo01_007.gif####thumb_pd_ldo01_004.gif####thumb_pd_ldo01_003.gif####Julia####August####Pola####none####0px####0px####center
+br####1
+up&back####

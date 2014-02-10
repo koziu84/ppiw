@@ -1,0 +1,31 @@
+script####<script Language="JavaScript1.1">function enlarge_picture(picture_path, wwidth, wheight, wdescription){EnlargedWindow=window.open('', '','width='+wwidth+',height='+wheight+',toolbar=no,directories=no,menubar=no,locations=no,status=no,scrollbars=no,resizable=no,screenX=10,screenY=10,fullscreen=no'); EnlargedWindow.document.open(); EnlargedWindow.document.writeln("<html>\n<head>\n</head>"); EnlargedWindow.document.writeln("<title>Powiêkszony obrazek</title>"); EnlargedWindow.document.writeln("<body leftmargin=0 topmargin=0 style=\"font-family:Arial, Helvetica, sans-serif; font-size:11pt; background-color:#ffffff; background: url(_images/layout/bg.jpg) fixed repeat-x top\">"); EnlargedWindow.document.writeln("<table width=100% height=100% style=\"font-family:Arial, Helvetica, sans-serif; font-size:11pt;\">"); EnlargedWindow.document.writeln("<tr><td valign=center align=center>\n<a href=\"javascript:window.close();\" title=\"Zamknij okno\"><img src="+picture_path+" style=\"border-width: 1px; border-color: #CCCCCC; border-style: solid;\"></a></td></tr>"); EnlargedWindow.document.writeln("<tr><td align=center style=\"font-family:Arial, Helvetica, sans-serif; font-size:10pt; font-color:#000022; background-color:#ffffff\">"+wdescription+"\n</td></tr>"); EnlargedWindow.document.writeln("</table>"); EnlargedWindow.document.writeln("</body>\n</html>\n"); EnlargedWindow.document.close(); EnlargedWindow.focus(); return;}</script>
+par####justify####Pani <b>Ma³gorzata Sroka</b> ukoñczy³a Nauczanie Pocz±tkowe i Wychowanie Przedszkolne oraz fakultet informatyki na Uniwersytecie Kazimierza Wielkiego w Bydgoszczy. Jest absolwentk± podyplomowych studiów Zarz±dzania O¶wiat± Wy¿szej Szko³y Zarz±dzania i Finansów w Bydgoszczy. Jej dorobek stanowi± publikacje poruszaj±ce wa¿kie problemy edukacji ma³ego dziecka. W listopadzie 2004&nbsp;r. i&nbsp;w&nbsp;pa¼dzierniku 2006&nbsp;r. wystêpowa³a na Miêdzynarodowej Konferencji Naukowej w Katowicach, prezentuj±c swój dorobek oraz dziel±c siê w³asn± wiedz± i do¶wiadczeniami.
+hr####_images/layout/h-ruler.gif
+par####justify####Ksi±¿eczka &#8222;Matematyczne podró¿e Kropki i Plusika&#8221; zawiera najciekawsze æwiczenia zgromadzone w&nbsp;toku 10-letniej pracy nauczycielskiej. W pa¼dzierniku 2006&nbsp;r. zosta³a z wielk± aprobat± przyjêta przez cz³onków Miêdzynarodowej Konferencji Naukowej w Katowicach, nauczycieli akademickich i,&nbsp;co&nbsp;najwa¿niejsze, dzieci w wieku przedszkolnym.
+par####justify_no_first_letter####&#8222;Matematyczne podró¿e Kropki i Plusika&#8221; adresowane s± do dzieci przygotowuj±cych siê do nauki w&nbsp;szkole. Celem zawartych w ksi±¿ce zadañ jest doskonalenie intelektualnej dojrza³o¶ci do uczenia siê matematyki. Zaproponowane æwiczenia rozwijaj± procesy poznawcze: pamiêæ, my¶lenie, spostrzegawczo¶æ, wyobra¼niê, uwagê. Zadania skonstruowane s± z my¶l± o ci±g³ym rozwijaniu aktywno¶ci twórczej dziecka oraz stymulowaniu koordynacji wzrokowo-ruchowej.
+par####justify_no_first_letter####&#8222;Matematyczne podró¿e Kropki i Plusika&#8221; przenosz± dziecko w ¶wiat fauny zamieszkuj±cej wszystkie kontynenty ¶wiata. W ka¿dym æwiczeniu dziecko poznaje charakterystyczne gatunki zwierz±t oraz ich ubarwienie oznaczone kolorowymi plamami. W prawym górnym rogu kart wprowadzaj±cych nowe zwierzêta znajduje siê mapa konturowa z zaznaczonym obszarem wystêpowania przedstawionych gatunków. Rysunki wszystkich zwierz±t zaopatrzone s± w etykietê zawieraj±c± nazwê, dziêki czemu dziecko utrwala litery i doskonali czytanie.
+thumb####center####3####_images/content/zaprezentuj_sie/ms01/####thumb_08.jpg####thumb_09.jpg####thumb_10.jpg####s. 8.####s. 19.####s. 24.####none####0px####0px####center
+par####justify####W ksi±¿ce znajduj± siê æwiczenia z naklejkami, które stanowi± dodatkow± motywacjê dziecka do&nbsp;pracy. Naklejki s± tak wykonane, by istnia³a mo¿liwo¶æ ich wielokrotnego u¿ytku, dziêki czemu dziecko mo¿e poprawiæ pope³nione b³êdy lub wykonaæ zadanie jeszcze raz. Polecenia skonstruowane s± w sposób jednoznaczny i zrozumia³y dla dziecka.
+par####justify####Ksi±¿ka jest fascynuj±c±, edukacyjn± przygod± rozwijaj±c± zainteresowania przyrodnicze i&nbsp;poszerzaj±c± horyzonty my¶lowe ma³ego podró¿nika.
+br####2
+thumb####center####1####_images/content/zaprezentuj_sie/ms01/####thumb_11.jpg#### ####none####0px####0px####center
+par####justify####Julianka buduje wie¿ê lodow±. Nakleja obrazki zwierz±t w puste kawa³ki lodowca. Gdy skoñczy, po³±czy kropki i pokoloruje obrazek.
+br####2
+thumb####center####1####_images/content/zaprezentuj_sie/ms01/####thumb_12.jpg#### ####none####0px####0px####center
+par####justify####Julianka zaznacza zwierzêta id±ce w tê sam± stronê, w któr± jedzie samochód Kropki i Plusika. Policzy jeszcze zwierzêta id±ce w stronê przeciwn± i otoczy je pêtl±.
+br####2
+thumb####center####1####_images/content/zaprezentuj_sie/ms01/####thumb_13.jpg#### ####none####0px####0px####center
+par####justify####Weronika koloruje zwierzêta zamieszkuj±ce Amerykê Pó³nocn±. Gdy skoñczy, zakre¶li zwierzê, które&nbsp;ró¿ni siê od pozosta³ych.
+br####2
+thumb####center####1####_images/content/zaprezentuj_sie/ms01/####thumb_14.jpg#### ####none####0px####0px####center
+par####justify####Ada w³a¶nie pozna³a Kropkê i Plusika. Koloruje obrazek. Policzy³a ju¿ kulki, kropki i zaznaczy³a ich liczbê na wyznaczonych pojemnikach.
+br####2
+thumb####center####1####_images/content/zaprezentuj_sie/ms01/####thumb_15.jpg#### ####none####0px####0px####center
+par####justify####Oliwia tworzy z wyobra¼ni ¶mieszne ogony australijskim zwierzêtom. Nadaje im niepowtarzalne kszta³ty i barwy.
+br####2
+thumb####center####1####_images/content/zaprezentuj_sie/ms01/####thumb_16.jpg#### ####none####0px####0px####center
+par####justify####Weronika koloruje pumê zgodnie z barwnymi plamami. Dziêki graficznym wskazówkom zwierzêta bêd± posiada³y naturalne ubarwienie.
+hr####_images/layout/h-ruler.gif
+par####justify####Ksi±¿ka Ma³gorzaty Sroki &#8222;Matematyczne podró¿e Kropki i Plusika&#8221; jest do kupienia <a href="content/_sklep/index.php?p=productsMore&iProduct=98" target="_blank" onMouseOver="self.status='Sklep internetowy PPiW'; return true;" title="Otwórz link w nowym oknie"><img src="_images/layout/pictograms/window.gif" alt="&#187;&nbsp;" border="0" />w sklepie internetowym PPiW</a>. 
+br####3
+up&back####

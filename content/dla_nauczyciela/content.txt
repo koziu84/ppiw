@@ -1,0 +1,285 @@
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+		<tbody>
+			<tr>
+				<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+					<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+						Opisywanie osi±gniêæ ucznia</h3>
+				</td>
+			</tr>
+			<tr>
+				<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+					<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+						poradnik z dyskietk±</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p>
+	<img align="right" alt="Opisywanie osi±gniêæ ucznia" border="0" class="frontpage" hspace="10px" src="http://ppiw.com.pl/_images/content/dla_nauczyciela/dn_oou.jpg" style="border: none; float: right; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" vspace="18px" /></p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Zawiera:</p>
+<ul class="ul-Left" style="list-style-image: url(http://ppiw.com.pl/_images/layout/ul-puzzle.jpg); vertical-align: middle; font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(17, 17, 17); margin-left: 40px; list-style-position: outside;">
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		zestaw umiejêtno¶ci uporz±dkowanych wg&nbsp;kategorii przyjêtych w&nbsp;Programie kszta³cenia zintegrowanego&nbsp;<i>abc</i>,</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		praktyczne wskaz&oacute;wki do opisywania osi±gniêæ ucznia.</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Stanowi pomoc w:</p>
+<ul class="ul-Left" style="list-style-image: url(http://ppiw.com.pl/_images/layout/ul-puzzle.jpg); vertical-align: middle; font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(17, 17, 17); margin-left: 40px; list-style-position: outside;">
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		u³o¿eniu indywidualnego arkusza obserwacyjnego ucznia,</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		zredagowaniu oceny opisowej,</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		indywidualnym planowaniu pracy pedagogicznej na I&nbsp;etapie.</li>
+</ul>
+<p>
+	&nbsp;</p>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: left;">
+	<a href="http://ppiw.com.pl/content/_sklep/index.php?p=productsMore&amp;iProduct=4" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ do sklepu internetowego PPiW"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/zamow.jpg" style="border: none;" /></a></div>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: right; width: 309px; text-align: right;">
+	<a href="http://ppiw.com.pl/index.php?go=dla_nauczyciela&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+		<tbody>
+			<tr>
+				<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+					<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+						Scenariusze zajêæ zintegrowanych dla klas I&ndash;III</h3>
+				</td>
+			</tr>
+			<tr>
+				<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+					<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+						cz. 1. i 2. z segregatorem</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p>
+	<img align="right" alt="Scenariusze zajêæ zintegrowanych dla klas I&#8211;III" border="0" class="frontpage" hspace="10px" src="http://ppiw.com.pl/_images/content/dla_nauczyciela/dn_szzdkI-III.jpg" style="border: none; float: right; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" vspace="18px" /></p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Oryginalne pomys³y nauczycieli praktyk&oacute;w na zorganizowanie ca³odziennych zajêæ:</p>
+<ul class="ul-Left" style="list-style-image: url(http://ppiw.com.pl/_images/layout/ul-puzzle.jpg); vertical-align: middle; font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(17, 17, 17); margin-left: 40px; list-style-position: outside;">
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		pozwalaj± nauczycielowi skr&oacute;ciæ czas potrzebny na przygotowanie zajêæ,</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		zawieraj± wskaz&oacute;wki, jak dostosowaæ propozycje do potrzeb i&nbsp;mo¿liwo¶ci dzieci,</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		nie ograniczaj± indywidualnej aktywno¶ci uczni&oacute;w oraz pomys³owo¶ci nauczyciela.</li>
+</ul>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: left;">
+	<a href="http://ppiw.com.pl/content/_sklep/index.php?p=productsList&amp;sWord=Scenariusze+zaj%EA%E6+zintegrowanych" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ do sklepu internetowego PPiW"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/zamow.jpg" style="border: none;" /></a></div>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: right; width: 309px; text-align: right;">
+	<a href="http://ppiw.com.pl/index.php?go=dla_nauczyciela&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+		<tbody>
+			<tr>
+				<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+					<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+						Edukacja przyrodnicza w kszta³ceniu zintegrowanym</h3>
+				</td>
+			</tr>
+			<tr>
+				<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+					<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+						trzyczê¶ciowy cykl:<br />
+						<b>Procesy ¿yciowe<br />
+						Materia³y<br />
+						Procesy fizyczne</b><br />
+						<br />
+						Autorzy:<br />
+						<b>praca zbiorowa pracownik&oacute;w naukowych i student&oacute;w UAM w Poznaniu<br />
+						pod redakcj± dr Renaty Michalak</b></p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p>
+	<img align="right" alt="Edukacja przyrodnicza w kszta³ceniu zintegrowanym" border="0" class="frontpage" hspace="10px" src="http://ppiw.com.pl/_images/content/dla_nauczyciela/dn_epwkz.jpg" style="border: none; float: right; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" vspace="15px" /></p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Atrakcyjne scenariusze zajêæ przyrodniczych to propozycje zajêæ ukazuj±ce, jak mo¿na na etapie nauczania pocz±tkowego przygotowaæ dzieci do naukowego badania zjawisk fizycznych, a&nbsp;w&nbsp;konsekwencji rozumienia otaczaj±cej rzeczywisto¶ci. Zawieraj±:</p>
+<ul class="ul-Left" style="list-style-image: url(http://ppiw.com.pl/_images/layout/ul-puzzle.jpg); vertical-align: middle; font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(17, 17, 17); margin-left: 40px; list-style-position: outside;">
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		przyk³ady skutecznych i&nbsp;atrakcyjnych metod nauczania,</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		propozycje zajêæ aktywizuj±cych dzieci,</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		ciekawostki dotycz±ce przyrody i&nbsp;zjawisk fizycznych.</li>
+</ul>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: left;">
+	<a href="http://ppiw.com.pl/content/_sklep/index.php?p=productsList&amp;sWord=Edukacja+przyrodnicza+w+kszta%B3ceniu+zintegrowanym" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ do sklepu internetowego PPiW"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/zamow.jpg" style="border: none;" /></a></div>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: right; width: 309px; text-align: right;">
+	<a href="http://ppiw.com.pl/index.php?go=dla_nauczyciela&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+		<tbody>
+			<tr>
+				<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+					<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+						Gry i zabawy w szkole</h3>
+				</td>
+			</tr>
+			<tr>
+				<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+					<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+						Autorka:<br />
+						<b>Dorota B±k</b></p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p>
+	<img align="right" alt="Gry i zabawy w szkole" border="0" class="frontpage" hspace="10px" src="http://ppiw.com.pl/_images/content/dla_nauczyciela/dn_gizws.jpg" style="border: none; float: right; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" vspace="18px" /></p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Opracowana zgodnie z&nbsp;ide± nauczania zintegrowanego propozycja zabaw, gier i&nbsp;æwiczeñ ruchowych zwi±zanych tematycznie z&nbsp;tre¶ciami kszta³cenia zawartymi w&nbsp;Programie&nbsp;<i>abc</i>. Pozwala wprowadziæ na zajêcia zintegrowane:</p>
+<ul class="ul-Left" style="list-style-image: url(http://ppiw.com.pl/_images/layout/ul-puzzle.jpg); vertical-align: middle; font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(17, 17, 17); margin-left: 40px; list-style-position: outside;">
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		æwiczenia kszta³tuj±ce, og&oacute;lnorozwojowe i&nbsp;korekcyjne prowadzone w&nbsp;formie zabawowej jako sta³y element lekcji,</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		znane i&nbsp;zapomniane gry podw&oacute;rkowe,</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		oryginalne zabawy z&nbsp;elementami fantastycznymi i&nbsp;ba¶niowymi.</li>
+</ul>
+<p>
+	&nbsp;</p>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: left;">
+	<a href="http://ppiw.com.pl/content/_sklep/index.php?p=productsMore&amp;iProduct=13" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ do sklepu internetowego PPiW"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/zamow.jpg" style="border: none;" /></a></div>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: right; width: 309px; text-align: right;">
+	<a href="http://ppiw.com.pl/index.php?go=dla_nauczyciela&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+		<tbody>
+			<tr>
+				<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+					<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+						Malujê i opowiadam. Sztuka w nauczaniu zintegrowanym</h3>
+				</td>
+			</tr>
+			<tr>
+				<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+					<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+						Autorka:<br />
+						<b>El¿bieta Rola</b></p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Zestaw 32 kolorowych ilustracji do tekst&oacute;w literackich zawartych w pakiecie Moje abc dla klasy III i zbiorach tekst&oacute;w Opowiadania i wiersze wraz z przewodnikiem dla nauczyciela. Tekst literacki zosta³ potraktowany jako inspiracja do r&oacute;¿norodnych æwiczeñ, dziêki kt&oacute;rym dziecko bêdzie mog³o poznaæ jego kompozycjê, nastr&oacute;j, poszukiwaæ narratora, okre¶laæ postawy bohater&oacute;w.</p>
+<p>
+	<img class="frontpage" src="http://ppiw.com.pl/_images/content/dla_nauczyciela/dn_mio_0.jpg" style="border: none; float: right; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" usemap="#dn_mio" /><map name="dn_mio" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;"></map><br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: left;">
+	<a href="http://ppiw.com.pl/content/_sklep/index.php?p=productsMore&amp;iProduct=14" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ do sklepu internetowego PPiW"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/zamow.jpg" style="border: none;" /></a></div>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: right; width: 309px; text-align: right;">
+	<a href="http://ppiw.com.pl/index.php?go=dla_nauczyciela&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+		<tbody>
+			<tr>
+				<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+					<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+						Z rodzicami w szkole<br />
+						Z rodzicami w domu</h3>
+				</td>
+			</tr>
+			<tr>
+				<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+					<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+						&nbsp;</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p>
+	<img align="right" alt="Z rodzicami w szkole&lt;br&gt;Z rodzicami w domu" border="0" class="frontpage" hspace="10px" src="http://ppiw.com.pl/_images/content/dla_nauczyciela/dn_zrwszrwd.jpg" style="border: none; float: right; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" vspace="15px" /></p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Dwie broszury o&nbsp;tym, z&nbsp;jakimi problemami mog± zetkn±æ&nbsp;siê rodzice dzieci w&nbsp;klasach I&ndash;III. Dostarczaj± informacji, kt&oacute;re zaciekawi±, zastanowi± i&nbsp;w&nbsp;przysz³o¶ci zachêc± do ¿ywego udzia³u w&nbsp;¿yciu szkolnym.</p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Zwracaj± uwagê na:</p>
+<ul class="ul-Left" style="list-style-image: url(http://ppiw.com.pl/_images/layout/ul-puzzle.jpg); vertical-align: middle; font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(17, 17, 17); margin-left: 40px; list-style-position: outside;">
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		rozumienie istoty programu zintegrowanego,</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		rozumienie systemu oceniania opisowego,</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		potrzebê wsp&oacute;³pracy rodzic&oacute;w i&nbsp;nauczycieli.</li>
+</ul>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: left;">
+	<a href="http://ppiw.com.pl/content/_sklep/index.php?p=productsList&amp;sWord=Z+rodzicami" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ do sklepu internetowego PPiW"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/zamow.jpg" style="border: none;" /></a></div>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: right; width: 309px; text-align: right;">
+	<a href="http://ppiw.com.pl/index.php?go=dla_nauczyciela&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+<p>
+	&nbsp;</p>

@@ -1,0 +1,336 @@
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+		<tbody>
+			<tr>
+				<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+					<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+						¦wiat wok&oacute;³ mnie</h3>
+				</td>
+			</tr>
+			<tr>
+				<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+					<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+						album:<br />
+						czê¶æ 1. z segregatorem i&nbsp;<a href="http://ppiw.com.pl/download/encyklopedia_zip.exe" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_top" title="Program do pobrania (rozmiar pliku: 561 kB)"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/download.gif" style="border: none;" />dyskietk±</a><br />
+						czê¶æ 2.<br />
+						czê¶æ 3.</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p>
+	<img align="right" alt="¦wiat wokó³ mnie" border="0" class="frontpage" hspace="10px" src="http://ppiw.com.pl/_images/content/dla_przedszkolaka_i_dla_ucznia/dpidu_swm.jpg" style="border: none; float: right; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" vspace="10px" /></p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Unikatowa publikacja o&nbsp;charakterze interaktywnym dla dzieci w&nbsp;wieku 6&ndash;12 lat. Dostosowana tematycznie do pakiet&oacute;w podrêcznikowych. Bogato ilustrowana. £±czy walory:</p>
+<ul class="ul-Left" style="list-style-image: url(http://ppiw.com.pl/_images/layout/ul-puzzle.jpg); vertical-align: middle; font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(17, 17, 17); margin-left: 40px; list-style-position: outside;">
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		leksykonu,</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		albumu wielotematycznego,</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		ksi±¿eczki do kolorowania i&nbsp;wycinania,</li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		zestawu gier i&nbsp;æwiczeñ edukacyjnych.</li>
+</ul>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Informacje tekstowe o wszystkich obiektach znajduj±cych siê na kolorowych planszach (ro¶linach, zwierzêtach, znanych budowlach, obrazach, instrumentach muzycznych itd.) znajduj± siê na dyskietce z programem komputerowym w formie notek encyklopedycznych. Program&nbsp;otwieraj±cy pliki z notkami encyklopedycznymi mo¿na r&oacute;wnie¿&nbsp;<a href="http://ppiw.com.pl/download/encyklopedia_zip.exe" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_top" title="Program do pobrania (rozmiar pliku: 561 kB)"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/download.gif" style="border: none;" />pobraæ</a>&nbsp;ze strony PPiW. Przed pobraniem warto przeczytaæ&nbsp;<a target="_blank" title="Otwórz w nowym oknie"><img alt="&#187;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/window.gif" style="border: none;" />instrukcjê</a>&nbsp;rozpakowania programu.</p>
+<p>
+	&nbsp;</p>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: left;">
+	<a href="http://ppiw.com.pl/content/_sklep/index.php?p=productsList&amp;sWord=%A6wiat+wok%F3%B3+mnie" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ do sklepu internetowego PPiW"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/zamow.jpg" style="border: none;" /></a></div>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: right; width: 309px; text-align: right;">
+	<a href="http://ppiw.com.pl/index.php?go=dla_przedszkolaka_i_dla_ucznia&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<a name="swiatWczorajIDzis" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;"></a></p>
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+		<tbody>
+			<tr>
+				<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+					<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+						¦wiat wczoraj i dzi¶</h3>
+				</td>
+			</tr>
+			<tr>
+				<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+					<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+						&nbsp;</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p>
+	<img align="right" alt="¦wiat wczoraj i dzi¶" border="0" class="frontpage" hspace="10px" src="http://ppiw.com.pl/_images/content/dla_przedszkolaka_i_dla_ucznia/dpidu_swid.jpg" style="border: none; float: right; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" vspace="15px" /></p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Jedyny na rynku wydawniczym nowatorski zestaw map i&nbsp;foliogram&oacute;w do samodzielnego wykonywania map Polski, Europy i&nbsp;¶wiata (fizycznych, historycznych, przyrodniczych). Odwo³uje&nbsp;siê do spontanicznej aktywno¶ci dziecka i&nbsp;w&nbsp;naturalny spos&oacute;b j± wyzwala. Pozwala nauczycielowi w&nbsp;przystêpny i&nbsp;atrakcyjny spos&oacute;b wprowadziæ ucznia w&nbsp;obszary wiedzy geograficznej i&nbsp;historycznej.</p>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: left;">
+	<a href="http://ppiw.com.pl/content/_sklep/index.php?p=productsList&amp;sWord=%A6wiat+wczoraj+i+dzi%B6" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ do sklepu internetowego PPiW"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/zamow.jpg" style="border: none;" /></a></div>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: right; width: 309px; text-align: right;">
+	<a href="http://ppiw.com.pl/index.php?go=dla_przedszkolaka_i_dla_ucznia&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<a name="abecelki" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;"></a></p>
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+		<tbody>
+			<tr>
+				<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+					<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+						Abecelki i duch Bursztynowego Domu<br />
+						Abecelki i tajemnica Bursztynowego Domu</h3>
+				</td>
+			</tr>
+			<tr>
+				<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+					<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+						Autorka:<br />
+						<b>Ma³gorzata Strêkowska-Zaremba</b></p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p>
+	<img class="frontpage" src="http://ppiw.com.pl/_images/content/dla_przedszkolaka_i_dla_ucznia/dpidu_a.jpg" style="border: none; float: right; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" usemap="#dpidu_a" /><map name="dpidu_a" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;"></map></p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Powie¶æ dla dzieci o&nbsp;przygodach Franka i&nbsp;jego sympatycznych przyjaci&oacute;³ zwanych Abecelkami. Pe³en humoru opis ich szkolnych perypetii splata&nbsp;siê z&nbsp;tajemnic± Bursztynowego Domu i&nbsp;mieszkaj±cego w&nbsp;nim ducha.</p>
+<p>
+	<img align="bottom" alt="Nagroda Literacka im. Kornela Makuszyñskiego" border="0" class="left" hspace="20px" src="http://ppiw.com.pl/_images/content/dla_przedszkolaka_i_dla_ucznia/dpidu_a_nagroda-statuetka.jpg" style="border: none; float: left; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" vspace="0px" /></p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Przeczytaj dziecku pierwsz± czê¶æ przyg&oacute;d Franka, a&nbsp;mo¿esz mieæ pewno¶æ, ¿e&nbsp;nastêpn± przeczyta ju¿ samodzielnie! Niebawem uka¿e siê dalszy ci±g przyg&oacute;d naszych bohater&oacute;w &ndash; poinformujemy o tym na stronach PPiW.</p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	<span style="color: rgb(72, 70, 223);"><b>Abecelki i duch Bursztynowego Domu</b></span>&nbsp;to publikacja uhonorowana w 2004 r. Nagrod± Literack± im.&nbsp;Kornela Makuszyñskiego.</p>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: left;">
+	<a href="http://ppiw.com.pl/content/_sklep/index.php?p=productsList&amp;sWord=Abecelki" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ do sklepu internetowego PPiW"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/zamow.jpg" style="border: none;" /></a></div>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: right; width: 309px; text-align: right;">
+	<a href="http://ppiw.com.pl/index.php?go=dla_przedszkolaka_i_dla_ucznia&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<a name="koloroweZyczenia" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;"></a></p>
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+		<tbody>
+			<tr>
+				<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+					<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+						Kolorowe ¿yczenia z r&oacute;¿nych okazji</h3>
+				</td>
+			</tr>
+			<tr>
+				<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+					<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+						Autorka laurek z papieru:<br />
+						<b>Alina Dyrcz</b><br />
+						Autorzy okoliczno¶ciowych wierszy:<br />
+						<b>Ma³gorzata Strêkowska-Zaremba<br />
+						Zbigniew P³a¿ewski</b></p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p>
+	<img align="right" alt="Kolorowe ¿yczenia z ró¿nych okazji" border="0" class="frontpage" hspace="10px" src="http://ppiw.com.pl/_images/content/dla_przedszkolaka_i_dla_ucznia/dpidu_kzzro_01.jpg" style="border: none; float: right; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" vspace="10px" /></p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Papierowe sk³adanki &ndash; laurki do samodzielnego wykonania. Zbi&oacute;r oryginalnych pomys³&oacute;w na okoliczno¶ciowy prezent, uzupe³niony wierszykami na laurkê, kt&oacute;re sprawi±, ¿e na niejednym obliczu zawita u¶miech.</p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Ze wstêpu:</p>
+<p class="justify_no_first_letter" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	<i>Wszyscy lubimy dostawaæ ¿yczenia &ndash; wypisane na laurkach, kartach pocztowych, w listach. Sprawiaj± nam zawsze ogromn± rado¶æ. Pomy¶lmy zatem o innych, przede wszystkim o najbli¿szych &ndash; oni te¿ czekaj± na ¿yczenia. W ci±gu ca³ego roku jest wiele okazji, by zrobiæ im przyjemno¶æ. Bardziej docenia samodzielnie wykonan± laurkê czy okoliczno¶ciow± kartkê ni¿ nawet najpiêkniejsz± poczt&oacute;wkê kupion± w sklepie. Nasza ksi±¿eczka pomo¿e Wam wyczarowaæ z kolorowych k&oacute;³eczek niepowtarzalne karty z ¿yczeniami na r&oacute;¿ne okazje.</i></p>
+<p>
+	<img class="frontpage" src="http://ppiw.com.pl/_images/content/dla_przedszkolaka_i_dla_ucznia/dpidu_kzzro_02.jpg" style="border: none; float: right; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" usemap="#dpidu_kzzro" /><map name="dpidu_kzzro" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;"></map></p>
+<p class="justify_no_first_letter" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	<i>Przekonacie siê, ¿e to wcale nie jest trudne &ndash; wystarczy posk³adaæ k&oacute;³ka zgodnie z instrukcj± i nakleiæ na kartê wed³ug wzoru przedstawionego na zdjêciach. ¯yczenia mo¿ecie wpisaæ sami. Je¶li macie trudno¶ci z doborem odpowiednich s³&oacute;w, skorzystajcie z naszych propozycji. Na ka¿d± z dwunastu okazji przygotowali¶my dwa okoliczno¶ciowe wiersze. Jeden z nich to ¿yczenia, kt&oacute;re mo¿ecie napisaæ na laurce lub kartce pocztowej. Drugi jest ¶ci¶le zwi±zany z tematem sk³adanki przedstawionej na zdjêciu.</i></p>
+<p class="justify_no_first_letter" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	<i>Niekt&oacute;rzy z Was na pewno nie poprzestan± na wykonaniu kart wed³ug podanych wzor&oacute;w, ale spr&oacute;buj± w³asnej tw&oacute;rczo¶ci, gdy przekonaj± siê, jak wiele oryginalnych kompozycji mo¿na wyczarowaæ z posk³adanych kolorowych k&oacute;³ek. (&hellip;)</i></p>
+<p>
+	&nbsp;</p>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: left;">
+	<img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/wyczerpany.jpg" style="border: none;" /></div>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: right; width: 309px; text-align: right;">
+	<a href="http://ppiw.com.pl/index.php?go=dla_przedszkolaka_i_dla_ucznia&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+		<tbody>
+			<tr>
+				<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+					<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+						Wakacje z Figielkiem</h3>
+				</td>
+			</tr>
+			<tr>
+				<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+					<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+						Autorki:<br />
+						<b>Katarzyna Kidawska<br />
+						Beata Pyzel</b></p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p>
+	<img align="right" alt="Wakacje z Figielkiem" border="0" class="frontpage" hspace="10px" src="http://ppiw.com.pl/_images/content/dla_przedszkolaka_i_dla_ucznia/dpidu_wzf_01.jpg" style="border: none; float: right; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" vspace="10px" /></p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Jest to pierwsza z zestawu trzech ksi±¿eczek z atrakcyjnymi zadaniami, grami i zabawami logicznymi nawi±zuj±cymi do tre¶ci i tematyki objêtej Programem&nbsp;<i>abc</i>.</p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Na pierwsz± czê¶æ sk³adaj± siê m.in. nastêpuj±ce zadania: æwiczenia w pisaniu, wyrazy do odszyfrowania, wyrazy ukryte w zdaniach, zdania do uzupe³nienia, labirynty do pokonania, ukryte rysunki, kt&oacute;re mo¿na zobaczyæ po zamalowaniu odpowiednich p&oacute;l wg opisu, rysunki do uk³adania kr&oacute;tkich opowiadañ, rysunki z r&oacute;¿nymi elementami do por&oacute;wnywania, nazywanie rysunk&oacute;w, tworzenie wyraz&oacute;w z sylab, ³±czenie liczb w taki spos&oacute;b, aby powsta³ rysunek. Ksi±¿eczka zawiera te¿ du¿o ciekawostek, zgadywanek, ³amig³&oacute;wek, diagram&oacute;w, rebus&oacute;w, rysunk&oacute;w do dokoñczenia, a tak¿e miejsca do rysowania wg w³asnych pomys³&oacute;w dzieci. S± te¿ opisy, jak zrobiæ samemu ¿abkê z papieru czy ludzika z zebranych podczas wakacji skarb&oacute;w.</p>
+<p>
+	<img class="frontpage" src="http://ppiw.com.pl/_images/content/dla_przedszkolaka_i_dla_ucznia/dpidu_wzf_02.jpg" style="border: none; float: right; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" usemap="#dpidu_wzf" /><map name="dpidu_wzf" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;"></map><br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: left;">
+	<a href="http://ppiw.com.pl/content/_sklep/index.php?p=productsMore&amp;iProduct=90" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ do sklepu internetowego PPiW"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/zamow.jpg" style="border: none;" /></a></div>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: right; width: 309px; text-align: right;">
+	<a href="http://ppiw.com.pl/index.php?go=dla_przedszkolaka_i_dla_ucznia&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+		<tbody>
+			<tr>
+				<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+					<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+						Drugie wakacje z Figielkiem</h3>
+				</td>
+			</tr>
+			<tr>
+				<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+					<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+						Autorki:<br />
+						<b>Katarzyna Kidawska<br />
+						Beata Pyzel</b></p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p>
+	<img align="right" alt="Drugie wakacje z Figielkiem" border="0" class="frontpage" hspace="10px" src="http://ppiw.com.pl/_images/content/dla_przedszkolaka_i_dla_ucznia/dpidu_dwzf_01.jpg" style="border: none; float: right; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" vspace="10px" /></p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	W tej ksi±¿eczce dzieci znajd± nie tylko ciekawostki, rebusy, krzy¿&oacute;wki, rysunkowe dowcipy i wierszyki do uzupe³nienia lub dokoñczenia, lecz tak¿e mog± znajdywaæ ukryte wyrazy w zdaniach, ³±czyæ sylaby i odczytywaæ powsta³e wyrazy, pisaæ has³a zgodnie z podanym szyfrem, kolorowaæ rysunki wg opis&oacute;w, wykonywaæ dzia³ania matematyczne, porz±dkowaæ wyniki dzia³añ od najwiêkszego do najmniejszego, aby otrzymaæ w ten spos&oacute;b has³o, uzupe³niaæ wyrazy odpowiednimi literami, uzupe³niaæ zdania wyrazami, por&oacute;wnywaæ rysunki, nazywaæ narysowane przedmioty, odszukiwaæ szczeg&oacute;³y, kt&oacute;rymi r&oacute;¿ni± siê rysunki, wycinaæ kartoniki i przyklejaæ je w odpowiednich miejscach. Z t± ksi±¿eczk± ¿adne dziecko nie bêdzie siê nudziæ!</p>
+<p>
+	<img class="frontpage" src="http://ppiw.com.pl/_images/content/dla_przedszkolaka_i_dla_ucznia/dpidu_dwzf_02.jpg" style="border: none; float: right; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" usemap="#dpidu_dwzf" /><map name="dpidu_dwzf" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;"></map><br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: left;">
+	<a href="http://ppiw.com.pl/content/_sklep/index.php?p=productsMore&amp;iProduct=91" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ do sklepu internetowego PPiW"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/zamow.jpg" style="border: none;" /></a></div>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: right; width: 309px; text-align: right;">
+	<a href="http://ppiw.com.pl/index.php?go=dla_przedszkolaka_i_dla_ucznia&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+		<tbody>
+			<tr>
+				<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+					<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+						Zima z Figielkiem</h3>
+				</td>
+			</tr>
+			<tr>
+				<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://ppiw.com.pl/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+					<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+						Autorka:<br />
+						<b>Katarzyna Rutkowska</b></p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p>
+	<img align="right" alt="Zima z Figielkiem" border="0" class="frontpage" hspace="10px" src="http://ppiw.com.pl/_images/content/dla_przedszkolaka_i_dla_ucznia/dpidu_zzf_01.jpg" style="border: none; float: right; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" vspace="10px" /></p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Ksi±¿eczka zadowoli niejedno dziecko, bo zawiera mn&oacute;stwo ciekawych zadañ: teksty do rozszyfrowania, rysunki do podpisania odpowiednimi nazwami, wykre¶lanki literowe, wskazywanie r&oacute;¿nic i podobieñstw miêdzy rysunkami, uk³adanie wyraz&oacute;w z rozsypanki literowej, tworzenie dw&oacute;ch r&oacute;¿nych tekst&oacute;w z mieszanki zdañ, ³±czenie nazw z odpowiednimi rysunkami i dobieranie opis&oacute;w do rysunk&oacute;w, pisanie nut, dobieranie tytu³&oacute;w do tekst&oacute;w, wybieranie poprawnej odpowiedzi spo¶r&oacute;d kilku podanych, odgadywanie autor&oacute;w cytat&oacute;w z ksi±¿ek znanych dzieciom oraz wiele zadañ matematycznych. Ponadto w ksi±¿eczce mo¿na znale¼æ wierszyki, ciekawostki, zagadki, quizy, labirynty, rebusy, krzy¿&oacute;wki, ³amig³&oacute;wki, a tak¿e opis wykonania w³asnego kalendarza.</p>
+<p>
+	<img class="frontpage" src="http://ppiw.com.pl/_images/content/dla_przedszkolaka_i_dla_ucznia/dpidu_zzf_02.jpg" style="border: none; float: right; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" usemap="#dpidu_zzf" /><map name="dpidu_zzf" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;"></map><br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: left;">
+	<a href="http://ppiw.com.pl/content/_sklep/index.php?p=productsMore&amp;iProduct=92" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ do sklepu internetowego PPiW"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/zamow.jpg" style="border: none;" /></a></div>
+<div style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px; float: right; width: 309px; text-align: right;">
+	<a href="http://ppiw.com.pl/index.php?go=dla_przedszkolaka_i_dla_ucznia&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+<p>
+	&nbsp;</p>

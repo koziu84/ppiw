@@ -1,0 +1,295 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+  <title>Product Attributes</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+  <style type='text/css'>
+  @media all {
+    html, body { height:100%; }
+    body, div, table, td, th { margin:0px; padding:0px; }
+    body { font-family: Arial, Helvetica, sans-serif; font-size:14px; }
+  }
+  @media print {
+    body { color:#444444; background-color:#FFFFFF; page-break-after:auto; page-break-before:auto; page-break-inside:auto; }
+  }
+  @media screen {
+    body { color:#444444; background-color:#0000FF; }
+  }
+  @media all {
+    h1 { font-size:2em; margin-top:0px; }
+    h2 { font-size:1.5em; margin-bottom:0.4em; }
+    h3 { font-size:1.2em; margin-bottom:0.4em; }
+    h4 { font-size:1.1em; text-decoration:underline; margin-bottom:0.4em; font-weight:normal; }
+    em { font-style:normal; font-weight:bold; }
+    ul { list-style-type:disc; }
+    ul.circle { list-style-type:circle; }
+    ul.square { list-style-type:square; }
+    ul.none { list-style-type:none; }
+    ol { list-style-type:decimal; }
+    ol.alpha { list-style-type:lower-alpha; }
+    li { margin-bottom:0.7em; }
+    li.close { margin-bottom:0px; }
+    a, a:visited { color:#0000EE; background-color:inherit; text-decoration:underline; }
+    a:hover { color:#006400; background-color:inherit; text-decoration:none; }
+    .clear { clear: both; }
+  }
+  @media print {
+    a { margin-left:5px; }
+    div#topofpage { position:absolute; visibility:hidden; }
+    #doc, #page, .page { }
+    #page div { margin-bottom:1em; }
+    #page div.backtop { position:absolute; visibility:hidden; }
+    #page .backtop a, #page .backtop a:hover { }
+  }
+  @media screen {
+    div#topofpage { position:static; line-height:1px; }
+    #doc { margin-left:auto; margin-right:auto; margin-top:20px; margin-bottom:20px;
+           width:80%; border:1px solid #808080; background-color: #FFFFFF; color:inherit; }
+    #page, .page { position:relative; top:3px; left:3px; border:1px solid #808080; background-color: #FFFFFF; color:inherit; }
+    #page { padding:20px 20px 10px 20px; }
+    #page div { margin-bottom:1em; }
+    #page div.backtop { position:relative; float:right; text-align:right; border:1px solid #CCCCCC; }
+    #page .backtop a { font-size:0.7em; color:#CCCCCC; text-decoration:none; background-color:inherit; }
+    #page .backtop a:hover { color:#006400; background-color:inherit; }
+  }
+  @media all {
+    #page .code {margin:5px 0px 5px 15px; border:1px solid #4169E1; padding-left:2px; line-height:1.3em; font-size:0.85em; }
+    #page .pre span { color:#808080; background-color:inherit; }
+    #header { color:#FF4040; background-color:inherit; border:1px solid #FF4040; padding:5px; text-align:center; font-size:0.9em; font-style:italic; }
+    #info, #index { position:relative; float:right; border:1px solid #606060; padding:3px 5px 3px 5px; margin-left: 10px; margin-bottom:10px; }
+    #info div, #index div { margin:0px; }
+    #info span { float:left; width:90px; }
+    #index ul { list-style-type:none; margin:0px; padding-left:1em; }
+    #index ul li { margin-bottom:0px; }
+    #cfgsetting, #cfgsetting td { border:1px solid #808080; border-collapse:collapse; }
+    #cfgsetting { margin:10px; font-size:0.9em; }
+    #cfgsetting td { vertical-align:top; padding:2px 5px 2px 5px; }
+    div#theend { clear:both; text-align:center; font-size:0.8em; }
+    .file { color:#800080; background-color:inherit; }
+    .inlineCode { color:#A52A2A; background-color:inherit; }
+    .italic { font-style:italic; }
+    .hilite { background-color:#FFFF00; color:inherit; }
+    .new { color:#FF0000; background-color:inherit; }
+  }
+  @media print {
+    #page .code{ page-break-inside:avoid; }
+    #page .pre { color:#A52A2A; margin:0px; background-color:inherit; page-break-after:avoid; page-break-before:avoid; page-break-inside:avoid; }
+    .tcode { position:absolute; visibility:hidden; }
+  }
+  @media screen {
+    #page .pre { position:relative; top:-0.8em; color:#A52A2A; margin:0px; background-color:inherit; }
+    .tcode { background-color:#FFFFFF; position:relative; top:-0.9em; left:1em; color:#4169E1;
+             font-size:0.8em; padding-left:0.2em;padding-right:0.2em; }
+  }
+  </style>
+</head>
+<body>
+  <div id='topofpage'><a name='topdoc'>&nbsp;</a></div>
+  <div id='doc'>
+    <div class='page'>
+      <div class='page'>
+        <div id='page'>
+<!--
+          <div id='header'>NOTE: A copy of this document resides in the plugin's folder and will be available via the Admin - Plugins screen once installed.</div>
+-->
+          <div id='info'>
+            <div><span>Version</span>: 2.0</div>
+            <div><span>Release</span>: Feb 1, 2006</div>
+            <div><span>Compatibility</span>: QC v1.0+</div>
+            <div><span>Languages</span>: en</div>
+            <div><span>Author</span>: Wizzud</div>
+            <div><span>Contact</span>: <a href='mailto:rb@wizzud.com'>rb@wizzud.com</a></div>
+          </div>
+          <h1>Product Attributes</h1>
+          Plugin module for Quick.Cart by <a href='http://www.opensolution.org'>OpenSolution.org</a>
+          <div class='clear'></div>
+          <div id='index'>
+            <div><a href='#synopsis'>Synopsis</a></div>
+            <div><a href='#compatibility'>Compatibility</a></div>
+            <div><a href='#prerequisites'>Prerequisites</a></div>
+            <div><a href='#upgrade'>Upgrade</a></div>
+            <div><a href='#install'>Install</a></div>
+            <div><a href='#guide'>User Guide</a></div>
+            <ul>
+              <li><div><a href='#cfgAdmin'>Configuration</a></div></li>
+              <li><div><a href='#attAdmin'>Attribute Admin</a></div></li>
+              <li><div><a href='#userInput'>User Input Fields</a></div></li>
+              <li><div><a href='#specialPrice'>Special Prices</a></div></li>
+              <li><div><a href='#frontend'>Shop Front-End</a></div></li>
+            </ul>
+            <div><a href='#language'>Language</a></div>
+            <div><a href='#templates'>Template Files</a></div>
+          </div>
+
+          <a name='synopsis'></a><h2>Synopsis</h2>
+          <div>This is a complete re-vamp of the original plugin, with added functionality, and is not backwards compatible with previous versions. It offers ...</div>
+          <ul>
+            <li>Attribute definition, grouped by the type of attribute</li>
+            <li>Price offset per attribute, as an amount or percentage</li>
+            <li>Assignment of any attribute to any product, on a per-product basis</li>
+            <li>Reserved attribute group for optional user-input fields <span class='new'>NEW!</span></li>
+            <li>Special Price for any product <span class='new'>NEW!</span></li>
+            <li>Simplified installation and maintenance*</li>
+          </ul>
+          <div>* Please note the <a href='#prerequisites'>Prerequisites</a> for running this plugin. Due to the complexity of the interaction
+               with the core Quick.Cart code it is necessary to use the facilities provided by the Plugin Manager. If this causes any problems
+               I apologise in advance, but it is unavoidable.</div>
+          <div class='backtop'><a href='#topdoc' name='compatibility'>Top of Page</a></div>
+
+          <h2>Compatibility</h2>
+          <div>Quick.Cart versions prior to v1.0 : <em>Not</em> compatible.</div>
+          <div>Quick.Cart versions 1.0 upward : Compatible at the time of writing.</div>
+          <div>Other Plugins : At the time of release, this plugin is known to be compatible with the following available plugins (other than those listed as <a href='#prerequisites'>Prerequisite</a>):
+            <ul>
+              <li>productsInRow v1.1</li>
+            </ul></div>
+          <div>Any other plugins not mentioned above may or may not work in conjunction with Product Attributes, but it is always
+               worth checking their available documentation to see if they specify compatibility with this plugin.</div>
+          <div class='backtop'><a href='#topdoc' name='prerequisites'>Top of Page</a></div>
+
+          <h2>Prerequisites</h2>
+          <div><em>Plugin Manager v2.0+</em> : Uses the Plugin Manager's 'extendTplParser' class extension.</div>
+          <div>None other, assuming that the <a href='#compatibility'>Compatibility</a> requirements have been met.</div>
+          <div class='backtop'><a href='#topdoc' name='upgrade'>Top of Page</a></div>
+
+          <h2>Upgrade</h2>
+          <div>There is no upgrade path, since this is first release available for the compatible Quick.Cart versions.</div>
+          <div>For anyone upgrading from earlier versions of Quick.Cart, the <span class='file'>db/attributes.php</span> file
+               has had an extra field appended to it - which can be editted in by appending an extra dollar to each record - but the
+               <span class='file'>db/product_attributes.php</span> file has been restructured and is not so simple to update. I would
+               suggest that the simplest course, therefore, is to clear down the <span class='file'>db/product_attributes.php</span> file
+               and re-assign all attributes. A transform utility program could be used, but has not been provided with this release.</div>
+          <div class='backtop'><a href='#topdoc' name='install'>Top of Page</a></div>
+
+          <h2>Install</h2>
+          <div>Where possible, the release folder is laid out in the correct folder structure to aid installation.</div>
+          <ol>
+            <li>Copy the entire productAttributes folder from the release/plugins/ folder into your Quick.Cart plugins/ folder.</li>
+            <li>Copy the contents of the release/templates/admin/ folder to your Quick.Cart templates/admin/ folder (2 new files: productAttributes.tpl and productAttributes.css).</li>
+            <li>Copy the contents of the release/templates/ folder to your Quick.Cart templates/ folder (6 new files, <em>NOT</em> the Admin folder!).</li>
+            <li>Copy the contents of the release/db/ folder to your Quick.Cart db/ folder (2 new files: attributes.php and product_attributes.php) and give them the same file permissions as all other files in that directory (read and write access).
+                This stage is actually optional - if the files don't exist, the plugin will attempt to create them for you.</li>
+            <li>Add a link in the admin menu bar to access the attributes maintenance screen(s). Please remember to make a copy of the template file <em>before</em> you change it!
+              <div>Edit <span class='file'>templates/admin/page.tpl</span> and somewhere within the <span class='inlineCode'>&lt;div class="menuBar"&gt;</span> section
+                   (which begins at roughly line 37) ...</div>
+              Insert the 1 line below
+              <div class='code'><span class='tcode'>CODE</span><div class='pre'>
+                &lt;a class="menuButton" href="?p=attributesList"<br />&nbsp;&nbsp;&nbsp;onmouseover="return buttonClick(event, 'attributes'); buttonMouseover(event, 'attributes');"<br />&nbsp;&nbsp;&nbsp;&gt;$lang[attributes]&lt;/a&gt;
+              </div></div>
+              <div class='italic'>Note that the position in the Admin navigation bar depends upon whereabouts among the existing links you place the new link.</div>
+              Then look a couple of lines down from there, for a line containing just "<span class='inlineCode'>&lt;/div&gt;</span>",and immediately below this line paste the following 3 lines
+              <div class='code'><span class='tcode'>CODE</span><div class='pre'>
+                &lt;div id="attributes" class="menu" onmouseover="menuMouseover( event );"&gt;<br />
+                &nbsp;&nbsp;&nbsp;&lt;a class="menuItem" href="?p=attributesForm"&gt;&lt;span class="menuItemText">$lang[Add_attribute]&lt;/span&gt;&lt;/a&gt;<br />
+                &lt;/div&gt;
+              </div></div>
+            </li>
+            <li>Go to the Configuration - Plugins option on the Admin menu, and configure and then enable the productAttributes plugin.</li>
+          </ol>
+          <div class='backtop'><a href='#topdoc' name='guide'>Top of Page</a></div>
+
+          <h2>User Guide</h2>
+          <div class='backtop'><a href='#topdoc' name='cfgAdmin'>Top of Page</a></div>
+          <h3>Configuration</h3>
+          <div>The plugin's configuration parameters are accessible via the Plugin Manager, and full explanations have been
+               provided for each and every setting. Please read them carefully!</div>
+          <div class='backtop'><a href='#topdoc' name='attAdmin'>Top of Page</a></div>
+          <h3>Attribute Admin</h3>
+          <ul>
+            <li>You add attributes using Admin - Attributes/Add Attribute, in the same manner that you would add products or categories.</li>
+            <li>An attribute belongs to a Group, and has a Name.
+                <div>Using colours as an example, the Group name would be "Colour" and the attribute Names might be "Red", "Yellow", "Blue", etc.
+                (The name of the Group is restricted to one word, for technical reasons).</div></li>
+            <li>Each attribute can have an Offset applied to it. Offsets can be positive/negative amounts, or positive/negative percentages (indicated by checking the checkbox).
+                An Offset is applied to the base price of the product to which the attribute is attached, allowing price modification depending upon the customer's selection.
+                <div>For example, given a T-Shirt with a base price of $5.00, attributes could be set up for Small (0.00 offset, ie price = $5.00), Medium (0.20 offset, ie. price = $5.20, and Large (0.50 offset, ie. price = $5.50).</div>
+                <div>Alternatively, set up a Tankard at a price of $50, with attributes of Silver (0.00 offset, ie. price = $50) and SilverPlate (-12.00 as percentage, ie. price = $44.00) - eg. discounted!</div>
+                <div>Percentage offsets are always calculated as a percentage of the base price, not compounded.</div></li>
+            <li>All Attributes and their settings are listed by Group on the Admin - Attributes page. From here, Attributes can be editted or deleted.</li>
+            <li>Deleting an attribute will also remove that attribute from any products to which it may have been assigned.
+                <br />Be wary of deleting attributes, because if you have any orders that include products with those attributes selected, they will no
+                no longer be visible via Admin!</li>
+            <li>After one attribute has been added, when adding or modifying any subsequent attribute(s) a drop-down select box will
+                give you a list of the Groups currently in existence so that they will match accurately. Note that the User Input Group will
+                always appear in the dropdown, even if no attributes have been defined for that Group (see the <a href='userInput'>User Input Fields</a> section below).</li>
+            <li>When attributes have been added, they can be asigned to any number of products from the Product List form, by clicking on a new Attributes button next to the 'Edit Product' button.</li>
+            <li>Hovering the cursor over the Attributes button on the Product List form will display the assigned Attributes for that Product (if there are any) and the appearance
+                of the button itself indicates which products have attributes assigned.</li>
+            <li>On the Attribute Assignment form, all attributes are listed within their allotted Groups. Simply check the relevant boxes to allocate them to the product. Repeat for all appropriate products.</li>
+          </ul>
+          <div class='backtop'><a href='#topdoc' name='userInput'>Top of Page</a></div>
+          <h3>User Input Fields</h3>
+          <div>There is a reserved Group which can be used to define an Attribute as a User Input field, which means that instead of
+               all the attributes within this Group being uniquely selectable from a dropdown, any assigned User Input Attribute is
+               presented as an input box for the User to enter text.</div>
+          <ul>
+            <li>Attributes defined in the User Input Group can be set as optional (all other standard Attributes are considered mandatory).</li>
+            <li>The Attribute Name is used as the label for the input field when presented to the User.</li>
+            <li>Offset and Percentage have no meaning for User Input Attributes.</li>
+          </ul>
+          <div>Beware of using the Optional flag too liberally - if a product only has optional attributes assigned, then the User is not
+               automatically redirected to the Product More page from the Product List page, as happens with mandatory assigned Attributes.</div>
+          <div class='backtop'><a href='#topdoc' name='specialPrice'>Top of Page</a></div>
+          <h3>Special Prices</h3>
+          <div>From the Attribute Assignment form a product can be assigned a Special Price. That price is then displayed on the Product
+               List form, alongside the price it overrides. A Special Price can be removed simply by clearing the field on the Attribute
+               Assignment form (a button is provided especially for that purpose, but you still have to remember to submit the form!).</div>
+          <div>A Special Price overrides the product's real price (as set through Product Maintenance) throughout the shop front-end,
+               including when calculating any Attribute Offsets that might also be applied to the product.</div>
+          <div class='backtop'><a href='#topdoc' name='frontend'>Top of Page</a></div>
+          <h3>Shop Front-End</h3>
+          <ul>
+            <li>With the exception of optional <a href='#userInput'>User Input fields</a> any attribute is considered to be a required
+                input field.</li>
+            <li>The Product List does not show attributes, but clicking on the Add-To-Cart button will redirect to the Product More
+                page if there are attributes assigned to the product.</li>
+            <li>On the Product More page, standard attributes are presented in drop-down selection lists below the Quantity input box,
+                with the offset (if applicable) in brackets after it.
+                <br />The User Input fields are presented below any assigned standard attributes, with their relevant Name (Label) just above them.</li>
+            <li>Selection of a valid entry is checked using a script, except where a <a href='#userInput'>User Input field</a> has been declared optional.</li>
+            <li>Where an offset is applicable, the price displayed for the product is adjusted.</li>
+            <li>All Basket displays will list the selected/entered attribute values in brackets after the product name.</li>
+            <li>You can add the same product to the Basket but with different attribute values selected/entered. Adding the
+                same product with the same attribute values will simply increase the quantity of the existing entry.</li>
+          </ul>
+          <div class='backtop'><a href='#topdoc' name='language'>Top of Page</a></div>
+
+          <h2>Language</h2>
+          <div>By default this plugin is only supplied with an English language file - <span class='file'>/plugins/productAttributes/lang-en.php</span>.</div>
+          <div>If you wish to provide translations for your own language, copy lang-en.php to lang-[2-char-code].php (within the same folder), where [2-char-code] is the
+               recognised code for your language. For example, a Polish language file would be <span class='file'>/plugins/productAttributes/lang-pl.php</span>.</div>
+          <div>The plugin will automatically load the English file first, and then look for the language file in the Shop's configured language, so that the English text is always there as a backup.</div>
+          <div class='backtop'><a href='#topdoc' name='templates'>Top of Page</a></div>
+
+          <h2>Template Files</h2>
+          <div>A number of template files have been provided as part of this plugin, some of which are obvious - the productAttributes.tpl/.css files, for example -
+               and some of which are less so. The template files that begin with the prefix 'pa.' fall into 2 categories:</div>
+          <ol class='alpha'>
+            <li>Those that provide limited Block replacement of core Quick.Cart templates, eg. <span class='file'>/template/pa.products_more.tpl</span>, and</li>
+            <li>Those that provide limited Block replacement of other plugin templates, eg. <span class='file'>/templates/pa.productsInRow.tpl</span>.</li>
+          </ol>
+          <div>The modifications contained in any 'pa.' prefixed template file can be editted into the file it replaces. There is a configuration
+               variable (an array of template names) that controls which template file the Product Attributes plugin uses. An entry in the array
+               means that Product Attributes will use the 'pa.' prefixed version of that template file, so if you integrate the changes into the
+               Quick.Cart standard templates (or template(s) from other plugins) then the entry needs to be removed from the array. Meantime, please
+               be aware that these 'pa.' prefixed files exist and that if you wish to make changes to layout you may need to edit these files
+               rather than their original counterparts.</div>
+          <div>For example, if you wish to modify the format of the original and Special prices displayed on the Product More page, you might
+               need to look at the <span class='file'>/templates/pa.products_more.tpl</span> in conjunction with the <span class='file'>/templates/productAttributes.css</span>
+               files in order to effect the required changes.</div>
+          <div>You sould also be aware that the Product Attributes plugin uses functionality provided by the extendTplParser class extension,
+               part of the Plugin Manager release. This class extension enables intercepts on calls to the template parser, which allow for
+               functions to be run prior to parsing templates, and for additional templates to be parsed during and after handling any particular parsing call
+               - <em>without having to change core code</em>! This means that it can sometimes be a bit tricky to track down exactly which
+               template file is providing a certain bit of HTML, but the huge advantage is the improved simplicity of installation when
+               editting of templates can be kept to an absolute minimum.</div>
+          <div class='backtop'><a href='#topdoc'>Top of Page</a></div>
+
+          <div id='theend'>~~ The End ~~</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class='clear'>&nbsp;</div>
+</body>
+</html>

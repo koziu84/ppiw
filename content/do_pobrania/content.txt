@@ -1,0 +1,128 @@
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	W tym dziale mog± Pañstwo pobraæ materia³y pomocnicze do wykorzystania podczas zajêæ z dzieæmi. Materia³y te s± czê¶ci± publikacji oferowanych przez nasze wydawnictwo.</p>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<a name="przewodnikKlIII" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;"></a></p>
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+		<tbody>
+			<tr>
+				<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://localhost/ppiw/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+					<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+						Przewodnik dla nauczyciela &ndash; Klasa III</h3>
+				</td>
+			</tr>
+			<tr>
+				<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://localhost/ppiw/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+					<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+						Autorki:<br />
+						<b>Janina Korzañska, Ma³gorzata Strêkowska-Zaremba</b>&nbsp;&ndash; Przewodnik cz. 1. i 2.<br />
+						(wsp&oacute;³praca:&nbsp;<b>Bo¿ena Jenda, Hanna Kamieniarz i Renata Mreñca</b>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Poni¿ej znajduj±&nbsp;siê linki, po kt&oacute;rych klikniêciu rozpocznie siê pobieranie przewodnik&oacute;w.</p>
+<ul class="ul-Left" style="list-style-image: url(http://localhost/ppiw/_images/layout/ul-puzzle.jpg); vertical-align: middle; font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(17, 17, 17); margin-left: 40px; list-style-position: outside;">
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		<a href="http://localhost/ppiw/download/kl_III/przew_cz1.pdf" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;" target="_new" title="Czê¶æ 1. (rozmiar pliku: 9.2 MB)"><img alt="&#187;&nbsp;" border="0" src="http://localhost/ppiw/_images/layout/pictograms/download.gif" style="border: none;" />Przewodnik cz. 1.</a></li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		<a href="http://localhost/ppiw/download/kl_III/przew_cz2.pdf" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;" target="_new" title="Czê¶æ 2. (rozmiar pliku: 7.7 MB)"><img alt="&#187;&nbsp;" border="0" src="http://localhost/ppiw/_images/layout/pictograms/download.gif" style="border: none;" />Przewodnik cz. 2.</a></li>
+</ul>
+<p>
+	&nbsp;</p>
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<a href="http://localhost/ppiw/index.php?go=do_pobrania&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://localhost/ppiw/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://localhost/ppiw/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<a name="notatkiEncylkopedyczne" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;"></a></p>
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+		<tbody>
+			<tr>
+				<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://localhost/ppiw/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+					<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+						Notki encyklopedyczne do albumu ¦wiat wok&oacute;³ mnie</h3>
+				</td>
+			</tr>
+			<tr>
+				<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://localhost/ppiw/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+					<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+						&nbsp;</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Trzyczê¶ciowy album ¦wiat wok&oacute;³ mnie to unikatowa publikacja o&nbsp;charakterze interaktywnym dla dzieci w&nbsp;wieku 6&ndash;12 lat. Dostosowana&nbsp;jest tematycznie do pakiet&oacute;w podrêcznikowych. £±czy walory leksykonu, albumu wielotematycznego, ksi±¿eczki do kolorowania i&nbsp;wycinania, zestawu gier i&nbsp;æwiczeñ edukacyjnych.</p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Do 1.&nbsp;czê¶ci albumu do³±czona jest dyskietka z notkami encyklopedycznymi i programem komputerowym do pobierania notek dotycz±cych wszystkich obiekt&oacute;w znajduj±cych&nbsp;siê na kolorowych planszach.</p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Poni¿ej znajduje&nbsp;siê link, kt&oacute;rego klikniêcie rozpocznie pobieranie programu. Przed pobraniem warto przeczytaæ&nbsp;<a target="_blank" title="Otwórz w nowym oknie"><img alt="&#187;&nbsp;" border="0" src="http://localhost/ppiw/_images/layout/pictograms/window.gif" style="border: none;" />instrukcjê</a>&nbsp;rozpakowania programu.</p>
+<p class="justify_no_first_letter" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	<a href="http://localhost/ppiw/download/encyklopedia_zip.exe" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_top" title="Program do pobrania (rozmiar pliku: 561 kB)"><img alt="&#187;&nbsp;" border="0" src="http://localhost/ppiw/_images/layout/pictograms/download.gif" style="border: none;" />Pobierz program</a>&nbsp;|&nbsp;<a href="http://localhost/ppiw/content/_sklep/index.php?p=productsMore&amp;iProduct=82" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_blank" title="Zamów publikacjê"><img alt="&#187;&nbsp;" border="0" src="http://localhost/ppiw/_images/layout/pictograms/shop.gif" style="border: none;" />Zam&oacute;w publikacjê</a></p>
+<p>
+	&nbsp;</p>
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<a href="http://localhost/ppiw/index.php?go=do_pobrania&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://localhost/ppiw/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://localhost/ppiw/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<a name="malujeIopowiadam" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;"></a></p>
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<table cellpadding="0" cellspacing="0" class="sectionTitleTable" style="width: 520px; border: 0px none; padding: 0px;">
+		<tbody>
+			<tr>
+				<td class="sectionTitle-top" style="vertical-align: bottom; background-image: url(http://localhost/ppiw/_images/layout/h3-header-top.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 100%; background-repeat: no-repeat no-repeat;">
+					<h3 class="sectionTitle" style="font-weight: normal; font-size: 18px; color: rgb(72, 70, 223); line-height: 22px;">
+						Malujê i opowiadam. Sztuka w nauczaniu zintegrowanym</h3>
+				</td>
+			</tr>
+			<tr>
+				<td class="sectionTitle-bottom" style="vertical-align: top; background-image: url(http://localhost/ppiw/_images/layout/h3-header-bottom.gif); background-attachment: scroll; background-color: transparent; text-align: right; padding: 0px; height: 20px; background-position: 50% 0%; background-repeat: no-repeat no-repeat;">
+					<p class="authors" style="font-size: 12px; color: rgb(102, 153, 0); line-height: 15px;">
+						przewodnik do tekst&oacute;w literackich dla klasy III<br />
+						<br />
+						Autorka:<br />
+						<b>El¿bieta Rola</b></p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Przewodnik dla nauczyciela z&nbsp;zestawem 32 kolorowych ilustracji do 8 tekst&oacute;w literackich zawartych w&nbsp;pakiecie Moje abc dla klasy III i&nbsp;w&nbsp;zbiorach tekst&oacute;w Opowiadania i&nbsp;wiersze. Tekst literacki zosta³ ukazany jako inspiracja do r&oacute;¿norodnych æwiczeñ, dziêki kt&oacute;rym dziecko bêdzie mog³o poznaæ kompozycjê, nastr&oacute;j, poszukiwaæ narratora, okre¶laæ postawy bohater&oacute;w itd.</p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Poni¿ej znajduje&nbsp;siê link, kt&oacute;rego klikniêcie rozpocznie pobieranie przewodnika.</p>
+<p class="justify_no_first_letter" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	<a href="http://localhost/ppiw/download/przewodnik_mio.doc" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_top" title="Plik do pobrania (rozmiar pliku: 81 kB)"><img alt="&#187;&nbsp;" border="0" src="http://localhost/ppiw/_images/layout/pictograms/download.gif" style="border: none;" />Pobierz przewodnik</a>&nbsp;|&nbsp;<a href="http://localhost/ppiw/content/_sklep/index.php?p=productsMore&amp;iProduct=14" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;" target="_blank" title="Zamów publikacjê"><img alt="&#187;&nbsp;" border="0" src="http://localhost/ppiw/_images/layout/pictograms/shop.gif" style="border: none;" />Zam&oacute;w publikacjê</a></p>
+<p>
+	<img class="frontpage" src="http://localhost/ppiw/_images/content/dla_nauczyciela/dn_mio_0.jpg" style="border: none; float: right; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" usemap="#dn_mio" /><map name="dn_mio" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;"></map><br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<a href="http://localhost/ppiw/index.php?go=do_pobrania&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://localhost/ppiw/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://localhost/ppiw/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>

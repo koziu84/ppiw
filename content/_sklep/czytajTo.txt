@@ -1,0 +1,46 @@
+------------------------------
+Quick.Cart by OpenSolution.org
+
+Kontakt: info@opensolution.org
+www.opensolution.org
+------------------------------
+
+Jak zainstalowac
+------------------------------
+Krok 1) 
+Zaloguj sie na konto shell (lub ftp) gdzie bedzie funkcjonowal sklep Quick.Cart
+- cd files/
+- chmod 777 *
+- cd ..
+- cd db/
+- chmod 777 *
+
+Wszystkie pliki i podkatalogi w katalogach "files/" i "db/" musza miec ustawione prawa chmod 777
+
+Jesli chcesz edytowac konfiguracje w administracji, daj prawa chmod 777 dla pliku config/general.php
+- cd config/
+- chmod 777 general.php
+
+Krok 2) Edytuj config/general.php zmien login i haslo ($config['login'], $config['pass']). Domyslny login to "admin" i haslo to "admin"
+Krok 3) Uruchom Quick.Cart
+
+Wymagania i zalecenia
+------------------------------
+- PHP >= 4.3.3 - wymagane
+- gd2 rozszerzenie w php (php.ini) - wymagane
+- wlaczona funkcja mail() potrzebna do wysylania e-maili - zalecane
+
+Licencja
+-------------------------------
+Mozesz dokonywac wszelkich modyfikacji poza usuwaniem napisu w stopce sklepu "powered by Quick.Cart", 
+ktory ma byc linkiem do strony http://qc.opensolution.org/
+Aplikacja oparta jest o licencje GPL
+
+Wtyczki
+-------------------------------
+Sa to narzedzia rozszerzajace Quick.Cart'a o nowe mozliwosci np. platnosc karta kredytowa, system bannerowy, analizy zamowien itd.
+Wiecej informacji i zdjec na temat wtyczek do sklepu znajdziesz pod adresem: http://opensolution.org/sklep/
+
+Kopie bezpiecznstwa
+-------------------------------
+Nie ma rzeczy idealnych dlatego tez prosimy dokonywac kopii bezpieczenstwa calego katalogu "db/"

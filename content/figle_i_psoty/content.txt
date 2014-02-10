@@ -1,0 +1,52 @@
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	<b>Spêdzaj czas z Figielkiem! Zbuduj z nim dom albo zamek z piasku, poczytaj w lesie ksi±¿kê, przenie¶ siê pod ¿agle albo w podwodny ¶wiat. A mo¿e w kosmos? Sprawd¼, dok±d Figielek wêdruje, zobacz, jak spedza wakacje i co robi zim±. Z Figielkiem nie bêdziesz siê nudziæ!</b></p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Zobacz, jakie proponujemy ci puzzle. Wystarczy pobraæ plik *.exe na sw&oacute;j komputer, zapisaæ go w&nbsp;dowolnym miejscu (np. na Pulpicie) i&nbsp;uruchomiæ (dwukrotnie klikn±æ) pobran± aplikacjê z&nbsp;puzzlami. Mi³ej zabawy!</p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	<img alt="Puzzle Figielka" src="http://ppiw.com.pl/_images/content/figle_i_psoty/fip_puzzle.jpg" style="border: none; float: right;" /></p>
+<ul class="ul-Left" style="list-style-image: url(http://ppiw.com.pl/_images/layout/ul-puzzle.jpg); vertical-align: middle; font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(17, 17, 17); margin-left: 40px; list-style-position: outside;">
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		<a href="http://ppiw.com.pl/download/fip_puzzle/Buduj_razem_z_Figielkiem_-_puzzle_PPiW.exe" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;" title="Rozmiar pliku: 0,36 MB"><img alt="&gt;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/download.gif" style="border: none;" />Buduj razem z Figielkiem</a></li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		<a href="http://ppiw.com.pl/download/fip_puzzle/Czytamy_z_Figielkiem_-_puzzle_PPiW.exe" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;" title="Rozmiar pliku: 0,33 MB"><img alt="&gt;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/download.gif" style="border: none;" />Czytamy z Figielkiem</a></li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		<a href="http://ppiw.com.pl/download/fip_puzzle/Figielek_na_plazy_-_puzzle_PPiW.exe" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;" title="Rozmiar pliku: 0,32 MB"><img alt="&gt;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/download.gif" style="border: none;" />Figielek na pla¿y</a></li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		<a href="http://ppiw.com.pl/download/fip_puzzle/Figielek_pod_zaglami_-_puzzle_PPiW.exe" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;" title="Rozmiar: pliku 0,32 MB"><img alt="&gt;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/download.gif" style="border: none;" />Figielek pod ¿aglami</a></li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		<a href="http://ppiw.com.pl/download/fip_puzzle/Figielek_w_kosmosie_-_puzzle_PPiW.exe" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;" title="Rozmiar pliku: 0,33 MB"><img alt="&gt;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/download.gif" style="border: none;" />Figielek w kosmosie</a></li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		<a href="http://ppiw.com.pl/download/fip_puzzle/Podwodny_swiat_Figielka_-_puzzle_PPiW.exe" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;" title="Rozmiar pliku: 0,32 MB"><img alt="&gt;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/download.gif" style="border: none;" />Podwodny ¶wiat Figielka</a></li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		<a href="http://ppiw.com.pl/download/fip_puzzle/Wakacje_z_Figielkiem_-_puzzle_PPiW.exe" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;" title="Rozmiar pliku: 0,35 MB"><img alt="&gt;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/download.gif" style="border: none;" />Wakacje z Figielkiem</a></li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		<a href="http://ppiw.com.pl/download/fip_puzzle/Wedrowki_z_Figielkiem_-_puzzle_PPiW.exe" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;" title="Rozmiar pliku: 0,33 MB"><img alt="&gt;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/download.gif" style="border: none;" />Wêdr&oacute;wki z Figielkiem</a></li>
+	<li class="li-Left" style="line-height: 18px; padding-top: 2px; padding-bottom: 4px; vertical-align: baseline;">
+		<a href="http://ppiw.com.pl/download/fip_puzzle/Zima_z_Figielkiem_-_puzzle_PPiW.exe" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer;" title="Rozmiar pliku: 0,34 MB"><img alt="&gt;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/download.gif" style="border: none;" />Zima z Figielkiem</a></li>
+</ul>
+<p>
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+	&nbsp;</p>
+<div align="center" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<img alt="______________________" src="http://ppiw.com.pl/_images/layout/h-ruler.gif" style="border: none;" /></div>
+<p>
+	&nbsp;</p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	<a style="color: rgb(85, 85, 85); cursor: pointer; line-height: 18px;"><img alt="Puzzle z Psotk±" src="http://ppiw.com.pl/_images/content/figle_i_psoty/psotka/fip_p_popup_01.jpg" style="border: none; float: left;" /></a></p>
+<p class="justify" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: rgb(5, 5, 5); line-height: 19px;">
+	Spr&oacute;buj u³o¿yæ puzzle i poznaj Psotkê &ndash; bohaterkê podrêcznik&oacute;w dla&nbsp;<a href="http://ppiw.com.pl/index.php?go=podreczniki&amp;sub1=#podrecznikKl0" style="color: rgb(85, 85, 85); text-decoration: none; cursor: pointer; line-height: 18px;"><img alt="&gt;&nbsp;" border="0" src="http://ppiw.com.pl/_images/layout/pictograms/anchor.gif" style="border: none;" />klasy 0</a>, kt&oacute;ra wprowadzi ciê w ¶wiat literek i cyferek.</p>
+<p>
+	&nbsp;</p>
+<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+<br style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;" />
+<div>
+</div>
+<div align="right" style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+	<a href="http://ppiw.com.pl/index.php?go=figle_i_psoty&amp;sub1=#" style="color: rgb(85, 85, 85); text-decoration: none; font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Przejd¼ na pocz±tek strony"><img alt="^&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/top.gif" style="border: none;" />Do g&oacute;ry</a>&nbsp;|&nbsp;<a style="color: rgb(85, 85, 85); font-size: 13px; cursor: pointer; line-height: 18px;" target="_self" title="Wróæ do poprzedniej strony"><img alt="&lt;&nbsp;" src="http://ppiw.com.pl/_images/layout/pictograms/back.gif" style="border: none;" />Wstecz</a></div>

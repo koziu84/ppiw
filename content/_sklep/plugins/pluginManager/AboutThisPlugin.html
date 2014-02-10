@@ -1,0 +1,576 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+  <title>Plugin Manager</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+  <style type='text/css'>
+  @media all {
+    html, body { height:100%; }
+    body, div, table, td, th { margin:0px; padding:0px; }
+    body { font-family: Arial, Helvetica, sans-serif; font-size:14px; }
+  }
+  @media print {
+    body { color:#444444; background-color:#FFFFFF; page-break-after:auto; page-break-before:auto; page-break-inside:auto; }
+  }
+  @media screen {
+    body { color:#444444; background-color:#0000FF; }
+  }
+  @media all {
+    h1 { font-size:2em; margin-top:0px; }
+    h2 { font-size:1.5em; margin-bottom:0.4em; }
+    h3 { font-size:1.2em; margin-bottom:0.4em; }
+    h4 { font-size:1.1em; text-decoration:underline; margin-bottom:0.4em; font-weight:normal; }
+    em { font-style:normal; font-weight:bold; }
+    ul { list-style-type:disc; }
+    ul.circle { list-style-type:circle; }
+    ul.square { list-style-type:square; }
+    ul.none { list-style-type:none; }
+    ol { list-style-type:decimal; }
+    ol.alpha { list-style-type:lower-alpha; }
+    li { margin-bottom:0.7em; }
+    li.close { margin-bottom:0px; }
+    a, a:visited { color:#0000EE; background-color:inherit; text-decoration:underline; }
+    a:hover { color:#006400; background-color:inherit; text-decoration:none; }
+    .clear { clear: both; }
+  }
+  @media print {
+    a { margin-left:5px; }
+    div#topofpage { position:absolute; visibility:hidden; }
+    #doc, #page, .page { }
+    #page div { margin-bottom:1em; }
+    #page div.backtop { position:absolute; visibility:hidden; }
+    #page .backtop a, #page .backtop a:hover { }
+  }
+  @media screen {
+    div#topofpage { position:static; line-height:1px; }
+    #doc { margin-left:auto; margin-right:auto; margin-top:20px; margin-bottom:20px;
+           width:80%; border:1px solid #808080; background-color: #FFFFFF; color:inherit; }
+    #page, .page { position:relative; top:3px; left:3px; border:1px solid #808080; background-color: #FFFFFF; color:inherit; }
+    #page { padding:20px 20px 10px 20px; }
+    #page div { margin-bottom:1em; }
+    #page div.backtop { position:relative; float:right; text-align:right; border:1px solid #CCCCCC; }
+    #page .backtop a { font-size:0.7em; color:#CCCCCC; text-decoration:none; background-color:inherit; }
+    #page .backtop a:hover { color:#006400; background-color:inherit; }
+  }
+  @media all {
+    #page .code {margin:5px 0px 5px 15px; border:1px solid #4169E1; padding-left:2px; line-height:1.3em; font-size:0.85em; }
+    #page .pre span { color:#808080; background-color:inherit; }
+    #header { color:#FF4040; background-color:inherit; border:1px solid #FF4040; padding:5px; text-align:center; font-size:0.9em; font-style:italic; }
+    #info, #index { position:relative; float:right; border:1px solid #606060; padding:3px 5px 3px 5px; margin-left: 10px; margin-bottom:10px; }
+    #info div, #index div { margin:0px; }
+    #info span { float:left; width:90px; }
+    #index ul { list-style-type:none; margin:0px; padding-left:1em; }
+    #index ul li { margin-bottom:0px; }
+    #cfgsetting, #cfgsetting td { border:1px solid #808080; border-collapse:collapse; }
+    #cfgsetting { margin:10px; font-size:0.9em; }
+    #cfgsetting td { vertical-align:top; padding:2px 5px 2px 5px; }
+    div#theend { clear:both; text-align:center; font-size:0.8em; }
+    .file { color:#800080; background-color:inherit; }
+    .inlineCode { color:#A52A2A; background-color:inherit; }
+    .italic { font-style:italic; }
+    .hilite { background-color:#FFFF00; color:inherit; }
+    .new { color:#FF0000; background-color:inherit; }
+  }
+  @media print {
+    #page .code{ page-break-inside:avoid; }
+    #page .pre { color:#A52A2A; margin:0px; background-color:inherit; page-break-after:avoid; page-break-before:avoid; page-break-inside:avoid; }
+    .tcode { position:absolute; visibility:hidden; }
+  }
+  @media screen {
+    #page .pre { position:relative; top:-0.8em; color:#A52A2A; margin:0px; background-color:inherit; }
+    .tcode { background-color:#FFFFFF; position:relative; top:-0.9em; left:1em; color:#4169E1;
+             font-size:0.8em; padding-left:0.2em;padding-right:0.2em; }
+  }
+  </style>
+</head>
+<body>
+  <div id='topofpage'><a name='topdoc'>&nbsp;</a></div>
+  <div id='doc'>
+    <div class='page'>
+      <div class='page'>
+        <div id='page'>
+<!--
+          <div id='header'>NOTE: A copy of this document resides in the plugin's folder and will be available via the Admin - Plugins screen once installed.</div>
+-->
+          <div id='info'>
+            <div><span>Version</span>: 2.0</div>
+            <div><span>Release</span>: Feb 1, 2006</div>
+            <div><span>Compatibility</span>: QC v1.0+</div>
+            <div><span>Languages</span>: en</div>
+            <div><span>Author</span>: Wizzud</div>
+            <div><span>Contact</span>: <a href='mailto:rb@wizzud.com'>rb@wizzud.com</a></div>
+          </div>
+          <h1>Plugin Manager</h1>
+          Plugin module for Quick.Cart by <a href='http://www.opensolution.org'>OpenSolution.org</a>
+          <div class='clear'></div>
+          <div id='index'>
+            <div><a href='#synopsis'>Synopsis</a></div>
+            <div><a href='#compatibility'>Compatibility</a></div>
+            <div><a href='#prerequisites'>Prerequisites</a></div>
+            <div><a href='#upgrade'>Upgrade</a></div>
+            <div><a href='#install'>Install</a></div>
+            <div><a href='#guide'>User Guide</a></div>
+            <ul>
+              <li><div><a href='#themes'>Themes</a></div></li>
+              <li><div><a href='#maintmode'>Maintenance Mode</a></div></li>
+            </ul>
+            <div><a href='#language'>Language</a></div>
+            <div><a href='#manage'>Plugin Developers...</a></div>
+            <ul>
+              <li><div><a href='#config'>Config File</a></div></li>
+              <li><div><a href='#languagef'>Language File</a></div></li>
+              <li><div><a href='#setup'>Setup File</a></div></li>
+              <li><div><a href='#regexp'>Regular Expressions</a></div></li>
+              <li><div><a href='#extendtpl'>Extended TPL Parser</a></div></li>
+              <li><div><a href='#trawler'>DOM Trawler</a></div></li>
+            </ul>
+          </div>
+
+          <a name='synopsis'></a><h2>Synopsis</h2>
+          <div>This is a complete re-vamp of the original version 1.0 plugin.<br />For appropriately constructed plugins* this Plugin Manager offers ...</div>
+          <ul>
+            <li>Enable/disable plugins</li>
+            <li>Online plugin configuration</li>
+            <li>Version checking</li>
+            <li>Auto-include</li>
+            <li>Theme selection</li>
+            <li>Shop maintenance modes</li>
+            <li>Reduction of code editting</li>
+          </ul>
+          <div>* In order to receive the full benefits of the Plugin Manager, other plugins need to be constructed to use the facilities on offer.
+          This generally requires the inclusion of a couple of files, such as config.php and setup.php, in the plugin folder, and possibly a language file.
+          Without these 'control' files the manager can only enable/disable other plugins, and then only if the appropriate code is inserted in the PHP files in the QC/plugins/ folder.
+          See <a href='#manage'>Plugin Developers</a> section.</div>
+          <div class='backtop'><a href='#topdoc' name='compatibility'>Top of Page</a></div>
+
+          <h2>Compatibility</h2>
+          <div>Quick.Cart versions prior to v1.0 : <em>Not</em> compatible.</div>
+          <div>Quick.Cart versions 1.0 upward : Compatible at the time of writing.</div>
+          <div>Other Plugins : With plugins <span class='italic'>of which I am aware</span>, there are no known issues.</div>
+          <div class='backtop'><a href='#topdoc' name='prerequisites'>Top of Page</a></div>
+
+          <h2>Prerequisites</h2>
+          <div>None, other than meeting the Quick.Cart <a href='#compatibility'>Compatibility</a> requirements.</div>
+          <div class='backtop'><a href='#topdoc' name='upgrade'>Top of Page</a></div>
+
+          <h2>Upgrade</h2>
+          <div>There is no upgrade path, since this is first release available for the compatible Quick.Cart versions.</div>
+          <div class='backtop'><a href='#topdoc' name='install'>Top of Page</a></div>
+
+          <h2>Install</h2>
+          <div>Where possible, the release folder is laid out in the correct folder structure to aid installation.</div>
+          <ol>
+            <li>Copy the entire pluginManager folder from the release/plugins/ folder into your Quick.Cart plugins/ folder.</li>
+            <li>Copy the contents of the release/templates/admin/ folder to your Quick.Cart templates/admin/ folder (2 new files: pluginManager.tpl and pluginManager.css).</li>
+            <li>Copy the contents of the release/templates/ folder to your Quick.Cart templates/ folder (1 new folder: themes; and 1 new file: pluginManager.tpl - <em>NOT</em> the admin folder!).</li>
+            <li>Edit file <span class='file'>plugins/actions_client.php</span>, copy 1 line below and paste to <span class='file'>plugins/actions_client.php</span> file, <em>above</em> any other installed plugins!:
+              <div class='code'><span class='tcode'>CODE</span><div class='pre'>
+                require DIR_PLUGINS.'pluginManager/actions_client.php';
+              </div></div>
+            </li>
+            <li>Edit file <span class='file'>plugins/actions_admin.php</span>, copy 1 line below and paste to <span class='file'>plugins/actions_admin.php</span> file, <em>above</em> any other installed plugins!:
+              <div class='code'><span class='tcode'>CODE</span><div class='pre'>
+                require DIR_PLUGINS.'pluginManager/actions_admin.php';
+              </div></div>
+            </li>
+            <li>Edit file <span class='file'>plugins/plugins.php</span>, copy 1 line below and paste to <span class='file'>plugins/plugins.php</span> file, <em>above</em> any other installed plugins!:
+              <div class='code'><span class='tcode'>CODE</span><div class='pre'>
+                require DIR_PLUGINS.'pluginManager/pluginManager.php';
+              </div></div>
+            </li>
+            <li>Copy the contents of the release/config/ folder to your Quick.Cart config/ folder (1 new file: plugins.php) and give it the same file permissions as general.php in that directory</li>
+            <li>Add a link in the admin menu bar to access the plugin manager. Please remember to make a copy of the template file <em>before</em> you change it!
+              <div>Edit <span class='file'>templates/admin/page.tpl</span> and ...</div>
+              Replace the 1 line below
+              <div class='code'><span class='tcode'>CODE</span><div class='pre'>
+                &lt;a class="menuButton" href="?p=otherConfig" &gt;$lang[configuration]&lt;/a&gt;
+              </div></div>
+              with
+              <div class='code'><span class='tcode'>CODE</span><div class='pre'>
+                &lt;a class="menuButton" href="?p=otherConfig"<br />&nbsp;&nbsp;&nbsp;onmouseover="return buttonClick(event, 'configuration'); buttonMouseover(event, 'configuration');"<br />&nbsp;&nbsp;&nbsp;&gt;$lang[configuration]&lt;/a&gt;
+              </div></div>
+              <br />Then look a couple of lines down from there, for a line containing just "<span class='inlineCode'>&lt;/div&gt;</span>",and immediately below this line paste the following 3 lines
+              <div class='code'><span class='tcode'>CODE</span><div class='pre'>
+                &lt;div id="configuration" class="menu" onmouseover="menuMouseover( event );"&gt;<br />
+                &nbsp;&nbsp;&nbsp;&lt;a class="menuItem" href="?p=pluginsEdit"&gt;&lt;span class="menuItemText">$lang[plugins]&lt;/span&gt;&lt;/a&gt;<br />
+                &lt;/div&gt;
+              </div></div>
+            </li>
+            <li>The Plugin Manager should now be accessible from the Admin menu as a 'plugins' option below the 'configuration' option.
+                <br />Select the 'plugins' option and hit 'Save' (whether you have made any changes or not!).
+            </li>
+          </ol>
+          <div class='backtop'><a href='#topdoc' name='guide'>Top of Page</a></div>
+
+          <h2>User Guide</h2>
+          <div>In the Admin control panel select the 'plugins' option:</div>
+          <ul>
+            <li>A list of the installed plugins is presented, with radio buttons indicating whether they are enabled or not.</li>
+            <li>For plugins set up with configuration options (in the plugin's own config.php file), a configuration button link will also be present to the right of the radio buttons.</li>
+            <li>At the far top right of the table of plugins, inline with the 'Plugin Manager' header, is a configuration button for the Plugin Manager itself.</li>
+            <li>Move the cursor over any plugin name and you will see any Setup information that has been made available (from the plugin's own setup.php file).</li>
+            <li>If an 'AboutThisPlugin.html' file exists in the plugin's folder, then a clickable image will be displayed between the plugin name and the radio buttons, which will open the HTML file in a new window.</li>
+            <li>Any error or warning messages (such as Version Mismatch) will be displayed to the far right of the plugin's row.</li>
+            <li>Always Save any changes!</li>
+          </ul>
+          <div>Click on the 'pluginManager Configuration' button (top right of table):</div>
+          <ul>
+            <li>The 'Plugins Data File' is an information-only field.</li>
+            <li>The 'Plugins to Ignore' field contains a list of plugins over which the Plugin Manager has no control.
+                It is pre-configured with 'edit' (the wysiwyg editors supplied with Quick.Cart), but the names of other plugins can be added if necessary.</li>
+            <li>'Version Checking' is a simple on/off field, and is primarily intended as a safeguard when installing new versions of plugins.
+                If enabled it will automatically disable a plugin if the version information in the plugin's Setup file does not match what has been
+                saved in the Plugins Data File. If such an event occurs you will see an error message against the offending plugin in the plugins list,
+                and be presented with a 'Reload Setup' button which will load and save the information from the plugin's Setup file. You should check
+                the plugins configuration (if there is any) before re-enabling it.<br />
+                If 'Version Checking' is disabled you will still be presented with error messages and reload buttons, but the offending plugin will not be automatically disabled.</li>
+            <li>Hover the cursor over any field label and you will see information about the variable and its format.</li>
+            <li>Hover the cursor over the Help link at the top right of the page and you will see general help information.</li>
+            <li>Always Save any changes!</li>
+          </ul>
+          <div>Not all plugins will have configurable parameters, and the configuration button will only be presented where the
+               plugin has been specifically set up for control by the Plugin Manager. Legacy plugins, and plugins not compatible with the
+               Plugin Manager, may still require editting of the <span class='file'>/config/general.php</span> file. Always check the instructions when installing new plugins!</div>
+          <div>Plugins that have not been set up to run under the Plugin Manager (ie. no setup.php file) can still be enabled/disabled (if appropriate) from the
+               Plugin Manager, with control over the plugin being effected by using the pluginIsEnabled() function in the plugin control files. For example,
+               if the plugin's installation instructions say to paste the following line into <span class='file'>/plugins/plugins.php</span> ...</div>
+          <div class='code'><span class='tcode'>CODE</span><div class='pre'>
+            require DIR_PLUGINS.'nameOfPlugin/nameOfPlugin.php';
+          </div></div>
+          <div>... then you simply replace it with</div>
+          <div class='code'><span class='tcode'>CODE</span><div class='pre'>
+            if(pluginIsEnabled('nameOfPlugin')){ require DIR_PLUGINS.'nameOfPlugin/nameOfPlugin.php'; }
+          </div></div>
+          <div>The same principle applies to the two other plugin control files - <span class='file'>/plugins/actions_admin.php</span> and <span class='file'>/plugins/actions_client.php</span>.</div>
+          <div class='backtop'><a href='#topdoc' name='themes'>Top of Page</a></div>
+
+          <h3>Themes</h3>
+          <div>The Plugin Manager brings back the concept of Themes, whereby different sets of template files an be switched between
+               as and when desired. The themes are held under a Themes Folder, below the Templates folder, and have the same format as
+               the 'default' Quick.Cart templates - ie. the shop templates at the top level, admin templates in an 'admin' sub-folder, and
+               images in an 'images' sub-folder.</div>
+          <div>For example, if you created a 'green' theme which required template file changes as well as CSS changes, then, using a themes
+               folder called 'themes' ...</div>
+          <ul>
+            <li>the shop template files and CSS file(s) would be in the <span class='file'>/templates/themes/green/</span> folder</li>
+            <li>the images (for both shop and admin) would be held in the <span class='file'>/templates/themes/green/images/</span> folder</li>
+            <li>the admin templates and CSS file(s) would be held in the <span class='file'>/template/themes/green/admin/</span> folder.</li>
+          </ul>
+          <div>The dropdown list in the Plugin Manager's configuration page allows selection of any installed and valid themes. Note that
+               a theme must contain at least one CSS file in order to be considered valid. Please also note that it is not necessary to
+               have an admin section for every theme; if an admin template file cannot be found in the current theme/admin folder then the
+               one from the 'default' admin folder will be used instead.</div>
+          <div>The default Quick.Cart theme will always be available under the heading 'Default', and the selection of a stylesheet from the
+               main Configuration page will reflect those stylesheets found in the currently selected theme.</div>
+          <div>One word of caution if you are contemplating using or providing themes: the configuration variable <span class='inlineCode'>$config['dir_tpl']</span>
+               is used in the default template files to link stylesheets and provide paths to images, but this will <em>not</em> provide the required path
+               when used in a theme template. You should use <span class='inlineCode'>$config['dir_theme']</span> instead, since this variable
+               will always hold the path to the current theme folder (including 'the 'default'). As with 'dir_tpl', you should provide the sub-folder
+               path extensions for admin/ and images/ when needed.</div>
+          <div class='backtop'><a href='#topdoc' name='maintmode'>Top of Page</a></div>
+
+          <h3>Maintenance Mode / Shop Status</h3>
+          <div>The Plugin Manager offers the ability to set a maintenance mode for your shop while you are upgrading it or rebuilding
+               your product base. the 'Shop Status' dropdown on the plugin's own configuration page offers 3 settings:</div>
+          <ul>
+            <li>Online - which is the default - means everything will function normally</li>
+            <li>Catalogue Only - will allow visitors to view all the products and content as usual, but they will not be able to place
+                any items in the Basket for purchase</li>
+            <li>Offline - prevents visitors from viewing (and thereby puchasing) any products; the category menus will still be visible, as will any content
+                pages</li>
+          </ul>
+          <div>Administration functionality is totally unaffected by any setting of this flag.</div>
+          <div class='backtop'><a href='#topdoc' name='language'>Top of Page</a></div>
+
+          <h2>Language</h2>
+          <div>By default this plugin is only supplied with an English language file - <span class='file'>/plugins/pluginManager/lang-en.php</span>.</div>
+          <div>If you wish to provide translations for your own language, copy lang-en.php to lang-[2-char-code].php (within the same folder), where [2-char-code] is the
+               recognised code for your language. For example, a Polish language file would be <span class='file'>/plugins/pluginManager/lang-pl.php</span>.</div>
+          <div>The Plugin Manager will automatically load the English file first, and then look for the language file in the Shop's configured language, so that the English text is always there as a backup.</div>
+          <div class='backtop'><a href='#topdoc' name='manage'>Top of Page</a></div>
+
+          <h2>Plugin Developers...</h2>
+          <div>To be controlled by the Plugin Manager, a plugin must have its own folder in the plugins folder (even if it doesn't need one!).</div>
+          <div>The Plugin Manager looks for config.php in the plugin's folder (ie. <span class='file'>/plugins/thisPluginName/config.php</span>) and provides the
+            ability to modify the settings held in that file. How the modification is presented and handled can be 'tweaked' by providing
+            instructions for the Plugin Manager, either from the config.php file itself, and/or from a lang file in the same
+            plugin folder, such as <span class='file'>/plugins/thisPluginName/lang-en.php</span> (for language-related settings only).</div>
+          <div>The Plugin Manager also uses a setup file (ie. <span class='file'>/plugins/thisPluginName/setup.php</span>), from which it
+               retrieves version and loading instructions.</div>
+          <div class='backtop'><a href='#topdoc' name='config'>Top of Page</a></div>
+
+          <h3>Config File</h3>
+          <div>Settings in the plugin's config.php, using $PMCI array variables, eg <span class='inlineCode'>$PMCI['paypalAccount']</span> for a config variable defined as <span class='inlineCode'>$config['paypalAccount']</span>:</div>
+          <table id='cfgsetting'>
+            <tr><td rowspan='6'>type</td><td colspan='2'>Specifies the form mechanism for modifying the data</td></tr>
+            <tr><td>'input[(n)]'</td><td>Default (except for booleans or format 'e'). If supplied, the (n) dictates the size of the input field</td></tr>
+            <tr><td>'radio(value=display [,value=display...])'</td><td>where value can be a number or string (eg. '2', 'two', 'true') and is the captured value,
+                    and display is the visible label.<br />Don't quote the value or display settings!</td></tr>
+            <tr><td>'checkbox[(value=display [,value=display...])]'</td><td>where value can be a number or string (eg. '2', 'two', 'true') and is the captured value,
+                    and display is the visible label.<br />For a simple on/off variable such as a boolean,
+                    you do not need to specify the (value=display), ie. just use 'checkbox' and it will
+                    show a single checkbox with no label, inferring the 'name' as its descriptor - this
+                    is actually the default for boolean variables!<br />Don't quote the value or display settings!</td></tr>
+            <tr><td>'select(value=display' [,value=display...])'</td><td>where value can be a number or string (eg. '2', 'two', 'true') and is the captured value,
+                    and display is the visible option in the dropdown. Don't quote the value or display settings!</td></tr>
+            <tr><td>'textarea[(rows,columns)]'</td><td>where rows and columns (including the containing brackets) are optional - the default is 4 rows by 40 columns.<br />
+                    Mandatory for format 'e'!</td></tr>
+            <tr><td rowspan='2'>format</td><td colspan='2'>This is the type of variable stored, and can be worked out in most cases by the application</td></tr>
+            <tr><td>'s' = string,<br />'b' = boolean (ie true/false),<br />'n' = number (integer or float)</td><td>
+                    Using these notations any quoting required is handled by the application (ie. string variables do not have to be quoted on input).<br />
+                    An expandable array of strings can be expressed as 's*'; a fixed array of 3 strings can be expressed as 's3';<br />
+                    a mixed array 1 string, 1 number, 2 booleans, and 1 last string should be expressed as 's,n,b,b,s' (or 's,n,b2,s');<br />
+                    A special type of 'e' is available for 'exact' representation, and input must include all quotes and array declarations exactly as if typing the declaration into the PHP file itself.<br />
+                    For example, an array of arrays cannot be handled by the application and so would have to be set to a format of 'e' (it will default to this if not set explicitly).<br />
+                    Note that the 'type' for an 'e' format must be textarea - if you do not specify it, it will be overridden and will use the default rows and columns</td></tr>
+            <tr><td>check</td><td colspan='2'>These are the parameters passed into the checkForm javascript routine if validation is required on the field.<br />
+                    Do not supply the field name (first parameter usually passed to the routine) since the application will provide that.<br />
+                    Subsequent parameters must be supplied, either as a string (for single parameters) or an array (of one or more parameters),
+                    eg 'check'=&gt;'simple', or 'check'=&gt;array('simple','Surname is a required field'), or 'check'=&gt;array('email').<br />
+                    The checkForm function offers validation of type simple, txt, float, int, email and regexp.<br />
+                    For the more advanced field validation see the <a href='#regexp'>Regular Expressions</a> section.</td></tr>
+            <tr><td>name</td><td colspan='2'>This is the visiable label for the field</td></tr>
+            <tr><td>alt</td><td colspan='2'>This is the alt and title string applied to the input field</td></tr>
+            <tr><td>text</td><td colspan='2'>This is the Hint that can be displayed alongside the actual input field, if you wish to provide detailed instructions on what values are or are not allowed</td></tr>
+            <tr><td>disable</td><td colspan='2'>This causes the application to only DISPLAY the referenced variable on the configuration page, so no values can be changed - useful
+                    for special variables that you do not want anyone to be able to modify through the Admin interface.<br />
+                    Example. <span class='inlineCode'>$PMCI['special_var']['disable'] = true;</span><br />
+                    Unless you specifically set up this variable, and with a value of true, it will always default to false, ie. all fields are modifiable unless specified otherwise.</td></tr>
+            <tr><td>hide</td><td colspan='2'>In case of problems, or if you have a variable that you really don't want Admin to even see the value of, then you can set
+                    this to true and the config variable will not be displayed or affected at all.<br />
+                    Example. <span class='inlineCode'>$PMCI['hidden_var']['hide'] = true;</span><br />
+                    Unless you specifically set up this variable, and with a value of true, it will always default to false, ie. all fields are visible unless specified otherwise.</td></tr>
+          </table>
+          <div>Example: Given config variables of ...</div>
+          <div class='code'><span class='tcode'>CODE</span><div class='pre'>
+            $config['paypal_live'] = true;<br />
+            $config['paypal_account'] = 'yourname@yoursite.com';<br />
+            $config['paypal_url']['test'] = 'https://www.sandbox.paypal.com/xclick/';<br />
+            $config['paypal_url']['live'] = 'https://www.paypal.com/xclick/';<br />
+            $config['paypal_currency'] = 'EUR';
+          </div></div>
+          <div>then the $PMCI array variables could be set to ...</div>
+          <div class='code'><span class='tcode'>CODE</span><div class='pre'>
+            <span>// use 2 radio buttons for boolean variable ...</span><br />
+            $PMCI['paypal_live']['type'] = 'radio(true=' . LANG_YES_SHORT . ',false=' . LANG_NO_SHORT . ')';<br />
+            $PMCI['paypal_account'] = array('type'=&gt;'input', 'name'=&gt;'PayPal Account', 'check'=&gt;array('email'), 'alt'=&gt;'PayPal Account');<br />
+            $PMCI['paypal_url']['test'] = array('name'=&gt;'Test URL', 'alt'=&gt;'Test URL');<br />
+            $PMCI['paypal_url']['live'] = array('name'=&gt;'Live URL', 'alt'=&gt;'Live URL', 'check'=&gt;'simple');<br />
+            <span>// radio buttons to select currency ...</span><br />
+            $PMCI['paypal_currency'] = array('type'=&gt;'radio(USD=USD,EUR=EUR,GBP=GBP,CAD=CAD,JPY=JPY)');
+          </div></div>
+          <div>... or ...</div>
+          <div class='code'><span class='tcode'>CODE</span><div class='pre'>
+            <span>// use dropdown select for boolean variable ...</span><br />
+            $PMCI['paypal_live']['type'] = 'select(true=Live,false=Test)';<br />
+            $PMCI['paypal_account']['name'] = $PMCI['paypal_account']['alt'] = 'PayPal Account';<br />
+            $PMCI['paypal_account']['check'] = 'email';<br />
+            $PMCI['paypal_url']['test']['name'] = $PMCI['paypal_url']['test']['alt'] = 'Test URL';<br />
+            $PMCI['paypal_url']['live']['name'] = $PMCI['paypal_url']['live']['alt'] = 'Live URL';<br />
+            $PMCI['paypal_url']['live']['check'] = 'simple';<br />
+            <span>// Modification of the Live URL disabled, but its still a mandatory field! ...</span><br />
+            $PMCI['paypal_url']['live']['disable'] = true;<br />
+            <span>// dropdown select ... </span><br />
+            $PMCI['paypal_currency']['type'] = 'select(USD=US Dollar,EUR=Euro,GBP=Sterling,CAD=Canadian Dollar,JPY=Yen)');
+          </div></div>
+          <br />
+          <div>The Plugin Manager can cope with 2 levels of $config variable, ie. <span class='inlineCode'>$config['one']=..</span>
+               and <span class='inlineCode'>$config['one']['two']=..</span>, but no more. Any further
+               levels would have to be of the form <span class='inlineCode'>$config['one']&nbsp;=&nbsp;array(array(..),&nbsp;array(..), ..);</span>.</div>
+          <div>Note that if you have defined something like <span class='inlineCode'>$config['paypal']['account']</span> then the instruction variable (in the config file)
+               becomes <span class='inlineCode'>$PMCI['paypal']['account']..</span>, BUT the language file equivalents become <span class='inlineCode'>$lang['PMCI']['paypal__account']..</span> (ie. you have to
+               join the 2 levels with a double underbar); see below.</div>
+          <div class='backtop'><a href='#topdoc' name='languagef'>Top of Page</a></div>
+
+          <h3>Language File</h3>
+          <div>The language files looked for are</div>
+          <ol class='alpha'>
+            <li>the english file, lang-en.php (ie. <span class='file'>/plugins/thisPluginName/lang-en.php</span>), and</li>
+            <li>the file for the site-defined language (ex. <span class='file'>/plugins/thisPluginName/lang-pl.php</span>)</li>
+          </ol>
+          <div>with the site-defined language overriding the english language file (the english language file is there as a default backup).</div>
+          <div>name, alt and text can be provided in the plugins language file (eg <span class='file'>lang-en.php</span>) by setting <span class='inlineCode'>$lang['PMCI']</span> array variables
+               eg. for a config variable <span class='inlineCode'>$config['paypal_account']</span> the language file could contain definitions of</div>
+          <div class='code'><span class='tcode'>CODE</span><div class='pre'>
+            $lang['PMCI']['paypal_account']['name'] = 'PayPal Account';<br />
+            $lang['PMCI']['paypal_account']['alt'] = 'PayPal Account';<br />
+            $lang['PMCI']['paypal_account']['text'] = 'Enter your PayPal Account identifier (an email address)';
+          </div></div>
+          <div>and for a config variable <span class='inlineCode'>$config['paypal']['account']</span> the language file could contain definitions of</div>
+          <div class='code'><span class='tcode'>CODE</span><div class='pre'>
+            $lang['PMCI']['paypal__account']['name'] = 'PayPal Account';<br />
+            $lang['PMCI']['paypal__account']['alt'] = 'PayPal Account';<br />
+            $lang['PMCI']['paypal__account']['text'] = 'Enter your PayPal Account identifier (an email address)';
+          </div></div>
+          <div>Note the double underbars in the second example.<br />
+               Note also, that values provided in the config file (using the $PMCI array variables) will override the language file settings (<span class='inlineCode'>$lang['PMCI']['..']</span>).</div>
+          <div class='backtop'><a href='#topdoc' name='setup'>Top of Page</a></div>
+
+          <h3>Setup File</h3>
+          <div>The Setup file holds the version number of the plugin, the files to auto-load, any prerequisite information,
+               and a language pre-load setting. The provision of a correctly configured Setup file
+               means that the 'require' entries in any of the three PHP plugin control files (<span class='file'>/plugins/plugins.php</span>,
+               <span class='file'>/plugins/actions_admin.php</span> and <span class='file'>/plugins/actions_client.php</span>)
+               do not have to be manually editted in by the installer - the Plugin Manager will do it automatically if the plugin is enabled.</div>
+          <div>The 'triggerDisabled' entry only has any meaning for Admin-type facilities where, for example, the main navigation menu has been editted
+               to add options to access new functionality (eg. the productAttributes plugin). Since it is possible to disable the plugin, but
+               the menu option will still be clickable, entering the <span class='inlineCode'>$p</span> page setting for the link into the
+               'triggerDisabled' array will cause Plugin Manager to intercept the call and redirect it to its main list page with an appropriate error message.</div>
+          <div>For example, the setup.php file (<span class='file'>/plugins/pluginmanager/setup.php</span>) for version 2.0 of the Plugin Manager looks like this ...</div>
+          <div class='code'><span class='tcode'>CODE</span><div class='pre'>
+            &lt;?php<br />
+            <span>/*</span><br />
+            <span>* setup.php for pluginManager</span><br />
+            <span>*/</span><br />
+            $setup = array( 'version'          =&gt; '2.0'<br />
+            &nbsp;&nbsp;, 'plugins.php'        =&gt; array()<br />
+            &nbsp;&nbsp;, 'actions_client.php' =&gt; array()<br />
+            &nbsp;&nbsp;, 'actions_admin.php'  =&gt; array()<br />
+            &nbsp;&nbsp;, 'prerequisites'      =&gt; array()<br />
+            &nbsp;&nbsp;, 'preloadLang'        =&gt; 0<br />
+            &nbsp;&nbsp;, 'triggerDisabled'    =&gt; array()<br />
+            &nbsp;&nbsp;);<br />
+            ?&gt;
+          </div></div>
+          <div>while a more complex one might look like ...</div>
+          <div class='code'><span class='tcode'>CODE</span><div class='pre'>
+            &lt;?php<br />
+            <span>/*</span><br />
+            <span>* setup.php for productAttributes</span><br />
+            <span>*/</span><br />
+            $setup = array( 'version'          =&gt; '2.0'<br />
+            &nbsp;&nbsp;, 'plugins.php'        =&gt; array('productAttributes.php')<br />
+            &nbsp;&nbsp;, 'actions_client.php' =&gt; array('actions_client.php')<br />
+            &nbsp;&nbsp;, 'actions_admin.php'  =&gt; array('actions_admin.php')<br />
+            &nbsp;&nbsp;, 'prerequisites'      =&gt; array('pluginManager v2.0+')<br />
+            &nbsp;&nbsp;, 'preloadLang'        =&gt; 2<br />
+            &nbsp;&nbsp;, 'triggerDisabled'    =&gt; array('attributesList','attributesForm')<br />
+            &nbsp;&nbsp;);<br />
+            ?&gt;
+          </div></div>
+          <div>The $setup array elements are:</div>
+          <ul>
+            <li><em>version</em> : text field indicating the current version of the plugin</li>
+            <li><em>plugins.php</em> : array of file names within the plugin's folder that have to be included into <span class='file'>/plugins/plugins.php</span></li>
+            <li><em>actions_client.php</em> : array of file names within the plugin's folder that have to be included into <span class='file'>/plugins/actions_client.php</span></li>
+            <li><em>actions_admin.php</em> : array of file names within the plugin's folder that have to be included into <span class='file'>/plugins/actions_admin.php</span></li>
+            <li><em>prerequisites</em> : text field indicating any other plugins (and version information) that this plugin is dependent upon in order to run correctly</li>
+            <li><em>preloadLang</em> : an integer indicating whether or not to pre-load the plugin's language file(s).
+                Allowed values are 0='<span class='italic'>no</span>', 1='<span class='italic'>only if plugin is enabled</span>', and 2='<span class='italic'>always</span>'.
+                The reason for this setting is that some plugins have to be 'hard-coded' into template files to a certain extent, such as templateEdit,
+                which requires the menu option to be placed in the admin menu template, and if the plugin is then disabled the layout of the shop would
+                distort or break if the language file was not still included. Also, some plugins may require the language file to be included <em>before</em> they themselves
+                are called into action and can include the language file for themselves. Therefore this setting allows the Plugin Manager to load the language file(s) on the plugin's behalf.</li>
+            <li><em>triggerDisabled</em> : array of <span class='inlineCode'>$p</span> page names (Admin side only) that, if the plugin is disabled, will be redirected to Plugin Manager's main page.</li>
+          </ul>
+          <div class='backtop'><a href='#topdoc' name='regexp'>Top of Page</a></div>
+
+          <h3>Regular Expressions Checking</h3>
+          <div>The checkForm javascript routine (as provided with this plugin, not the standard Quick.Cart version!) has the ability to perform regular expression checking on a field, as long as you provide the correct
+               expression to validate against! The instructions here apply to usage within the context of the Plugin Manager configuration instruction
+               set (they may differ slightly when writing the expression directly into a template definition file).</div>
+          <ul>
+            <li>Don't include the start and end delimiters - they are not needed.</li>
+            <li>If you need a dollar sign in the expression (for 'ends with', for example) you need to use another variable to get around the template
+                parsing, so I've provided one defined as <span class='inlineCode'>$lang['PMdollar']</span>.</li>
+            <li>Because you are parsing through PHP and Javascript, if you need to escape <em>anything</em> with backslashes you also have to escape those
+                backslashes with more backslashes (twice!) to get the requisite escaping all the way through to the javascript regular expression.</li>
+          </ul>
+          <div>For example: To check for a valid 2 decimal place price, the regular expression might normally resemble <span class='inlineCode'>'/^[0-9]+\.[0-9]{2}$/'</span>. Basically this
+               breaks down to "one or more leading digits, followed by a period, and terminating in 2 digits". To get the checkForm routine to perform
+               this validation on a field in the Plugin Manager Configuration facility you need to define 'check' as follows:</div>
+          <div class='code'><span class='tcode'>CODE</span><div class='pre'>
+            $PMCI['newPriceField']['check'] = array('regexp','^[0-9]+\\\\.[0-9]{2}$lang[PMdollar]','','Specific error message for the field');
+          </div></div>
+          <div>(If you don't have a specific error message you want to display then omit the last 2 parameters.)</div>
+          <div>Note that the backslash for the period has itself been escaped, and then both those have again been escaped, the reason being that
+               PHP will parse the 4 backslashes down to 2, and Javascript will then parse the 2 down to 1, which is the one needed to escape the
+               period in the final regular expression.</div>
+          <div>Also note that the dollar sign (indicating 'ends with') will be provided by the template parser substituting the value of
+               <span class='inlineCode'>$lang['PMdollar']</span> for <span class='inlineCode'>$lang[PMDollar]</span>.</div>
+          <div>An alternative for the above, using \d instead of [0-9] (and without a specific error message) would be</div>
+          <div class='code'><span class='tcode'>CODE</span><div class='pre'>
+            $PMCI['newPriceField']['check'] = array('regexp','^\\\\d+\\\\.\\\\d{2}$lang[PMdollar]');
+          </div></div>
+          <div>A question could be raised as to why the Plugin Manager doesn't do the dollar-substitution itself - and I did consider it. However,
+               not doing it means that the regular expression can be made to use variables if you wish it to, instead of being a fixed
+               expression. Also, it may be that the expression needs to test specifically for '$' within the field value. If the Plugin Manager were
+               to do, say, 'ends-with' substitution of $, but not mid-expression substitution, it just leads to confusion as to what will or won't be
+               substituted automatically. Therefore, I have left it entirely to you!</div>
+          <div class='backtop'><a href='#topdoc' name='extendtpl'>Top of Page</a></div>
+
+          <h3>Extended TPL Parser</h3>
+          <div>The Plugin Manager includes a class extension to the standard TPL Parser, which enables intercepts to be placed
+               on $tpl method calls. A more comprehensive explanation, with examples, is available at the top of the include file
+               <span class='file'>/plugins/pluginManager/extendTplParser.class.php</span> but what it basically provides is:</div>
+          <ul>
+            <li>All four calls to dump/return files/blocks from template files (eg. <span class='inlineCode'>$tpl-&gt;tbHtml([fileName], [blockName])</span>
+                are received by the class extension</li>
+            <li>The extension checks to see if an intercept has been set up for that [FileName] and/or [blockName] and will substitute file and/or
+                block as instructed</li>
+            <li>The extension provides for conditional substitution - based on a boolean returned returned form a specified function -
+                and 'run-before' functions which can be used to set up or modify global variables used by the template about to be called</li>
+            <li>The intercept can specify another tpl call to append to the output of the activating call</li>
+            <li>Four extra calls have been provided which bypass the intercept functionality (eg.
+                <span class='inlineCode'>$tpl-&gt;<em>x</em>tbHtml([fileName], [blockName])</span> - note the 'x' - so that, for example, a plugin
+                can initiate a $tpl method call without the possibility of it being intercepted by some other plugin's intercept</li>
+          </ul>
+          <div>The above probably sounds like gobbledy-gook but it makes plugin development considerably easier, and vastly simplifies
+               installation procedures. Please take a look at the include file, and investigate other plugins to see how they utilise
+               the extended class.</div>
+          <div class='backtop'><a href='#topdoc' name='trawler'>Top of Page</a></div>
+
+          <h3>DOM Trawler</h3>
+          <div>I have included a JavaScript function for run-time searching of the HTML DOM tree. I originally constructed it as
+               a means of avoiding having to replicate template files, purely in order to add a reference to, say, a global variable.</div>
+          <div>The file is <span class='file'>/pluginManager/trawler.js</span> and the only function it contains is <span class='inlineCode'>trawlDOM()</span>.
+               The function returns either a node object, or boolean false if it can't find a node matching the search criteria specified.</div>
+          <div class='code'><span class='tcode'>PARAMETERS</span><div class='pre'>
+             <span>/**</span><br />
+             <span>* Recursively searches for a &lt;TAG&gt; node (note the case!), optionally with attribute &lt;att&gt;=&lt;attVal&gt; and to a specified level of child nodes</span><br />
+             <span>* @return object node or false if not found</span><br />
+             <span>* @param object starting node</span><br />
+             <span>* @param string tag to search for (uppercase!)</span><br />
+             <span>* @param string optional attribute name to search for (lowercase!)</span><br />
+             <span>* @param string optional attribute value</span><br />
+             <span>* @param integer number of child levels to search through (0 = just this level, default is all)</span><br />
+             <span>* @param integer current level (recursive use only)</span><br />
+             <span>*/</span>
+          </div></div>
+          <div>Some examples of possible usage might be ...</div>
+          <div class='code'><span class='tcode'>CODE</span><div class='pre'>
+            if(document.getElementById('addcart')){<br />
+            &nbsp;&nbsp;var ac=document.getElementById('addcart');<br />
+            &nbsp;&nbsp;<span>/* starting from first child of id=addcart (and searching all sub-levels), find INPUT type=submit */</span><br />
+            &nbsp;&nbsp;var ns=trawlDOM(ac.firstChild,'INPUT','type','submit');<br />
+            &nbsp;&nbsp;if(ns){<br />
+            &nbsp;&nbsp;&nbsp;&nbsp;<span>/* if found, create and insert new DIV with id=attrSelect ...*/</span><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;var nw=ns.parentNode.insertBefore(document.createElement('DIV'),ns);<br />
+            &nbsp;&nbsp;&nbsp;&nbsp;nw.setAttribute('id','attrSelect'); &nbsp;&nbsp;<span>// set the DIV id</span><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;nw.innerHTML='.......'; &nbsp;&nbsp;<span>// set the DIV content</span><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;......
+          </div></div>
+          <div class='code'><span class='tcode'>CODE</span><div class='pre'>
+            if(document.getElementById('addcart')){<br />
+            &nbsp;&nbsp;var ac=document.getElementById('addcart');<br />
+            &nbsp;&nbsp;<span>/* starting from id=addcart (and keeping to that level only), find the first class=clear DIV ... */</span><br />
+            &nbsp;&nbsp;var ns=trawlDOM(ac,'DIV','class','clear',0);<br />
+            &nbsp;&nbsp;<span>/* ... then the next DIV following that ... */</span><br />
+            &nbsp;&nbsp;if(ns &amp;&amp; ns.nextSibling){ ns=trawlDOM(ns.nextSibling,'DIV',false,false,0); }<br />
+            &nbsp;&nbsp;if(ns){<br />
+            &nbsp;&nbsp;&nbsp;&nbsp;<span>/* if found, create another new div (id=attrPrint) below class=clear DIV ... */</span><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;var nw=ns.parentNode.insertBefore(document.createElement('DIV'),ns);<br />
+            &nbsp;&nbsp;&nbsp;&nbsp;nw.setAttribute('id','attrPrint'); &nbsp;&nbsp;<span>// set the DIV id</span><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;nw.innerHTML='.......'; &nbsp;&nbsp;<span>// set the DIV content</span><br />
+            &nbsp;&nbsp;&nbsp;&nbsp;......
+          </div></div>
+          <div class='backtop'><a href='#topdoc'>Top of Page</a></div>
+
+          <div id='theend'>~~ The End ~~</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class='clear'>&nbsp;</div>
+</body>
+</html>

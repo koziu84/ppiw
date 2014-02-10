@@ -1,0 +1,4 @@
+RewriteEngine On
+
+RewriteCond %{HTTPS} !^on$
+RewriteRule /admin/?(index.php)? https://%{HTTP_HOST}/$1 [R]
